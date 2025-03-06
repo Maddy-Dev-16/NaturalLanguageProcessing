@@ -1,0 +1,2001 @@
+Sentence: did stephen obey his sign ?
+Perplexity : 1.118033988749895
+Sentence: there may be , it is true , some questions which science can not answer—at present—such as the first problem submitted by mr l. bloom ( pubb .
+Perplexity : 1.0565168527221365
+Sentence: she was in a soft clinging white in a studied attitude and the gentleman was in chocolate and he looked a thorough aristocrat .
+Perplexity : 1.0030956594922025
+Sentence: how can they like the sea ?
+Perplexity : 1.0158012922218453
+Sentence: it ’ s the whole pie with jam in .
+Perplexity : 1.0590329126705473
+Sentence: no , something top notch , an all star irish caste , the tweedy-flower grand opera company with his own legal consort as leading lady as a sort of counterblast to the elster grimes and moody-manners , perfectly simple matter and he was quite sanguine of success , providing puffs in the local papers could be managed by some fellow with a bit of bounce who could pull the indispensable wires and thus combine business with pleasure .
+Perplexity : 1.0251523523096933
+Sentence: <s> —what is it ?
+Perplexity : 0.7824607964359516
+Sentence: the lodge of diamond in armagh the splendid behung with corpses of papishes .
+Perplexity : 1.118033988749895
+Sentence: begin all right : then hear chords a bit off : feel lost a bit .
+Perplexity : 1.0719437157286082
+Sentence: —history , stephen said , is a nightmare from which i am trying to awake .
+Perplexity : 1.0192057657804454
+Sentence: yes , bread of angels it ’ s called .
+Perplexity : 0.7470560349809487
+Sentence: ) _ patrice : _socialiste ! _ don emile patrizio franz rupert pope hennessy : _ ( in medieval hauberk , two wild geese volant on his helm , with noble indignation points a mailed hand against the privates .
+Perplexity : 1.0172162513351397
+Sentence: that ’ s the maxim of the law .
+Perplexity : 0.8686780822145447
+Sentence: —can you send them by tram ?
+Perplexity : 1.118033988749895
+Sentence: <s> <s> —whose god ?
+Perplexity : 1.118033988749895
+Sentence: <s> poor papa too .
+Perplexity : 1.118033988749895
+Sentence: ) _ and words .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> for me .
+Perplexity : 0.6297893420697236
+Sentence: it ’ s a secret .
+Perplexity : 1.170173659660358
+Sentence: <s> like you men .
+Perplexity : 1.0540925533894598
+Sentence: ) _ the bird that can sing and won ’ t sing .
+Perplexity : 0.9912628895086825
+Sentence: hundred shillings to five .
+Perplexity : 1.0540925533894598
+Sentence: four buglers on foot blow a sennet .
+Perplexity : 1.118033988749895
+Sentence: and these , the stoneheaps of dead builders , a warren of weasel rats .
+Perplexity : 1.028594837606009
+Sentence: round to menton ’ s office .
+Perplexity : 0.6475015244692668
+Sentence: trams passed one another , ingoing , outgoing , clanging .
+Perplexity : 1.118033988749895
+Sentence: the rows of casteele .
+Perplexity : 1.118033988749895
+Sentence: always off to a fellow when they are .
+Perplexity : 1.0610372435030315
+Sentence: ) _ on coronation day , on coronation day , o , won ’ t we have a merry time , drinking whisky , beer and wine !
+Perplexity : 1.0052415477947292
+Sentence: want to get some wind off my chest first .
+Perplexity : 1.118033988749895
+Sentence: <s> no passout checks .
+Perplexity : 1.118033988749895
+Sentence: where were the several members of the company which with bloom that day at the bidding of that peal had travelled from sandymount in the south to glasnevin in the north ?
+Perplexity : 0.9288273064816094
+Sentence: <s> <s> <s> neither .
+Perplexity : 1.118033988749895
+Sentence: walk after him now make him awkward like those newsboys me today .
+Perplexity : 1.103497599868736
+Sentence: sorry i didn ’ t work him about getting molly into the choir instead of that father farley who looked a fool but wasn ’ t .
+Perplexity : 0.9825635064204203
+Sentence: leanjawed harpy , hard woman at a bargain , her bonnet awry .
+Perplexity : 1.0931308695799964
+Sentence: a drenching of that violence , he tells me , _sans blague_ , has sent more than one luckless fellow in good earnest posthaste to another world .
+Perplexity : 1.0622482522128116
+Sentence: cuck mulligan clucked lewdly .
+Perplexity : 1.118033988749895
+Sentence: out quickly , quickly !
+Perplexity : 1.118033988749895
+Sentence: to be short this passage was scarce by when master dixon of mary in eccles , goodly grinning , asked young stephen what was the reason why he had not cided to take friar ’ s vows and he answered him obedience in the womb , chastity in the tomb but involuntary poverty all his days .
+Perplexity : 1.001323303040405
+Sentence: _ ( zoe whispers to florry .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> dignam .
+Perplexity : 1.0
+Sentence: _ ( she tosses a piece .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> wait .
+Perplexity : 1.0
+Sentence: gerty : _ ( to bloom .
+Perplexity : 0.882057648953541
+Sentence: —he ’ s in with a lowdown crowd , mr dedalus snarled .
+Perplexity : 0.9434679631771867
+Sentence: —here you are , says alf , chucking out the rhino .
+Perplexity : 0.9911857239852307
+Sentence: * * * as they trod across the thick carpet buck mulligan whispered behind his panama to haines : —parnell ’ s brother .
+Perplexity : 1.0156604963714437
+Sentence: <s> glass of bitter ?
+Perplexity : 1.118033988749895
+Sentence: ) _ most of us thought as much .
+Perplexity : 1.1049426930055999
+Sentence: first watch : _ ( takes out his notebook .
+Perplexity : 0.923157182400532
+Sentence: all sides of life should be represented .
+Perplexity : 1.1016938909099516
+Sentence: lady in the case .
+Perplexity : 1.118033988749895
+Sentence: <s> —the school kip ?
+Perplexity : 1.118033988749895
+Sentence: <s> buckled he is .
+Perplexity : 0.739509972887452
+Sentence: he died quite suddenly , poor fellow .
+Perplexity : 1.118033988749895
+Sentence: —sceptre will win in a canter , he said .
+Perplexity : 0.6843208859555733
+Sentence: <s> as i am .
+Perplexity : 1.118033988749895
+Sentence: somnolent invocation , less somnolent recognition , incipient excitation , catechetical interrogation .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> flipperty jippert .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> which .
+Perplexity : 1.118033988749895
+Sentence: i ’ m going to get rid of you .
+Perplexity : 0.9766256928085704
+Sentence: he raised his eyes and met the stare of a bilious clock .
+Perplexity : 1.0143815363601587
+Sentence: <s> <s> <s> stop .
+Perplexity : 1.1952286093343936
+Sentence: always warm from her .
+Perplexity : 0.8944271909999159
+Sentence: _ ( she dies .
+Perplexity : 1.118033988749895
+Sentence: i ’ ve been through the hoop myself .
+Perplexity : 1.0542115158568748
+Sentence: negro servants in livery too if she had money .
+Perplexity : 1.0808880985005265
+Sentence: one bent to pluck from the haft a long tuft of grass .
+Perplexity : 1.0053075492304375
+Sentence: or was that i ?
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> —monks !
+Perplexity : 1.118033988749895
+Sentence: a private wireless telegraph which would transmit by dot and dash system the result of a national equine handicap ( flat or steeplechase ) of 1 or more miles and furlongs won by an outsider at odds of 50 to 1 at 3 hr 8 m p.m. at ascot ( greenwich time ) , the message being received and available for betting purposes in dublin at 2.59 p.m. ( dunsink time ) .
+Perplexity : 1.071036598143304
+Sentence: <s> come across yourself .
+Perplexity : 1.0540925533894598
+Sentence: ( he stops , points at lynch ’ s cap , smiles , laughs .
+Perplexity : 0.9583554923756572
+Sentence: the walls are tapestried with a paper of yewfronds and clear glades .
+Perplexity : 1.0467643074060438
+Sentence: one rapped , one tapped , with a carra , with a cock .
+Perplexity : 0.9177002970855442
+Sentence: he turned northeast and crossed the firmer sand towards the pigeonhouse .
+Perplexity : 1.1098338683043714
+Sentence: <s> distance no object .
+Perplexity : 1.118033988749895
+Sentence: small whisky and bottle of allsop .
+Perplexity : 1.118033988749895
+Sentence: je ne crois pas en l ’ existence de dieu .
+Perplexity : 1.118033988749895
+Sentence: why do you call me naught ?
+Perplexity : 1.118033988749895
+Sentence: how many broken hearts are buried here , simon !
+Perplexity : 1.1071138817952288
+Sentence: love and war someone is .
+Perplexity : 0.9092839406410325
+Sentence: —our young irish bards , john eglinton censured , have yet to create a figure which the world will set beside saxon shakespeare ’ s hamlet though i admire him , as old ben did , on this side idolatry .
+Perplexity : 1.0249437682402853
+Sentence: somewhere to someone in your flutiest voice .
+Perplexity : 1.0200234617752448
+Sentence: dollard , was it ?
+Perplexity : 0.7824607964359516
+Sentence: how ’ s that for high ?
+Perplexity : 1.1014598275022531
+Sentence: <s> voices : police !
+Perplexity : 1.118033988749895
+Sentence: gravediggers bury hamlet _père_ and hamlet _fils._ a king and a prince at last in death , with incidental music .
+Perplexity : 1.0489326019493017
+Sentence: haines spoke to her again a longer speech , confidently .
+Perplexity : 1.118033988749895
+Sentence: it fell on the path .
+Perplexity : 1.0540925533894598
+Sentence: sheet of her music blew out of my hand against the high school railings .
+Perplexity : 1.0424966568325524
+Sentence: _ta an bad ar an tir .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> meant nothing .
+Perplexity : 1.0540925533894598
+Sentence: red rails fly spacewards .
+Perplexity : 1.118033988749895
+Sentence: a warm tingling glow without effusion .
+Perplexity : 1.118033988749895
+Sentence: take her for me .
+Perplexity : 0.6297893420697236
+Sentence: <s> not for sale .
+Perplexity : 1.118033988749895
+Sentence: always at home at dinnertime .
+Perplexity : 1.118033988749895
+Sentence: wonder what her father gave for it .
+Perplexity : 0.9413047664042772
+Sentence: t. waters , c. c. ; the rev .
+Perplexity : 1.0279753227987716
+Sentence: from the door of the red bank the white disc of a straw hat flashed reply : spruce figure : passed .
+Perplexity : 0.9844624247483587
+Sentence: snug little room that was with the red wallpaper .
+Perplexity : 0.9586985835959857
+Sentence: <s> <s> <s> children .
+Perplexity : 1.118033988749895
+Sentence: i ’ m told for a fact he ate a good part of the breeches off a constabulary man in santry that came round one time with a blue paper about a licence .
+Perplexity : 0.998711008294785
+Sentence: best of best brothers .
+Perplexity : 1.118033988749895
+Sentence: kept her voice up to the very last .
+Perplexity : 0.8805553293378198
+Sentence: ) _ punarjanam patsypunjaub !
+Perplexity : 1.118033988749895
+Sentence: ) _ jimmy henry : the court of conscience is now open .
+Perplexity : 1.0369723233112478
+Sentence: the resurrection and the life .
+Perplexity : 1.118033988749895
+Sentence: _ ( the brass quoits of a bed are heard to jingle .
+Perplexity : 0.991787174705763
+Sentence: double ess ment of a harassed pedlar while gauging au the symmetry with a y of a peeled pear under a cemetery wall .
+Perplexity : 0.9914598785277611
+Sentence: scaring eavesdropping boots croppy bootsboy bloom in the ormond hallway heard the growls and roars of bravo , fat backslapping , their boots all treading , boots not the boots the boy .
+Perplexity : 1.0501463554445365
+Sentence: whether on the scaffold high .
+Perplexity : 1.118033988749895
+Sentence: gob , he golloped it down like old boots and his tongue hanging out of him a yard long for more .
+Perplexity : 1.0415046501144554
+Sentence: how ’ s that for a national press , eh , my brown son !
+Perplexity : 1.0298830849788225
+Sentence: davy byrne : _ ( yawning .
+Perplexity : 0.7456231245919327
+Sentence: gentle sweet air blew round the bared heads in a whisper .
+Perplexity : 0.9869883985042183
+Sentence: you could go back perhaps , he hasarded , still thinking of the very unpleasant scene at westland row terminus when it was perfectly evident that the other two , mulligan , that is , and that english tourist friend of his , who eventually euchred their third companion , were patently trying as if the whole bally station belonged to them to give stephen the slip in the confusion , which they did .
+Perplexity : 1.001011921942882
+Sentence: ) _ come and wipe your name off the slate .
+Perplexity : 1.0624615750792652
+Sentence: <s> valise tack again .
+Perplexity : 0.8944271909999159
+Sentence: <s> <s> —to whom ?
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> no .
+Perplexity : 0.8247860988423225
+Sentence: <s> scowl or smile .
+Perplexity : 1.118033988749895
+Sentence: man loves her yoni fiercely with big lingam , the stiff one .
+Perplexity : 0.9623911454943455
+Sentence: ah , you mean it ’ s after twelve !
+Perplexity : 0.7544246823597461
+Sentence: amn ’ t i your girl ?
+Perplexity : 1.1209723763539357
+Sentence: * * * katey and boody dedalus shoved in the door of the closesteaming kitchen .
+Perplexity : 0.8498630031028881
+Sentence: blazes boylan ’ s smart tan shoes creaked on the barfloor , said before .
+Perplexity : 1.025014848509758
+Sentence: her friend covering the display of .
+Perplexity : 1.0656924371131133
+Sentence: _deus in adiutorium._ he walked calmly and read mutely the nones , walking and reading till he came to _res_ in _beati immaculati : principium verborum tuorum veritas : in eternum omnia iudicia iustitiæ tuæ._ a flushed young man came from a gap of a hedge and after him came a young woman with wild nodding daisies in her hand .
+Perplexity : 1.0862207255191676
+Sentence: reclaim the whole place .
+Perplexity : 1.118033988749895
+Sentence: <s> nightdress was never .
+Perplexity : 1.118033988749895
+Sentence: the navvy : _ ( gripping the two redcoats , staggers forward with them .
+Perplexity : 0.9904266793153751
+Sentence: <s> <s> <s> blmstup .
+Perplexity : 1.118033988749895
+Sentence: i ’ ll pay you back one time .
+Perplexity : 1.0243158250055178
+Sentence: <s> <s> parlour magic .
+Perplexity : 1.118033988749895
+Sentence: i ’ ll tell ... bello : hold him down , girls , till i squat on him .
+Perplexity : 1.0733114023494712
+Sentence: <s> <s> sadly missed .
+Perplexity : 1.118033988749895
+Sentence: for they garner the succulent berries of the hop and mass and sift and bruise and brew them and they mix therewith sour juices and bring the must to the sacred fire and cease not night or day from their toil , those cunning brothers , lords of the vat .
+Perplexity : 1.029360917834598
+Sentence: used to change three suits in the day .
+Perplexity : 0.8565867662573347
+Sentence: beneath this he wore trews of deerskin , roughly stitched with gut .
+Perplexity : 1.118033988749895
+Sentence: ) _ i possess the indian sign .
+Perplexity : 1.118033988749895
+Sentence: zoe : _ ( flattered .
+Perplexity : 1.118033988749895
+Sentence: faut pas le dire à mon père._ _—il croit ? _ _—mon père , oui._ _schluss_ .
+Perplexity : 1.118033988749895
+Sentence: out he goes again .
+Perplexity : 0.8944271909999159
+Sentence: perfectly right that is .
+Perplexity : 0.739509972887452
+Sentence: the van of the procession appears headed by john howard parnell , city marshal , in a chessboard tabard , the athlone poursuivant and ulster king of arms .
+Perplexity : 1.00071369620707
+Sentence: first sweet then savoury .
+Perplexity : 1.118033988749895
+Sentence: <s> klook klook klook .
+Perplexity : 1.118033988749895
+Sentence: smelling the tail end of ports .
+Perplexity : 1.0963004341524454
+Sentence: my belief is , to tell you the candid truth , that those bits were genuine forgeries all of them put in by monks most probably or it ’ s the big question of our national poet over again , who precisely wrote them like _hamlet_ and bacon , as , you who know your shakespeare infinitely better than i , of course i needn ’ t tell you .
+Perplexity : 1.0063515068213988
+Sentence: ) _ stephen : _pas seul ! _ _ ( he wheels kitty into lynch ’ s arms , snatches up his ashplant from the table and takes the floor .
+Perplexity : 0.9134601075324148
+Sentence: bloowhose dark eye read aaron figatner ’ s name .
+Perplexity : 0.8145371919608129
+Sentence: i have sixteen years of black slave labour behind me .
+Perplexity : 1.0272490160859207
+Sentence: <s> <s> <s> —where ?
+Perplexity : 1.118033988749895
+Sentence: he says it ’ s very clever .
+Perplexity : 0.7429462913800519
+Sentence: high on ben howth rhododendrons a nannygoat walking surefooted , dropping currants .
+Perplexity : 1.118033988749895
+Sentence: liverpool ring which jockeyed the galway harbour scheme .
+Perplexity : 1.118033988749895
+Sentence: only my new hat and a carriage sponge .
+Perplexity : 1.0008810544094362
+Sentence: <s> <s> thank you .
+Perplexity : 0.739509972887452
+Sentence: <s> <s> —onehandled adulterer !
+Perplexity : 1.118033988749895
+Sentence: something in all those superstitions because when you go out never know what dangers .
+Perplexity : 1.1035092375516342
+Sentence: necessity is that in virtue of which it is impossible that one can be otherwise .
+Perplexity : 1.0694116385332981
+Sentence: <s> they always know .
+Perplexity : 1.0540925533894598
+Sentence: dolphin ’ s barn , the charades .
+Perplexity : 0.857924124851233
+Sentence: ) _ the watch : bloom .
+Perplexity : 0.9214834277064292
+Sentence: think you ’ re escaping and run into yourself .
+Perplexity : 1.1071138817952288
+Sentence: <s> <s> <s> standing ?
+Perplexity : 1.118033988749895
+Sentence: funerals all over the world everywhere every minute .
+Perplexity : 1.0567147065806408
+Sentence: who gave it to you ?
+Perplexity : 0.9709835434146469
+Sentence: you can do me a favour , mr dedalus , with some of your literary friends .
+Perplexity : 0.9987884869970434
+Sentence: ) _ a voice : _ ( sharply .
+Perplexity : 0.7374980918864928
+Sentence: and the skulls we were acracking when m ’ carthy took the floor .
+Perplexity : 1.0274981451737393
+Sentence: what they called nymphs , for example .
+Perplexity : 1.0785434965163085
+Sentence: <s> <s> electric dishscrubbers .
+Perplexity : 1.118033988749895
+Sentence: or even hear of it .
+Perplexity : 0.7366537571853967
+Sentence: the language of course was another thing .
+Perplexity : 1.0855926040543844
+Sentence: people were so queer .
+Perplexity : 1.118033988749895
+Sentence: he turned over the smudged pages .
+Perplexity : 1.118033988749895
+Sentence: bloowho went by by moulang ’ s pipes bearing in his breast the sweets of sin , by wine ’ s antiques , in memory bearing sweet sinful words , by carroll ’ s dusky battered plate , for raoul .
+Perplexity : 0.9293890846211853
+Sentence: letters read out for breach of promise .
+Perplexity : 1.118033988749895
+Sentence: he came towards them at an amble , scratching actively behind his coattails .
+Perplexity : 1.1114690667765348
+Sentence: —we thought you were someone else .
+Perplexity : 1.118033988749895
+Sentence: a pleasant smile broke quietly over his lips .
+Perplexity : 1.0542115158568748
+Sentence: <s> bulldosing the public !
+Perplexity : 1.118033988749895
+Sentence: what a pity the government did not supply our men with wonderworkers during the south african campaign !
+Perplexity : 1.113340815346891
+Sentence: <s> <s> curtain up .
+Perplexity : 1.0540925533894598
+Sentence: —cry you mercy , gentlemen , he said humbly .
+Perplexity : 0.8950519916746006
+Sentence: better be careful not to get these trousers dirty for the funeral .
+Perplexity : 1.0049398901732738
+Sentence: chickens come home to roost .
+Perplexity : 1.118033988749895
+Sentence: <s> alexander j. keyes .
+Perplexity : 1.118033988749895
+Sentence: <s> ) _ leopardstown .
+Perplexity : 1.118033988749895
+Sentence: ) _ whereas leopold bloom of no fixed abode is a wellknown dynamitard , forger , bigamist , bawd and cuckold and a public nuisance to the citizens of dublin and whereas at this commission of assizes the most honourable ... _ ( his honour , sir frederick falkiner , recorder of dublin , in judicial garb of grey stone rises from the bench , stonebearded .
+Perplexity : 1.0238725806333855
+Sentence: he holds my follies hostage .
+Perplexity : 1.118033988749895
+Sentence: could make a kind of pun on that .
+Perplexity : 1.0431625971631437
+Sentence: —how is the main drainage ?
+Perplexity : 1.118033988749895
+Sentence: i see them pop off every day in the mater and richmond and cut up into tripes in the dissectingroom .
+Perplexity : 0.9625311092097957
+Sentence: he is the ghost and the prince .
+Perplexity : 0.9954928071909581
+Sentence: <s> —hello , ned .
+Perplexity : 1.118033988749895
+Sentence: that is why the speech ( his lean unlovely english ) is always turned elsewhere , backward .
+Perplexity : 1.106605714989386
+Sentence: land of the setting sun this .
+Perplexity : 1.0963004341524454
+Sentence: quite dark , regular brunette , black .
+Perplexity : 1.118033988749895
+Sentence: he scrambled up by the stones , water glistening on his pate and on its garland of grey hair , water rilling over his chest and paunch and spilling jets out of his black sagging loincloth .
+Perplexity : 1.0362590044594102
+Sentence: you ’ re in for it this time !
+Perplexity : 1.0920046860038557
+Sentence: <s> <s> umpteen millions .
+Perplexity : 1.118033988749895
+Sentence: ) _ can you do a man ’ s job ?
+Perplexity : 0.8426791360177639
+Sentence: rather upsets a man ’ s day , a funeral does .
+Perplexity : 0.7545699719807488
+Sentence: mr stephen , a little moved but very handsomely told him no such matter and that he had dispatches from the emperor ’ s chief tailtickler thanking him for the hospitality , that was sending over doctor rinderpest , the bestquoted cowcatcher in all muscovy , with a bolus or two of physic to take the bull by the horns .
+Perplexity : 0.9742061056988375
+Sentence: i ’ ll teach you to behave like a jinkleman !
+Perplexity : 1.0624615750792652
+Sentence: <s> <s> <s> thumping .
+Perplexity : 1.118033988749895
+Sentence: and last , beneath a canopy of cloth of gold came the reverend father o ’ flynn attended by malachi and patrick .
+Perplexity : 1.082575563240654
+Sentence: an ivory bookmark told him the page .
+Perplexity : 1.0627805533186547
+Sentence: it was then a new movement .
+Perplexity : 1.0963004341524454
+Sentence: <s> <s> health all !
+Perplexity : 1.118033988749895
+Sentence: we know nothing but that he lived and suffered .
+Perplexity : 1.0267866534130576
+Sentence: possible , especially there , it was as she lived there .
+Perplexity : 0.9217084124631828
+Sentence: —no , uncle richie ... —call me richie .
+Perplexity : 1.118033988749895
+Sentence: meseems it dureth overlong .
+Perplexity : 1.118033988749895
+Sentence: stephen turned boldly in his chair .
+Perplexity : 0.9429863870292697
+Sentence: _ ( he executes a daredevil salmon leap in the air and is engulfed in the coalhole .
+Perplexity : 0.9282195401546924
+Sentence: <s> <s> <s> who ?
+Perplexity : 1.118033988749895
+Sentence: his image , wandering , he met .
+Perplexity : 0.8982231563448827
+Sentence: <s> sweets of sin .
+Perplexity : 1.118033988749895
+Sentence: mr magee , sir , there ’ s a gentleman to see you .
+Perplexity : 0.7976061624298059
+Sentence: —true for you , nosey flynn said .
+Perplexity : 0.9260091391085425
+Sentence: uncle barney said he ’ d get it into the paper tonight .
+Perplexity : 1.012317154759636
+Sentence: <s> <s> <s> parallax .
+Perplexity : 1.118033988749895
+Sentence: one way out of it .
+Perplexity : 0.7366537571853967
+Sentence: <s> <s> every morsel .
+Perplexity : 1.118033988749895
+Sentence: <s> sun or wind .
+Perplexity : 0.9682458365518543
+Sentence: —o , very well , mr bloom said .
+Perplexity : 0.75212243024998
+Sentence: <s> gently does it .
+Perplexity : 0.5958435917242179
+Sentence: <s> ay , ay .
+Perplexity : 1.118033988749895
+Sentence: one story good till you hear the next .
+Perplexity : 1.0736083500756501
+Sentence: devils if they lose sixpence .
+Perplexity : 1.118033988749895
+Sentence: dames donate dublin ’ s cits speedpills velocitous aeroliths , belief —it gives them a crick in their necks , stephen said , and they are too tired to look up or down or to speak .
+Perplexity : 0.9858491835189506
+Sentence: buck mulligan suspired amorously .
+Perplexity : 1.118033988749895
+Sentence: can ’ t bury in the air however .
+Perplexity : 0.8565867662573347
+Sentence: no , the dog .
+Perplexity : 1.118033988749895
+Sentence: o , you priestified kinchite !
+Perplexity : 1.118033988749895
+Sentence: ) _ the horse : hohohohohohoh !
+Perplexity : 1.0963004341524454
+Sentence: —wise virgins , professor machugh said .
+Perplexity : 0.8527268566270082
+Sentence: <s> ) _ honest ?
+Perplexity : 1.118033988749895
+Sentence: fifteen children he had .
+Perplexity : 0.9682458365518543
+Sentence: he stared at them proudly , piled stone mammoth skulls .
+Perplexity : 1.118033988749895
+Sentence: _ ( he sneezes .
+Perplexity : 1.118033988749895
+Sentence: heavy of the past .
+Perplexity : 1.118033988749895
+Sentence: lawyers of the past , haughty , pleading , beheld pass from the consolidated taxing office to nisi prius court richie goulding carrying the costbag of goulding , collis and ward and heard rustling from the admiralty division of king ’ s bench to the court of appeal an elderly female with false teeth smiling incredulously and a black silk skirt of great amplitude .
+Perplexity : 1.0226967221752163
+Sentence: a phrase , then , of impatience , thud of blake ’ s wings of excess .
+Perplexity : 0.9635962299744748
+Sentence: night i went down to the pantry in the kitchen .
+Perplexity : 0.7955688523620916
+Sentence: <s> refuse christian burial .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> lidwell asked .
+Perplexity : 0.8944271909999159
+Sentence: —first , our little financial settlement , he said .
+Perplexity : 0.7889306802013414
+Sentence: <s> ireland my country .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> our saviour .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> broad daylight .
+Perplexity : 1.118033988749895
+Sentence: —in the midst of life , martin cunningham said .
+Perplexity : 0.8828972628305326
+Sentence: john o ’ connell : burial docket letter number u. p. eightyfive thousand .
+Perplexity : 1.118033988749895
+Sentence: and then she told him to say papa .
+Perplexity : 0.9952679263837431
+Sentence: old men ’ s dogs usually are .
+Perplexity : 1.1016938909099516
+Sentence: after which he beat a retreat to his counter , mr bloom determining to have a good square look at him later on so as not to appear to .
+Perplexity : 1.0117276563457835
+Sentence: but both are joys .
+Perplexity : 1.118033988749895
+Sentence: he was out of a job and implored of stephen to tell him where on god ’ s earth he could get something , anything at all , to do .
+Perplexity : 0.9755859273791163
+Sentence: his nether extremities were encased in high balbriggan buskins dyed in lichen purple , the feet being shod with brogues of salted cowhide laced with the windpipe of the same beast .
+Perplexity : 0.9960831972345526
+Sentence: what advantages were possessed by an occupied , as distinct from an unoccupied bed ?
+Perplexity : 1.052246397186706
+Sentence: _ ( he throws a leg astride and , pressing with horseman ’ s knees , calls in a hard voice .
+Perplexity : 0.9380610700084494
+Sentence: and we stuffing food in one hole and out behind : food , chyle , blood , dung , earth , food : have to feed it like stoking an engine .
+Perplexity : 1.1156849342983641
+Sentence: —i ’ ll risk it , he said .
+Perplexity : 0.7357929344653372
+Sentence: my wife , he intimated , plunging _in medias res_ , would have the greatest of pleasure in making your acquaintance as she is passionately attached to music of any kind .
+Perplexity : 1.1086673424868159
+Sentence: —fortune , joe , says i. good health , citizen .
+Perplexity : 0.9752399810765038
+Sentence: —there ’ s a smell of burn , she said .
+Perplexity : 0.9258525777961536
+Sentence: he slunk back in a curve .
+Perplexity : 0.8411954328699871
+Sentence: phosphorus it must be done with .
+Perplexity : 1.0963004341524454
+Sentence: more room if they buried them standing .
+Perplexity : 1.118033988749895
+Sentence: daren ’ t joke about the dead for two years at least .
+Perplexity : 1.0860013171288665
+Sentence: —perfectly true , says bloom .
+Perplexity : 0.9036020036098448
+Sentence: <s> <s> <s> this .
+Perplexity : 1.0540925533894598
+Sentence: over his untastable apology for a cup of coffee , listening to this synopsis of things in general , stephen stared at nothing in particular .
+Perplexity : 1.0604040219000106
+Sentence: after him freshfound the hue and cry zigzag gallops in hot pursuit of follow my leader : 65 c , 66 c , night watch , john henry menton , wisdom hely , v. b. dillon , councillor nannetti , alexander keyes , larry o ’ rourke , joe cuffe , mrs o ’ dowd , pisser burke , the nameless one , mrs riordan , the citizen , garryowen , whodoyoucallhim , strangeface , fellowthatsolike , sawhimbefore , chapwithawen , chris callinan , sir charles cameron , benjamin dollard , lenehan , bartell d ’ arcy , joe hynes , red murray , editor brayden , t. m. healy , mr justice fitzgibbon , john howard parnell , the reverend tinned salmon , professor joly , mrs breen , denis breen , theodore purefoy , mina purefoy , the westland row postmistress , c. p. m ’ coy , friend of lyons , hoppy holohan , maninthestreet , othermaninthestreet , footballboots , pugnosed driver , rich protestant lady , davy byrne , mrs ellen m ’ guinness , mrs joe gallaher , george lidwell , jimmy henry on corns , superintendent laracy , father cowley , crofton out of the collector-general ’ s , dan dawson , dental surgeon bloom with tweezers , mrs bob doran , mrs kennefick , mrs wyse nolan , john wyse nolan , handsomemarriedwomanrubbedagainstwidebehindinclonskea tram , the bookseller of_ sweets of sin , _miss dubedatandshedidbedad , mesdames gerald and stanislaus moran of roebuck , the managing clerk of drimmie ’ s , wetherup , colonel hayes , mastiansky , citron , penrose , aaron figatner , moses herzog , michael e geraghty , inspector troy , mrs galbraith , the constable off eccles street corner , old doctor brady with stethoscope , the mystery man on the beach , a retriever , mrs miriam dandrade and all her lovers .
+Perplexity : 1.01154155266584
+Sentence: blue jacket and yellow cap .
+Perplexity : 1.118033988749895
+Sentence: i found him over in the museum where i went to hail the foamborn aphrodite .
+Perplexity : 0.990810903400416
+Sentence: the bold blue eyes stared about them and the harsh voice asked : —what is it ?
+Perplexity : 1.0252797858695661
+Sentence: puff after stiff , a puff , strong , savoury , crackling .
+Perplexity : 1.0097120184001815
+Sentence: bell scared him out , i suppose .
+Perplexity : 0.9954928071909581
+Sentence: <s> <s> <s> dignam .
+Perplexity : 1.0
+Sentence: <s> the next one .
+Perplexity : 0.8944271909999159
+Sentence: a heavy tramcar honking its gong slewed between .
+Perplexity : 1.118033988749895
+Sentence: <s> a night watchman .
+Perplexity : 1.118033988749895
+Sentence: they sometimes feel what a person is .
+Perplexity : 0.9726574589807894
+Sentence: he saw his trunk and limbs riprippled over and sustained , buoyed lightly upward , lemonyellow : his navel , bud of flesh : and saw the dark tangled curls of his bush floating , floating hair of the stream around the limp father of thousands , a languid floating flower .
+Perplexity : 1.0489667022669311
+Sentence: he smiled , pleasing himself .
+Perplexity : 1.118033988749895
+Sentence: old fellow asleep near that confessionbox .
+Perplexity : 1.118033988749895
+Sentence: stephen fumbles in his pocket and , taking out a banknote by its corner , hands it to her .
+Perplexity : 1.0284360868052214
+Sentence: she said it would look nice over the bed .
+Perplexity : 1.0347698187782817
+Sentence: inexpressible was my anguish when expiring with love , grief and agony on mount calvary .
+Perplexity : 1.118033988749895
+Sentence: then from the starving cagework city a horde of jerkined dwarfs , my people , with flayers ’ knives , running , scaling , hacking in green blubbery whalemeat .
+Perplexity : 1.088031957906847
+Sentence: but they were god ’ s souls , created by god .
+Perplexity : 0.9045415007602214
+Sentence: the figure seated on a large boulder at the foot of a round tower was that of a broadshouldered deepchested stronglimbed frankeyed redhaired freelyfreckled shaggybearded widemouthed largenosed longheaded deepvoiced barekneed brawnyhanded hairylegged ruddyfaced sinewyarmed hero .
+Perplexity : 1.0283888240390449
+Sentence: before born bliss babe had .
+Perplexity : 1.0404478625719542
+Sentence: show this gentleman the door .
+Perplexity : 0.8123496892324695
+Sentence: _ ( the women ’ s heads coalesce .
+Perplexity : 0.8056130260366043
+Sentence: i was with him no later than friday last or thursday was it in the arch .
+Perplexity : 0.9879738288653015
+Sentence: j. j. o ’ molloy asked , looking towards the inner door .
+Perplexity : 1.0796631262670882
+Sentence: in midw. , f. k. q. c. p .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> out .
+Perplexity : 0.9682458365518543
+Sentence: bald pat in the doorway met tealess gold returning .
+Perplexity : 1.1071138817952288
+Sentence: you are my lookingglass from night to morning .
+Perplexity : 1.118033988749895
+Sentence: only five she was then .
+Perplexity : 1.0855926040543844
+Sentence: ) _ amn ’ t i with you ?
+Perplexity : 0.8634105747069996
+Sentence: <s> <s> —doughy daw !
+Perplexity : 1.118033988749895
+Sentence: she ran with long gandery strides it was a wonder she didn ’ t rip up her skirt at the side that was too tight on her because there was a lot of the tomboy about cissy caffrey and she was a forward piece whenever she thought she had a good opportunity to show off and just because she was a good runner she ran like that so that he could see all the end of her petticoat running and her skinny shanks up as far as possible .
+Perplexity : 0.9831452717455297
+Sentence: orthographical want to be sure of his spelling .
+Perplexity : 0.9891615270784413
+Sentence: corner of harcourt road remember that gust .
+Perplexity : 1.118033988749895
+Sentence: peachy cheeks , a zebra skirt , frisky as a young thing ’ s .
+Perplexity : 0.9406562790216663
+Sentence: _le distrait_ or absentminded beggar .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> rrrrrr .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> no !
+Perplexity : 1.2403473458920844
+Sentence: a pack of bloodhounds , led by hornblower of trinity brandishing a dogwhip in tallyho cap and an old pair of grey trousers , follows from far , picking up the scent , nearer , baying , panting , at fault , breaking away , throwing their tongues , biting his heels , leaping at his tail .
+Perplexity : 1.1024331158060767
+Sentence: <s> <s> ice cones .
+Perplexity : 1.118033988749895
+Sentence: —thousand a year , lambert , says crofton or crawford .
+Perplexity : 1.0038976658227692
+Sentence: <s> <s> <s> we .
+Perplexity : 1.118033988749895
+Sentence: and on our virgin sward .
+Perplexity : 1.118033988749895
+Sentence: <s> shite and onions !
+Perplexity : 1.118033988749895
+Sentence: ja , ich weiss , papachi._ rudolph : what you making down this place ?
+Perplexity : 1.118033988749895
+Sentence: another thing he commented on was equipping soldiers with firearms or sidearms of any description liable to go off at any time which was tantamount to inciting them against civilians should by any chance they fall out over anything .
+Perplexity : 1.1117555203122755
+Sentence: pig ’ s feet .
+Perplexity : 1.0540925533894598
+Sentence: <s> <s> says joe .
+Perplexity : 1.118033988749895
+Sentence: there : bearskin cap and hackle plume .
+Perplexity : 1.1016938909099516
+Sentence: but want a good memory .
+Perplexity : 1.118033988749895
+Sentence: fizz and red bank oysters .
+Perplexity : 1.118033988749895
+Sentence: us too : the tie he wore , his lovely socks and turnedup trousers .
+Perplexity : 1.0596452198358468
+Sentence: <s> <s> what about ?
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> see ?
+Perplexity : 1.118033988749895
+Sentence: <s> — ’ lldo !
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> scamp !
+Perplexity : 1.118033988749895
+Sentence: bound for their troughs .
+Perplexity : 1.118033988749895
+Sentence: <s> bowls them over .
+Perplexity : 1.0540925533894598
+Sentence: henry menton , solr , martin cunningham , john power , eatondph 1/8 ador dorador douradora_ ( must be where he called monks the dayfather about keyes ’ s ad ) _thomas kernan , simon dedalus , stephen dedalus b. a. , edw .
+Perplexity : 1.0183651951158397
+Sentence: <s> <s> also now .
+Perplexity : 1.0540925533894598
+Sentence: <s> heart of mine !
+Perplexity : 1.118033988749895
+Sentence: <s> no touching that .
+Perplexity : 0.9682458365518543
+Sentence: <s> the propitious moment .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> shall us ?
+Perplexity : 1.118033988749895
+Sentence: ) _ hot hands cold gizzard .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> says alf .
+Perplexity : 0.9682458365518541
+Sentence: you prayed to the blessed virgin that you might not have a red nose .
+Perplexity : 1.0839138758832079
+Sentence: bone them young so they metamspychosis .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> —ahem !
+Perplexity : 1.118033988749895
+Sentence: _ ( she keens with banshee woe .
+Perplexity : 1.118033988749895
+Sentence: philip drunk : _ ( impatiently .
+Perplexity : 0.7456231245919327
+Sentence: reading , lying back now , counting the strands of her hair , smiling , braiding .
+Perplexity : 1.0551918988290112
+Sentence: beneath her skirt appear her late husband ’ s everyday trousers and turnedup boots , large eights .
+Perplexity : 0.9862105366315804
+Sentence: _peccavi ! _ i have paid homage on that living altar where the back changes name .
+Perplexity : 1.0594765575620462
+Sentence: he shot his bolt , i can tell you !
+Perplexity : 1.0003903218144417
+Sentence: nay , that last play was written or being written while his brother edmund lay dying in southwark .
+Perplexity : 1.118033988749895
+Sentence: cooks rats in your soup , he appetisingly added , the chinks does .
+Perplexity : 0.904501731720242
+Sentence: <s> our mutual faith .
+Perplexity : 1.118033988749895
+Sentence: —eleven , i think , he answered .
+Perplexity : 0.8664966838614063
+Sentence: darkly they are there behind this light , darkness shining in the brightness , delta of cassiopeia , worlds .
+Perplexity : 1.0325292976710452
+Sentence: he let out that myler was on the beer to run up the odds and he swatting all the time .
+Perplexity : 0.9837056848242226
+Sentence: <s> ) _ amen !
+Perplexity : 1.118033988749895
+Sentence: mr dedalus said in subdued wonder .
+Perplexity : 1.118033988749895
+Sentence: he died in his sleep .
+Perplexity : 1.118033988749895
+Sentence: i owe three shillings to o ’ grady .
+Perplexity : 0.9891615270784413
+Sentence: <s> <s> clockhands turning .
+Perplexity : 1.118033988749895
+Sentence: —good day , myles , j. j. o ’ molloy said , letting the pages he held slip limply back on the file .
+Perplexity : 0.9677511773348134
+Sentence: <s> i was young .
+Perplexity : 1.118033988749895
+Sentence: messer brunetto , i thank thee for the word .
+Perplexity : 1.0128516856281846
+Sentence: would birds come then and peck like the boy with the basket of fruit but he said no because they ought to have been afraid of the boy .
+Perplexity : 0.9666990026942452
+Sentence: don ’ t like all the smells in it waiting to rush out .
+Perplexity : 1.057185509181088
+Sentence: and bring us some scones and butter and some cakes as well .
+Perplexity : 1.118033988749895
+Sentence: but as he confidently anticipated there was not a sign of a jehu plying for hire anywhere to be seen except a fourwheeler , probably engaged by some fellows inside on the spree , outside the north star hotel and there was no symptom of its budging a quarter of an inch when mr bloom , who was anything but a professional whistler , endeavoured to hail it by emitting a kind of a whistle , holding his arms arched over his head , twice .
+Perplexity : 1.0429866674998658
+Sentence: <s> <s> <s> hok !
+Perplexity : 1.118033988749895
+Sentence: a stout fox , drawn from covert , brush pointed , having buried his grandmother , runs swift for the open , brighteyed , seeking badger earth , under the leaves .
+Perplexity : 1.0772189786631319
+Sentence: spattered with size and lime of their lodges they frisk limblessly about him .
+Perplexity : 1.0444839628553289
+Sentence: born with a silver knife in his mouth .
+Perplexity : 0.9976311574844398
+Sentence: <s> <s> <s> ah !
+Perplexity : 0.9393364366277243
+Sentence: zoe : for zoe ?
+Perplexity : 1.118033988749895
+Sentence: bloom : _ ( undecided .
+Perplexity : 1.1559871147906977
+Sentence: <s> <s> <s> uniform .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> three weeks .
+Perplexity : 1.118033988749895
+Sentence: must be the bur .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> o rocks !
+Perplexity : 1.118033988749895
+Sentence: <s> <s> my whetstone .
+Perplexity : 1.118033988749895
+Sentence: bulldog on the premises .
+Perplexity : 0.9682458365518543
+Sentence: off the drunks perhaps .
+Perplexity : 1.118033988749895
+Sentence: —is that first epistle to the hebrews , he asked as soon as his bottom jaw would let him , in ?
+Perplexity : 0.9541556133231063
+Sentence: must get that grey suit of mine turned by mesias .
+Perplexity : 1.1086673424868159
+Sentence: might have lost my life too with that mangongwheeltracktrolleyglarejuggernaut only for presence of mind .
+Perplexity : 1.11206428155243
+Sentence: _ ( he sighs .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> list !
+Perplexity : 1.118033988749895
+Sentence: an illgirt server gathered sticky clattering plates .
+Perplexity : 1.118033988749895
+Sentence: doctor swift says one man in armour will beat ten men in their shirts .
+Perplexity : 1.081349221308928
+Sentence: but the shape is there .
+Perplexity : 0.9652434877402242
+Sentence: ascot meeting , the gold cup .
+Perplexity : 1.118033988749895
+Sentence: haines asked : —do you pay rent for this tower ?
+Perplexity : 1.1086673424868159
+Sentence: <s> <s> <s> wow !
+Perplexity : 1.118033988749895
+Sentence: ugh , that rat ’ s tail wriggling !
+Perplexity : 0.8056130260366043
+Sentence: o yes , we ’ ll have all topnobbers .
+Perplexity : 1.0347698187782817
+Sentence: cot ’ s plood and prandypalls , none !
+Perplexity : 1.118033988749895
+Sentence: on the night of the seventeenth of february 1904 the prisoner was seen by two witnesses .
+Perplexity : 1.0094206488059367
+Sentence: the face of a streetwalker glazed and haggard under a black straw hat peered askew round the door of the shelter palpably reconnoitring on her own with the object of bringing more grist to her mill .
+Perplexity : 1.0097944652728967
+Sentence: melting breast ointments ( _for him !
+Perplexity : 1.0378908155562134
+Sentence: the carriage halted short .
+Perplexity : 1.118033988749895
+Sentence: it ’ s a very stiff birth , the nurse told me .
+Perplexity : 0.9269801795659458
+Sentence: <s> hoopsa boyaboy hoopsa !
+Perplexity : 1.118033988749895
+Sentence: questioned by his earthname as to his whereabouts in the heavenworld he stated that he was now on the path of prālāyā or return but was still submitted to trial at the hands of certain bloodthirsty entities on the lower astral levels .
+Perplexity : 0.9780472665828712
+Sentence: i forgot to tap tom kernan .
+Perplexity : 1.118033988749895
+Sentence: the malahide road was quiet .
+Perplexity : 1.118033988749895
+Sentence: and assaulted my chum .
+Perplexity : 1.118033988749895
+Sentence: for such favours knights of old laid down their lives .
+Perplexity : 1.0861181205533643
+Sentence: <s> <s> <s> dogdays .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> numerous .
+Perplexity : 1.118033988749895
+Sentence: because at the critical turningpoint of human existence he desired to amend many social conditions , the product of inequality and avarice and international animosity .
+Perplexity : 1.062250154572781
+Sentence: must call to those scottish widows as i promised .
+Perplexity : 1.091549525329094
+Sentence: tame essence of wilde .
+Perplexity : 1.118033988749895
+Sentence: <s> fifty yards measured .
+Perplexity : 1.118033988749895
+Sentence: <s> i like that ?
+Perplexity : 0.9682458365518543
+Sentence: it represents a partially nude señorita , frail and lovely ( his wife , as he solemnly assured me , taken by him from nature ) , practising illicit intercourse with a muscular torero , evidently a blackguard .
+Perplexity : 1.043547915923483
+Sentence: a blacksmith : _ ( murmurs .
+Perplexity : 0.7456231245919327
+Sentence: it ’ s perfectly obvious that with the most inherent baseness he has cribbed some of my bestselling copy , really gorgeous stuff , a perfect gem , the love passages in which are beneath suspicion .
+Perplexity : 1.0201180048000598
+Sentence: beside her mirage of datepalms a handsome woman in turkish costume stands before him .
+Perplexity : 1.0631727895710583
+Sentence: the ring of bay and skyline held a dull green mass of liquid .
+Perplexity : 1.1114690667765348
+Sentence: the apple of discord was a certain castle of sand which master jacky had built and master tommy would have it right go wrong that it was to be architecturally improved by a frontdoor like the martello tower had .
+Perplexity : 1.0396728942335245
+Sentence: but then i have it in my left hand .
+Perplexity : 0.9893012232339632
+Sentence: elster grimes opera company .
+Perplexity : 1.118033988749895
+Sentence: o ’ nolan , clad in shining armour , low bending made obeisance to the puissant and high and mighty chief of all erin and did him to wit of that which had befallen , how that the grave elders of the most obedient city , second of the realm , had met them in the tholsel , and there , after due prayers to the gods who dwell in ether supernal , had taken solemn counsel whereby they might , if so be it might be , bring once more into honour among mortal men the winged speech of the seadivided gael .
+Perplexity : 1.0101303343259804
+Sentence: ought to be sideways and red it should be painted like a real heart .
+Perplexity : 1.07081527394034
+Sentence: <s> <s> <s> fate .
+Perplexity : 1.118033988749895
+Sentence: dear dirty dublin dubliners .
+Perplexity : 1.118033988749895
+Sentence: there ’ s my son now , danny , run off to sea and his mother got him took in a draper ’ s in cork where he could be drawing easy money .
+Perplexity : 0.9775242042159286
+Sentence: —and pontius pilate is its prophet , professor machugh responded .
+Perplexity : 1.0738829998807478
+Sentence: wonder does the news go about whenever a fresh one is let down .
+Perplexity : 1.0863283983762126
+Sentence: till mr right comes along , then meet once in a blue moon .
+Perplexity : 1.014547357731053
+Sentence: <s> what lighter recreations ?
+Perplexity : 1.118033988749895
+Sentence: spit in your own eye , boss !
+Perplexity : 1.118033988749895
+Sentence: i want to give the citizen the hard word about it .
+Perplexity : 0.9651871647661722
+Sentence: you were going to do wonders , what ?
+Perplexity : 1.0555219259820006
+Sentence: ( _he leaps right , sackragman right._ ) bloom : i beg .
+Perplexity : 1.0675588367793363
+Sentence: runs , she runs to meet me , a girl with gold hair on the wind .
+Perplexity : 0.919181039116178
+Sentence: a blind stripling stood tapping the curbstone with his slender cane .
+Perplexity : 1.047247985974228
+Sentence: but it was the original sin that darkened his understanding , weakened his will and left in him a strong inclination to evil .
+Perplexity : 1.1100218766745178
+Sentence: stunned like , seeing as how no shiners is acoming .
+Perplexity : 1.118033988749895
+Sentence: ) _ lynx eye .
+Perplexity : 1.0540925533894598
+Sentence: the door of the bar .
+Perplexity : 1.1362193664674993
+Sentence: <s> thinking strictly prohibited .
+Perplexity : 1.118033988749895
+Sentence: right enough the harbours were there only no ships ever called .
+Perplexity : 1.1016938909099516
+Sentence: he should have read that before lunch .
+Perplexity : 1.1016938909099516
+Sentence: different ways of bringing off a coup .
+Perplexity : 1.1016938909099516
+Sentence: elijah ! _ and he answered with a main cry : _abba !
+Perplexity : 0.9750435627933108
+Sentence: had a good breakfast .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> no .
+Perplexity : 0.8247860988423225
+Sentence: —your _beau , _ is it ?
+Perplexity : 0.9527613132584967
+Sentence: —don ’ t tell anyone , says the citizen , letting a bawl out of him .
+Perplexity : 0.9072659655127961
+Sentence: <s> beard and bicycle .
+Perplexity : 1.118033988749895
+Sentence: what do you think of that , citizen ?
+Perplexity : 0.946772480999074
+Sentence: <s> <s> local colour .
+Perplexity : 1.118033988749895
+Sentence: then mount jerome for the protestants .
+Perplexity : 0.8997280980671833
+Sentence: bought the _irish field_ now .
+Perplexity : 1.0855926040543844
+Sentence: tara : bom bom bom .
+Perplexity : 1.0855926040543844
+Sentence: ) _ the bishop of down and connor : i here present your undoubted emperor-president and king-chairman , the most serene and potent and very puissant ruler of this realm .
+Perplexity : 1.0538385021269558
+Sentence: <s> cowley it is .
+Perplexity : 0.7543909404658241
+Sentence: bloom unwound slowly the elastic band of his packet .
+Perplexity : 1.0195172028494914
+Sentence: —i get paid this morning , stephen said .
+Perplexity : 0.8153643465251974
+Sentence: —a—sudden—at—the—moment—though—from—lingering—illness—often—previously— expectorated—demise , lenehan added .
+Perplexity : 1.118033988749895
+Sentence: <s> ha , give !
+Perplexity : 1.118033988749895
+Sentence: a sevenmonths ’ child , he had been carefully brought up and nurtured by an aged bedridden parent .
+Perplexity : 1.0041270416567354
+Sentence: —myler dusted the floor with him , says alf .
+Perplexity : 0.8647860800220397
+Sentence: <s> ben dollard growled .
+Perplexity : 1.118033988749895
+Sentence: he hummed : là ci darem la mano la la lala la la .
+Perplexity : 1.098454641088031
+Sentence: <s> <s> <s> up !
+Perplexity : 1.118033988749895
+Sentence: —yes , mr best said youngly .
+Perplexity : 1.118033988749895
+Sentence: his nostrils arched themselves for prey .
+Perplexity : 1.118033988749895
+Sentence: —and , martin cunningham said , we wouldn ’ t have scenes like that when the hearse capsized round dunphy ’ s and upset the coffin on to the road .
+Perplexity : 0.933394956474059
+Sentence: the irish caruso-garibaldi was in superlative form and his stentorian notes were heard to the greatest advantage in the timehonoured anthem sung as only our citizen can sing it .
+Perplexity : 0.9739492283602909
+Sentence: his collar sprang up again and he tugged it down .
+Perplexity : 1.0096814581235005
+Sentence: call to the hospital to see .
+Perplexity : 0.9733419611363031
+Sentence: you ought to see yourself !
+Perplexity : 1.118033988749895
+Sentence: —ay , ay , sighed again the latter personage , more cheerily this time with some sort of a half smile for a brief duration only in the direction of the questioner about the number .
+Perplexity : 0.9638481662527184
+Sentence: _faugh a ballagh ! _ out of that , bloody curse to you !
+Perplexity : 0.9213400511793548
+Sentence: she read or had read to her his chapbooks preferring them to the _merry wives_ and , loosing her nightly waters on the jordan , she thought over _hooks and eyes for believers ’ breeches_ and _the most spiritual snuffbox to make the most devout souls sneeze_ .
+Perplexity : 1.0334461674219255
+Sentence: his hindpaws then scattered the sand : then his forepaws dabbled and delved .
+Perplexity : 1.1114690667765348
+Sentence: master dignam got his collar down and dawdled on .
+Perplexity : 1.0703308043928144
+Sentence: rest suddenly possessed the discreet vaulted cell , rest of warm and brooding air .
+Perplexity : 1.118033988749895
+Sentence: the blood it is .
+Perplexity : 0.7543909404658241
+Sentence: moore asked him to bring haines .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> read mine .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> she asked .
+Perplexity : 0.8944271909999159
+Sentence: in my eyes read that slumber which women love .
+Perplexity : 1.1071138817952288
+Sentence: just you give it a fair trial .
+Perplexity : 1.1016938909099516
+Sentence: <s> the professor asked .
+Perplexity : 0.8944271909999159
+Sentence: text : open thy mouth and put thy foot in it .
+Perplexity : 1.0258707143749948
+Sentence: ) _ what ho , parson !
+Perplexity : 1.118033988749895
+Sentence: <s> highclass licensed premises .
+Perplexity : 0.9682458365518543
+Sentence: metaphysics in mecklenburgh street !
+Perplexity : 1.118033988749895
+Sentence: opera he ’ d like ?
+Perplexity : 1.118033988749895
+Sentence: <s> ) _ splendid !
+Perplexity : 1.118033988749895
+Sentence: head like a prize pumpkin .
+Perplexity : 1.118033988749895
+Sentence: and he showed them glistering coins of the tribute and goldsmith notes the worth of two pound nineteen shilling that he had , he said , for a song which he writ .
+Perplexity : 0.9406024138647239
+Sentence: six and a half per cent dividend .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> done .
+Perplexity : 1.118033988749895
+Sentence: astronomy it was about .
+Perplexity : 0.9682458365518543
+Sentence: <s> <s> <s> caliban !
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> turks .
+Perplexity : 1.118033988749895
+Sentence: o yes , every time .
+Perplexity : 0.9652434877402242
+Sentence: <s> death by misadventure .
+Perplexity : 1.118033988749895
+Sentence: his life isn ’ t such a bed of roses .
+Perplexity : 0.9462049493569958
+Sentence: into the ineluctable modality of the ineluctable visuality .
+Perplexity : 0.8471189889117265
+Sentence: at last they were left alone without the others to pry and pass remarks and she knew he could be trusted to the death , steadfast , a sterling man , a man of inflexible honour to his fingertips .
+Perplexity : 0.9991567366986871
+Sentence: _ ( he opens his mouth , his head cocked .
+Perplexity : 1.0238412780588548
+Sentence: <s> <s> a stratagem .
+Perplexity : 1.118033988749895
+Sentence: corny kelleher : ah , well , he ’ ll get over it .
+Perplexity : 0.8869031095130164
+Sentence: the final bout of fireworks was a gruelling for both champions .
+Perplexity : 1.0433011121037685
+Sentence: also i think i. yes i. do it in the bath .
+Perplexity : 0.9280492559855332
+Sentence: probably for his coffee , play chess there .
+Perplexity : 1.041867530906511
+Sentence: wonder if that dodge works now getting dicky meat off the train at clonsilla .
+Perplexity : 1.07081527394034
+Sentence: <s> <s> <s> mailboat .
+Perplexity : 1.118033988749895
+Sentence: i ’ m yorkshire born .
+Perplexity : 1.118033988749895
+Sentence: on the towpath by the lock a slacktethered horse .
+Perplexity : 1.066695904040656
+Sentence: who ’ s making love to my sweeties ?
+Perplexity : 1.1049426930055999
+Sentence: one : one , one , one , one , one : two , one , three , four .
+Perplexity : 0.8801123563534949
+Sentence: then passing over her white skin .
+Perplexity : 1.118033988749895
+Sentence: feel as if i had been eaten and spewed .
+Perplexity : 1.091549525329094
+Sentence: in what common study did their mutual reflections merge ?
+Perplexity : 1.118033988749895
+Sentence: her falcon eyes glitter .
+Perplexity : 1.118033988749895
+Sentence: that ’ s not english .
+Perplexity : 1.118033988749895
+Sentence: she laughed : —o wept !
+Perplexity : 1.118033988749895
+Sentence: —whom do you suspect ?
+Perplexity : 1.118033988749895
+Sentence: and skeweyed walter sirring his father , no less !
+Perplexity : 1.0808880985005265
+Sentence: tomorrow is killing day .
+Perplexity : 1.0540925533894598
+Sentence: —though lost to sight , mr dedalus said , to memory dear .
+Perplexity : 0.8836028345522414
+Sentence: we two , she said , will seek the kips where shady mary is .
+Perplexity : 1.003532407366166
+Sentence: you watch them chaps .
+Perplexity : 1.118033988749895
+Sentence: not make him walk twice .
+Perplexity : 1.0855926040543844
+Sentence: better get this job over quick .
+Perplexity : 1.118033988749895
+Sentence: a great opportunity there certainly was for push and enterprise to meet the travelling needs of the public at large , the average man , i.e .
+Perplexity : 0.9971747423220025
+Sentence: culo rotto ! _ _—intendiamoci .
+Perplexity : 1.118033988749895
+Sentence: how she met her death .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> heigho !
+Perplexity : 1.118033988749895
+Sentence: maeterlinck says : _if socrates leave his house today he will find the sage seated on his doorstep .
+Perplexity : 1.092045764839783
+Sentence: <s> <s> the door !
+Perplexity : 1.118033988749895
+Sentence: —honest injun , says alf .
+Perplexity : 0.9228214527770197
+Sentence: ) _ henry : _ ( in a low dulcet voice , touching the strings of his guitar .
+Perplexity : 0.8836792004175003
+Sentence: a _livre ! _ cries monsieur lynch .
+Perplexity : 1.118033988749895
+Sentence: memories beset his brooding brain .
+Perplexity : 1.118033988749895
+Sentence: my real name is peggy griffin .
+Perplexity : 1.118033988749895
+Sentence: with this came up lenehan to the feet of the table to say how the letter was in that night ’ s gazette and he made a show to find it about him ( for he swore with an oath that he had been at pains about it ) but on stephen ’ s persuasion he gave over the search and was bidden to sit near by which he did mighty brisk .
+Perplexity : 0.9822029566560112
+Sentence: the carcass lay on his path .
+Perplexity : 0.9939949285151843
+Sentence: <s> barrel of bass .
+Perplexity : 1.118033988749895
+Sentence: _ ( reuben j antichrist , wandering jew , a clutching hand open on his spine , stumps forward .
+Perplexity : 1.032724288827289
+Sentence: two together nextdoor neighbours .
+Perplexity : 1.118033988749895
+Sentence: must take up sandow ’ s exercises again .
+Perplexity : 0.7704500313135226
+Sentence: <s> <s> <s> fff !
+Perplexity : 1.118033988749895
+Sentence: the inferno has no terrors for me .
+Perplexity : 0.9343782906823964
+Sentence: the boy of act one is the mature man of act five .
+Perplexity : 1.0618116945491751
+Sentence: <s> <s> but act .
+Perplexity : 1.118033988749895
+Sentence: vehement breath of waters amid seasnakes , rearing horses , rocks .
+Perplexity : 1.118033988749895
+Sentence: an empty hearse trotted by , coming from the cemetery : looks relieved .
+Perplexity : 1.03076932780721
+Sentence: <s> <s> too ugly .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> inishark .
+Perplexity : 1.118033988749895
+Sentence: all hearts were beating .
+Perplexity : 1.118033988749895
+Sentence: afraid of the chookchooks .
+Perplexity : 1.118033988749895
+Sentence: <s> no answer probably .
+Perplexity : 1.118033988749895
+Sentence: —god ’ s curse on you , he said sourly , whoever you are !
+Perplexity : 0.9484034612232989
+Sentence: whilst speaking he produced a dangerouslooking claspknife quite in keeping with his character and held it in the striking position .
+Perplexity : 0.9966189987771775
+Sentence: he turned to stephen , saying , as he pulled down neatly the peaks of his primrose waistcoat : —you couldn ’ t manage it under three pints , kinch , could you ?
+Perplexity : 1.0225349117962226
+Sentence: the mob : lynch him !
+Perplexity : 1.0
+Sentence: ) _ ’ twas i sent you that valentine of the dear gazelle .
+Perplexity : 0.9789428479936984
+Sentence: too many drugs spoil the broth .
+Perplexity : 1.118033988749895
+Sentence: dear henry wrote : dear mady .
+Perplexity : 1.118033988749895
+Sentence: when one reads these strange pages of one long gone one feels that one is at one with one who once ... the grainy sand had gone from under his feet .
+Perplexity : 1.1029865231265492
+Sentence: nicholas , o. s. f. c. ; the very rev .
+Perplexity : 1.044752805281386
+Sentence: henry dear , do not deny my request before my patience are exhausted .
+Perplexity : 1.1114690667765348
+Sentence: a meek smile accompanied him as he lifted the counterflap , as he passed in through a sidedoor and along the warm dark stairs and passage , along the now reverberating boards .
+Perplexity : 1.0677707993698156
+Sentence: i ’ m all clean come and dirty me .
+Perplexity : 1.0029589195338011
+Sentence: in a recent public controversy with mr l. bloom ( pubb .
+Perplexity : 1.056550631075225
+Sentence: that is how poets write , the similar sounds .
+Perplexity : 0.9267265246068318
+Sentence: <s> <s> halffed enthusiasts .
+Perplexity : 1.118033988749895
+Sentence: bloom tightens and loosens his grip on the ashplant .
+Perplexity : 0.9534387129865369
+Sentence: the financial success achieved by ephraim marks and charles a. james , the former by his 1d bazaar at 42 george ’ s street , south , the latter at his 6 1/2d shop and world ’ s fancy fair and waxwork exhibition at 30 henry street , admission 2d , children 1d : and the infinite possibilities hitherto unexploited of the modern art of advertisement if condensed in triliteral monoideal symbols , vertically of maximum visibility ( divined ) , horizontally of maximum legibility ( deciphered ) and of magnetising efficacy to arrest involuntary attention , to interest , to convince , to decide .
+Perplexity : 1.0086853389271744
+Sentence: god wants blood victim .
+Perplexity : 1.118033988749895
+Sentence: —talking about the invincibles , he said , did you see that some hawkers were up before the recorder ... —o yes , j. j. o ’ molloy said eagerly .
+Perplexity : 0.9835763016451573
+Sentence: the beautiful woman threw off her sabletrimmed wrap , displaying her queenly shoulders and heaving embonpoint .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> that day !
+Perplexity : 1.118033988749895
+Sentence: bloom : _ ( seizes her wrist with his free hand .
+Perplexity : 1.0448703178092935
+Sentence: _ ( he looks round , darts forward suddenly .
+Perplexity : 1.118033988749895
+Sentence: general paralysis of the insane !
+Perplexity : 1.118033988749895
+Sentence: he other side of her .
+Perplexity : 0.8003203203844999
+Sentence: <s> yes , menton .
+Perplexity : 1.118033988749895
+Sentence: with will will we withstand , withsay .
+Perplexity : 1.118033988749895
+Sentence: hot spirit of juniper juice warmed his vitals and his breath .
+Perplexity : 1.0777064322501706
+Sentence: he is nowhere : but an edmund and a richard are recorded in the works of sweet william .
+Perplexity : 0.9898620993781432
+Sentence: that ’ s the fascination : the name .
+Perplexity : 1.0250896384347405
+Sentence: <s> <s> pen something .
+Perplexity : 1.118033988749895
+Sentence: —i ’ m talking about injustice , says bloom .
+Perplexity : 0.9184790266225743
+Sentence: because he was up one time in a knacker ’ s yard .
+Perplexity : 0.8341737675334583
+Sentence: the ghostcandle to light her agony .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> absurd !
+Perplexity : 1.118033988749895
+Sentence: for many happy returns .
+Perplexity : 1.0540925533894598
+Sentence: be sure now and write to me .
+Perplexity : 0.9640316214745237
+Sentence: <s> <s> <s> two .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> where ?
+Perplexity : 1.118033988749895
+Sentence: please keep off the grass .
+Perplexity : 1.0855926040543844
+Sentence: _ ( a deafmute idiot with goggle eyes , his shapeless mouth dribbling , jerks past , shaken in saint vitus ’ dance .
+Perplexity : 1.0841195507702954
+Sentence: <s> <s> <s> pompedy .
+Perplexity : 1.118033988749895
+Sentence: <s> mr bloom inquired .
+Perplexity : 1.118033988749895
+Sentence: <s> ) _ ah !
+Perplexity : 0.9682458365518543
+Sentence: they clasped and sundered , did the coupler ’ s will .
+Perplexity : 0.8976470582818897
+Sentence: but one evening , says mr dixon , when the lord harry was cleaning his royal pelt to go to dinner after winning a boatrace ( he had spade oars for himself but the first rule of the course was that the others were to row with pitchforks ) he discovered in himself a wonderful likeness to a bull and on picking up a blackthumbed chapbook that he kept in the pantry he found sure enough that he was a lefthanded descendant of the famous champion bull of the romans , _bos bovum_ , which is good bog latin for boss of the show .
+Perplexity : 0.9883420632414551
+Sentence: cries le fécondateur , tripping in , my friend monsieur moore , that most accomplished traveller ( i have just cracked a half bottle _avec lui_ in a circle of the best wits of the town ) , is my authority that in cape horn , _ventre biche_ , they have a rain that will wet through any , even the stoutest cloak .
+Perplexity : 1.0129639719187313
+Sentence: mr bloom stood at the corner , his eyes wandering over the multicoloured hoardings .
+Perplexity : 0.9378659004912063
+Sentence: seek thou the light .
+Perplexity : 1.118033988749895
+Sentence: the chaste spouse of leopold is she : marion of the bountiful bosoms .
+Perplexity : 0.9789428479936984
+Sentence: <s> sweets to the .
+Perplexity : 1.118033988749895
+Sentence: —didn ’ t he , miss kennedy ?
+Perplexity : 0.9646786299603094
+Sentence: his back is like that norwegian captain ’ s .
+Perplexity : 0.8022550913071862
+Sentence: how did the centripetal remainer afford egress to the centrifugal departer ?
+Perplexity : 0.9877550012586953
+Sentence: clings to everything she takes off .
+Perplexity : 1.118033988749895
+Sentence: the protestants are the same .
+Perplexity : 1.0
+Sentence: general amnesty , weekly carnival with masked licence , bonuses for all , esperanto the universal language with universal brotherhood .
+Perplexity : 1.1103145591450085
+Sentence: three nooses round me here .
+Perplexity : 1.0855926040543844
+Sentence: where ’ s your curly teapot gone to or who docked it on you , cockyolly ?
+Perplexity : 1.0898841298805857
+Sentence: <s> <s> <s> tap .
+Perplexity : 1.0
+Sentence: through the barbacans the shafts of light are moving ever , slowly ever as my feet are sinking , creeping duskward over the dial floor .
+Perplexity : 1.0836356904398654
+Sentence: <s> <s> <s> dth !
+Perplexity : 1.118033988749895
+Sentence: look at the young scamps after him .
+Perplexity : 0.9045972663457937
+Sentence: —dedalus , come down , like a good mosey .
+Perplexity : 0.9654926524085253
+Sentence: <s> <s> <s> there .
+Perplexity : 0.8333333333333334
+Sentence: ) _ adonai : goooooooooood !
+Perplexity : 1.118033988749895
+Sentence: i don ’ t want to be imposed on .
+Perplexity : 0.983568955073252
+Sentence: <s> <s> henpecked husband .
+Perplexity : 1.118033988749895
+Sentence: it ’ d be an act of god to take a hold of a fellow the like of that and throw him in the bloody sea .
+Perplexity : 0.9846880649718118
+Sentence: <s> <s> <s> —ohio !
+Perplexity : 1.118033988749895
+Sentence: twentyseventh i ’ ll be at his grave .
+Perplexity : 1.0863283983762126
+Sentence: paddy leonard said with scorn .
+Perplexity : 1.118033988749895
+Sentence: something the nurse taught me .
+Perplexity : 0.8312421416114009
+Sentence: miss kennedy served two gentlemen with tankards of cool stout .
+Perplexity : 1.118033988749895
+Sentence: mastiansky and citron approach in gaberdines , wearing long earlocks .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> stopped .
+Perplexity : 1.118033988749895
+Sentence: for aged and virtuous females .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> flowerville .
+Perplexity : 1.118033988749895
+Sentence: mrs breen : _ ( to bloom .
+Perplexity : 0.690692517295242
+Sentence: five , seven , nine .
+Perplexity : 1.118033988749895
+Sentence: wonder why he was struck off the rolls .
+Perplexity : 1.041013886249789
+Sentence: <s> <s> <s> no .
+Perplexity : 0.8247860988423225
+Sentence: ) _ _per vias rectas ! _ _ ( a yoke of buckets leopards all over him and his rearing nag a torrent of mutton broth with dancing coins of carrots , barley , onions , turnips , potatoes .
+Perplexity : 1.047191065948279
+Sentence: i hear that an actress played hamlet for the fourhundredandeighth time last night in dublin .
+Perplexity : 1.0589344462046082
+Sentence: <s> <s> <s> stop !
+Perplexity : 1.1952286093343936
+Sentence: —o , dear me , mrs breen said .
+Perplexity : 0.7849643664495858
+Sentence: one pound seven , say .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> been brought .
+Perplexity : 1.118033988749895
+Sentence: i see ... right .
+Perplexity : 1.0540925533894598
+Sentence: child born every minute somewhere .
+Perplexity : 1.118033988749895
+Sentence: <s> so it returns .
+Perplexity : 1.0540925533894598
+Sentence: <s> —met him what ?
+Perplexity : 0.9682458365518543
+Sentence: <s> <s> <s> jacobs .
+Perplexity : 1.118033988749895
+Sentence: muslin prints , silkdames and dowagers , jingle of harnesses , hoofthuds lowringing in the baking causeway .
+Perplexity : 1.0208602517907137
+Sentence: true for you , says mr vincent cross the table , and a bullseye into the bargain , says he , and a plumper and a portlier bull , says he , never shit on shamrock .
+Perplexity : 0.914069889835643
+Sentence: past richmond bridge at the doorstep of the office of reuben j dodd , solicitor , agent for the patriotic insurance company , an elderly female about to enter changed her plan and retracing her steps by king ’ s windows smiled credulously on the representative of his majesty .
+Perplexity : 0.9797071960484984
+Sentence: but do not know me .
+Perplexity : 0.8071224400974177
+Sentence: boys will be boys and our two twins were no exception to this golden rule .
+Perplexity : 1.1071138817952288
+Sentence: the face of her father , the late major brian cooper tweedy , royal dublin fusiliers , of gibraltar and rehoboth , dolphin ’ s barn .
+Perplexity : 0.9659630362804809
+Sentence: <s> <s> <s> good .
+Perplexity : 1.118033988749895
+Sentence: hence , in passivity , in economy , in the instinct of tradition , in unexpectedness , their differences were similar .
+Perplexity : 0.9351489852139215
+Sentence: a voice : one and eightpence too much .
+Perplexity : 1.1049426930055999
+Sentence: —but what do you call it ?
+Perplexity : 0.9733419611363031
+Sentence: his midriff yearned then upward , sank within him , yearned more longly , longingly .
+Perplexity : 1.0799598663745134
+Sentence: bronze by gold , miss douce ’ s head by miss kennedy ’ s head , over the crossblind of the ormond bar heard the viceregal hoofs go by , ringing steel .
+Perplexity : 0.9129915264809024
+Sentence: and begged the chance of his washing .
+Perplexity : 0.9735636138701089
+Sentence: <s> says the citizen .
+Perplexity : 0.9393364366277243
+Sentence: in _martha._ co-ome thou lost one , co-ome thou dear one !
+Perplexity : 1.0462177158957293
+Sentence: body of white woman , a flute alive .
+Perplexity : 0.9306610557504628
+Sentence: the gaelic league wants something in irish .
+Perplexity : 1.0785434965163085
+Sentence: bloom follows and picks it up .
+Perplexity : 1.0963004341524454
+Sentence: the priest ’ s at home .
+Perplexity : 1.0749893599090758
+Sentence: he could hear , of course , all kinds of words changing colour like those crabs about ringsend in the morning burrowing quickly into all colours of different sorts of the same sand where they had a home somewhere beneath or seemed to .
+Perplexity : 1.019581889081384
+Sentence: <s> ) _ giddy .
+Perplexity : 1.118033988749895
+Sentence: if ever there was undisguised admiration in a man ’ s passionate gaze it was there plain to be seen on that man ’ s face .
+Perplexity : 0.8531963665605362
+Sentence: ) _ as god is looking down on me this night if ever i laid a hand to them oylsters !
+Perplexity : 1.1064748543594536
+Sentence: it ’ s quite simple .
+Perplexity : 1.118033988749895
+Sentence: ) _ the pianola : though she ’ s a factory lass and wears no fancy clothes .
+Perplexity : 0.9559476241281403
+Sentence: you know that red carlisle girl , lily ?
+Perplexity : 1.118033988749895
+Sentence: as the glossy horses pranced by merrion square master patrick aloysius dignam , waiting , saw salutes being given to the gent with the topper and raised also his new black cap with fingers greased by porksteak paper .
+Perplexity : 1.06926969654301
+Sentence: good day , sir .
+Perplexity : 0.9682458365518541
+Sentence: ga ga ga ga gara .
+Perplexity : 1.118033988749895
+Sentence: quote the textual terms in which the prospectus claimed advantages for this thaumaturgic remedy .
+Perplexity : 1.1002203221511322
+Sentence: were there no means still remaining to him to achieve the rejuvenation which these reminiscences divulged to a younger companion rendered the more desirable ?
+Perplexity : 1.0871742886942803
+Sentence: if i catch a trace on your swaddles .
+Perplexity : 1.118033988749895
+Sentence: lynch with his poker lifts boldly a side of her slip .
+Perplexity : 1.0497211192588538
+Sentence: john m. ivers , p. p. ; the rev .
+Perplexity : 1.049965659915679
+Sentence: sinbad the sailor and tinbad the tailor and jinbad the jailer and whinbad the whaler and ninbad the nailer and finbad the failer and binbad the bailer and pinbad the pailer and minbad the mailer and hinbad the hailer and rinbad the railer and dinbad the kailer and vinbad the quailer and linbad the yailer and xinbad the phthailer .
+Perplexity : 1.1180339887498947
+Sentence: wouldn ’ t lend each other a pinch of salt .
+Perplexity : 1.118033988749895
+Sentence: i own that if the poet must be rejected such a rejection would seem more in harmony with—what shall i say ? —our notions of what ought not to have been .
+Perplexity : 1.071737924230422
+Sentence: —i ’ ve heard of him , stephen said .
+Perplexity : 0.7906033206362216
+Sentence: <s> <s> who writes ?
+Perplexity : 1.118033988749895
+Sentence: curiosity like a nun or a negress or a girl with glasses .
+Perplexity : 1.068782443157036
+Sentence: still , having eunuchs in their choir that was coming it a bit thick .
+Perplexity : 1.0472191165876892
+Sentence: i am awfully angry with you .
+Perplexity : 0.9551962211032752
+Sentence: quills in the postoffice chewed and twisted .
+Perplexity : 1.118033988749895
+Sentence: cranly , i his mute orderly , following battles from afar .
+Perplexity : 1.118033988749895
+Sentence: one tablespoonful of honey will attract friend bruin more than half a dozen barrels of first choice malt vinegar .
+Perplexity : 1.1139263829490986
+Sentence: <s> get ye gone .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> sleep !
+Perplexity : 1.118033988749895
+Sentence: turning green and pink decomposing .
+Perplexity : 1.118033988749895
+Sentence: neatly she poured slowsyrupy sloe .
+Perplexity : 1.118033988749895
+Sentence: keep that thing up for hours .
+Perplexity : 1.0963004341524454
+Sentence: —well , there ’ s something in that , mr dedalus granted .
+Perplexity : 0.7999749848370108
+Sentence: i ’ m told it ’ s a grand language by them that knows .
+Perplexity : 0.8801942887805052
+Sentence: ) _ the women : little father !
+Perplexity : 1.118033988749895
+Sentence: who the girls in _the tempest_ , in _pericles , _ in _winter ’ s tale_ are we know .
+Perplexity : 0.9545381771637053
+Sentence: what do you lack with your barbed wire ?
+Perplexity : 1.118033988749895
+Sentence: ) _ sober hearsedrivers a speciality .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> cricket weather .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> blazes ?
+Perplexity : 1.118033988749895
+Sentence: women will pay a lot of heed , i don ’ t think .
+Perplexity : 0.9201272566733648
+Sentence: the idea , he was strongly inclined to believe , was to do good and net a profit , there being no competition to speak of .
+Perplexity : 1.0437510832060664
+Sentence: i could weep to think of it .
+Perplexity : 0.8942627525226247
+Sentence: <s> <s> <s> brigade !
+Perplexity : 1.118033988749895
+Sentence: with john wyse nolan mr power followed them in .
+Perplexity : 1.0808880985005265
+Sentence: <s> _our lovely land_ .
+Perplexity : 1.118033988749895
+Sentence: —as for his family , stephen said , his mother ’ s name lives in the forest of arden .
+Perplexity : 0.8207225829906284
+Sentence: i sentenced him to ten years .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> big benben .
+Perplexity : 1.118033988749895
+Sentence: you ’ re a liar , excuse me ... the gentleman paid down like a gentleman ... drink ... it ’ s long after eleven .
+Perplexity : 0.9750000168925896
+Sentence: flea having a good square meal .
+Perplexity : 1.0963004341524454
+Sentence: the patriot ’ s banquet .
+Perplexity : 1.118033988749895
+Sentence: having delivered himself of this rebuke he saluted those present on the by and repaired to the door .
+Perplexity : 0.9373325325603497
+Sentence: <s> <s> sonnez la .
+Perplexity : 1.0540925533894598
+Sentence: pat served , uncovered dishes .
+Perplexity : 1.118033988749895
+Sentence: the horse : _ ( neighs .
+Perplexity : 0.7456231245919327
+Sentence: <s> it is haunted .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> uropoetic .
+Perplexity : 1.118033988749895
+Sentence: ) _ dr bloom is bisexually abnormal .
+Perplexity : 1.118033988749895
+Sentence: is that boylan well off ?
+Perplexity : 1.118033988749895
+Sentence: —a quart , stephen said .
+Perplexity : 0.6405168264178714
+Sentence: larry o ’ rourke : an eightday licence for my new premises .
+Perplexity : 1.1012703168743083
+Sentence: came from the turpentine probably in the paint .
+Perplexity : 0.8667355556549285
+Sentence: many bonafide travellers and ownerless dogs come near him and defile him .
+Perplexity : 1.0444946845778609
+Sentence: nothing , as it seems , there of rash or violent .
+Perplexity : 1.0692541736085228
+Sentence: up , guards , and at them !
+Perplexity : 0.9499422725153692
+Sentence: and then the heat .
+Perplexity : 1.118033988749895
+Sentence: tiny , her tremulous fernfoils of maidenhair .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> again .
+Perplexity : 0.8944271909999159
+Sentence: highly providential was the appearance on the scene of corny kelleher when stephen was blissfully unconscious but for that man in the gap turning up at the eleventh hour the finis might have been that he might have been a candidate for the accident ward or , failing that , the bridewell and an appearance in the court next day before mr tobias or , he being the solicitor rather , old wall , he meant to say , or mahony which simply spelt ruin for a chap when it got bruited about .
+Perplexity : 0.9918632853165847
+Sentence: old mr verschoyle with the ear trumpet loves old mrs verschoyle with the turnedin eye .
+Perplexity : 1.0197809508810098
+Sentence: everyone dying to know what she ’ s writing .
+Perplexity : 0.8114214563570897
+Sentence: <s> <s> open house .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> o !
+Perplexity : 1.118033988749895
+Sentence: _epi oinopa ponton._ the mother : _ ( comes nearer , breathing upon him softly her breath of wetted ashes .
+Perplexity : 0.9790305040338657
+Sentence: bloom : yes , ma ’ am ?
+Perplexity : 1.118033988749895
+Sentence: ( he cries , his vulture talons sharpened .
+Perplexity : 1.0293256904013774
+Sentence: <s> <s> <s> nature .
+Perplexity : 1.118033988749895
+Sentence: will some pleashe pershon not now impediment so catastrophics mit agitation of firstclass tablenumpkin ?
+Perplexity : 1.118033988749895
+Sentence: well , it is a long rest .
+Perplexity : 1.0404478625719542
+Sentence: spoils slung at her back .
+Perplexity : 1.0855926040543844
+Sentence: <s> <s> —let him !
+Perplexity : 0.8944271909999159
+Sentence: i don ’ t give a shit for him .
+Perplexity : 1.0351254713904843
+Sentence: ) _ li li poo lil chile blingee pigfoot evly night payee two shilly ... _ ( he is howled down .
+Perplexity : 0.9756129101058756
+Sentence: <s> <s> <s> walk .
+Perplexity : 1.118033988749895
+Sentence: zoe : clap on the back for zoe .
+Perplexity : 0.9020483831703359
+Sentence: but just then there was a slight altercation between master tommy and master jacky .
+Perplexity : 1.0143828616549366
+Sentence: _was du verlachst wirst du noch dienen._ brood of mockers : photius , pseudomalachi , johann most .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> —how so ?
+Perplexity : 1.0540925533894598
+Sentence: and also it was a marvel to see in that castle how by magic they make a compost out of fecund wheatkidneys out of chaldee that by aid of certain angry spirits that they do in to it swells up wondrously like to a vast mountain .
+Perplexity : 1.0482823578511737
+Sentence: at least that ’ s my idea for what it ’ s worth .
+Perplexity : 0.7374410487373994
+Sentence: i never borrowed a shilling in my life._ can you feel that ?
+Perplexity : 1.066361310122637
+Sentence: stopped short never to go again when the old .
+Perplexity : 1.0449763542398334
+Sentence: all the odd things people pick up for food .
+Perplexity : 1.1071138817952288
+Sentence: <s> waste of time .
+Perplexity : 0.8333333333333334
+Sentence: <s> <s> <s> vibrations .
+Perplexity : 1.118033988749895
+Sentence: everyone thought the world of her for her gentle ways .
+Perplexity : 1.0375083702838042
+Sentence: —the strangers , says the citizen .
+Perplexity : 0.8890317030081732
+Sentence: _ ( a black skullcap descends upon his head .
+Perplexity : 1.091549525329094
+Sentence: in vain the voice of mr canvasser bloom was heard endeavouring to urge , to mollify , to refrain .
+Perplexity : 1.0394680714778335
+Sentence: a sire in ultonian antrim bade it him .
+Perplexity : 1.0008810544094362
+Sentence: <s> <s> <s> ox/w .
+Perplexity : 1.118033988749895
+Sentence: two bar and a wing .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> that so ?
+Perplexity : 1.0540925533894598
+Sentence: but henry wrote : it will excite me .
+Perplexity : 0.9930337864348694
+Sentence: life might be so .
+Perplexity : 1.118033988749895
+Sentence: —_pardon , monsieur_ , lenehan said , clutching him for an instant and making a grimace .
+Perplexity : 1.0376257840660124
+Sentence: <s> —down , sir !
+Perplexity : 1.118033988749895
+Sentence: i ’ m going to plunge five bob on my own .
+Perplexity : 1.0863799313883036
+Sentence: <s> <s> <s> fitzharris .
+Perplexity : 1.118033988749895
+Sentence: cuffe sold them about twentyseven quid each .
+Perplexity : 1.118033988749895
+Sentence: _omnis caro ad te veniet_ .
+Perplexity : 1.118033988749895
+Sentence: the field follows , a bunch of bucking mounts .
+Perplexity : 0.9595525969658554
+Sentence: i might have tried to work m ’ coy for a pass to mullingar .
+Perplexity : 1.0300048422247088
+Sentence: prefer an ounce of opium .
+Perplexity : 1.118033988749895
+Sentence: ) _ twenty to one .
+Perplexity : 1.0
+Sentence: of a bodily and mental male organism specially adapted for the superincumbent posture of energetic human copulation and energetic piston and cylinder movement necessary for the complete satisfaction of a constant but not acute concupiscence resident in a bodily and mental female organism , passive but not obtuse .
+Perplexity : 1.0403664390390586
+Sentence: <s> how many children ?
+Perplexity : 1.118033988749895
+Sentence: better find out in the paper .
+Perplexity : 0.7032722958019549
+Sentence: mr bloom moved behind the portly kindly caretaker .
+Perplexity : 1.118033988749895
+Sentence: get twenty of them round you if you stare at nothing .
+Perplexity : 1.082062310113914
+Sentence: gives you second wind .
+Perplexity : 0.9682458365518543
+Sentence: * * * _—ma ! _ almidano artifoni said .
+Perplexity : 0.905566592579347
+Sentence: <s> <s> the octave .
+Perplexity : 1.118033988749895
+Sentence: the necessity of order , a place for everything and everything in its place : the deficient appreciation of literature possessed by females : the incongruity of an apple incuneated in a tumbler and of an umbrella inclined in a closestool : the insecurity of hiding any secret document behind , beneath or between the pages of a book .
+Perplexity : 1.0160685483892178
+Sentence: what echoes of that sound were by both and each heard ?
+Perplexity : 1.118033988749895
+Sentence: bloom with his sceptre strikes down poppies .
+Perplexity : 1.118033988749895
+Sentence: ) _ have it now or wait till you get it ?
+Perplexity : 1.0536269941235177
+Sentence: the widewinged nostrils , from which bristles of the same tawny hue projected , were of such capaciousness that within their cavernous obscurity the fieldlark might easily have lodged her nest .
+Perplexity : 1.0538295272821503
+Sentence: goodbye ireland i ’ m going to gort .
+Perplexity : 0.9354426367207292
+Sentence: ) _ lynch : so that ?
+Perplexity : 1.0158012922218453
+Sentence: a new purchase at some monster sale for which a gull has been mulcted .
+Perplexity : 1.118033988749895
+Sentence: sometimes molly and milly together .
+Perplexity : 1.0855926040543844
+Sentence: <s> <s> <s> hush !
+Perplexity : 1.118033988749895
+Sentence: <s> drowning his grief .
+Perplexity : 1.118033988749895
+Sentence: second watch : night , mr kelleher .
+Perplexity : 0.9640316214745237
+Sentence: a noiseless attendant setting open the door but slightly made him a noiseless beck .
+Perplexity : 1.0478106063135713
+Sentence: <s> <s> <s> in .
+Perplexity : 0.9682458365518543
+Sentence: pinned up , i bet .
+Perplexity : 1.118033988749895
+Sentence: through the open doorway the bar squirted out whiffs of ginger , teadust , biscuitmush .
+Perplexity : 1.112560537347923
+Sentence: time ’ s livid final flame leaps and , in the following darkness , ruin of all space , shattered glass and toppling masonry .
+Perplexity : 0.9922784100328397
+Sentence: nay , she had even witnessed in the home circle deeds of violence caused by intemperance and had seen her own father , a prey to the fumes of intoxication , forget himself completely for if there was one thing of all things that gerty knew it was that the man who lifts his hand to a woman save in the way of kindness , deserves to be branded as the lowest of the low .
+Perplexity : 0.9904607876671806
+Sentence: i dare him , says he , and i doubledare him .
+Perplexity : 0.8320786257903332
+Sentence: <s> <s> <s> twentyeight .
+Perplexity : 1.118033988749895
+Sentence: <s> ) _ stephen !
+Perplexity : 1.118033988749895
+Sentence: bloom : thank you , sir .
+Perplexity : 0.8418786108530191
+Sentence: <s> <s> through here .
+Perplexity : 1.0540925533894598
+Sentence: says the citizen , jeering .
+Perplexity : 1.1559871147906977
+Sentence: she calls the doctor sir peter teazle and picks buttercups off the quilt .
+Perplexity : 1.0725020684964048
+Sentence: ) _ steak and kidney .
+Perplexity : 1.118033988749895
+Sentence: hangmen ’ s letters .
+Perplexity : 1.118033988749895
+Sentence: i polish the sky .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> —ay .
+Perplexity : 1.118033988749895
+Sentence: remember , erin , thy generations and thy days of old , how thou settedst little by me and by my word and broughtedst in a stranger to my gates to commit fornication in my sight and to wax fat and kick like jeshurum .
+Perplexity : 1.080576290340818
+Sentence: sooner have me as i am than some poet chap with bearsgrease plastery hair , lovelock over his dexter optic .
+Perplexity : 1.063244803750396
+Sentence: <s> <s> how do ?
+Perplexity : 1.118033988749895
+Sentence: excuse , miss , there ’ s a ( whh ! )
+Perplexity : 0.8138779730285446
+Sentence: <s> <s> i say !
+Perplexity : 1.118033988749895
+Sentence: <s> <s> fourbottle men .
+Perplexity : 1.0540925533894598
+Sentence: <s> <s> start afresh .
+Perplexity : 1.118033988749895
+Sentence: police chargesheets crammed with cases get their percentage manufacturing crime .
+Perplexity : 1.118033988749895
+Sentence: gob , he near sent it into the county longford .
+Perplexity : 1.0403089939025376
+Sentence: ) _ zoe : you ’ ll know me the next time .
+Perplexity : 0.9738078354894519
+Sentence: <s> <s> <s> pat !
+Perplexity : 1.118033988749895
+Sentence: more interesting if you understood what it was all about .
+Perplexity : 0.9834099447307033
+Sentence: must be strange not to see her .
+Perplexity : 0.9146435902233963
+Sentence: <s> <s> <s> one !
+Perplexity : 1.0540925533894598
+Sentence: she folded the card into her untidy bag and snapped the catch .
+Perplexity : 1.118033988749895
+Sentence: —there he is , lenehan said .
+Perplexity : 0.7916014911683293
+Sentence: <s> locks and keys !
+Perplexity : 1.118033988749895
+Sentence: he walked there , reading in the evening , and heard the cries of the boys ’ lines at their play , young cries in the quiet evening .
+Perplexity : 0.9231716500863187
+Sentence: in luke doyle ’ s long ago .
+Perplexity : 0.7207028134655232
+Sentence: she knew at once .
+Perplexity : 1.118033988749895
+Sentence: —right , m ’ coy said brightly .
+Perplexity : 1.0785434965163085
+Sentence: then the spokes : sports , sports , sports : and the hub big : college .
+Perplexity : 1.0492949098335334
+Sentence: seat of the affections .
+Perplexity : 1.118033988749895
+Sentence: _ ( he refuses to accept three shillings offered him by joseph hynes , journalist .
+Perplexity : 1.1071138817952288
+Sentence: alexander j christ dowie , that ’ s my name , that ’ s yanked to glory most half this planet from frisco beach to vladivostok .
+Perplexity : 0.8978355406149947
+Sentence: —i came through the museum , buck mulligan said .
+Perplexity : 0.9407642492523256
+Sentence: dinna forget the cowslips for hersel .
+Perplexity : 1.118033988749895
+Sentence: what more ’ s to speak ?
+Perplexity : 1.0656924371131133
+Sentence: so as neither of them were particularly pressed for time , as it happened , and the temperature refreshing since it cleared up after the recent visitation of jupiter pluvius , they dandered along past by where the empty vehicle was waiting without a fare or a jarvey .
+Perplexity : 1.0663532005936642
+Sentence: white horses with white frontlet plumes came round the rotunda corner , galloping .
+Perplexity : 1.0714192432191691
+Sentence: <s> <s> not likely .
+Perplexity : 1.118033988749895
+Sentence: our father who art in purgatory .
+Perplexity : 1.118033988749895
+Sentence: <s> no , no .
+Perplexity : 0.8333333333333334
+Sentence: mr bloom reached essex bridge .
+Perplexity : 1.118033988749895
+Sentence: _ ( he disappears into olhausen ’ s , the porkbutcher ’ s , under the downcoming rollshutter .
+Perplexity : 0.7916618021469854
+Sentence: <s> _ ( plausibly .
+Perplexity : 1.118033988749895
+Sentence: dull business by day , land agents , temperance hotel , falconer ’ s railway guide , civil service college , gill ’ s , catholic club , the industrious blind .
+Perplexity : 0.9295556418538838
+Sentence: some pock or oth .
+Perplexity : 1.118033988749895
+Sentence: careless air : just drop in to see .
+Perplexity : 1.0167777128590996
+Sentence: —it beats me , mr bloom confided to stephen , medically i am speaking , how a wretched creature like that from the lock hospital reeking with disease can be barefaced enough to solicit or how any man in his sober senses , if he values his health in the least .
+Perplexity : 1.007447591181505
+Sentence: _ma , dia retta a me .
+Perplexity : 0.9175647139555279
+Sentence: <s> christian brother boys .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> waterlilies .
+Perplexity : 1.118033988749895
+Sentence: and then an old fellow starts blowing into his bagpipes and all the gougers shuffling their feet to the tune the old cow died of .
+Perplexity : 1.0303643570706342
+Sentence: it has vanished long ago ... —she lies laid out in stark stiffness in that secondbest bed , the mobled queen , even though you prove that a bed in those days was as rare as a motorcar is now and that its carvings were the wonder of seven parishes .
+Perplexity : 1.0670671824603501
+Sentence: no accounting for tastes .
+Perplexity : 1.118033988749895
+Sentence: i have often thought since on looking back over that strange time that it was that small act , trivial in itself , that striking of that match , that determined the whole aftercourse of both our lives .
+Perplexity : 1.023762981165656
+Sentence: bloom ’ s bodyguard distribute maundy money , commemoration medals , loaves and fishes , temperance badges , expensive henry clay cigars , free cowbones for soup , rubber preservatives in sealed envelopes tied with gold thread , butter scotch , pineapple rock , _ billets doux _in the form of cocked hats , readymade suits , porringers of toad in the hole , bottles of jeyes ’ fluid , purchase stamps , 40 days ’ indulgences , spurious coins , dairyfed pork sausages , theatre passes , season tickets available for all tramlines , coupons of the royal and privileged hungarian lottery , penny dinner counters , cheap reprints of the world ’ s twelve worst books : froggy and fritz ( politic ) , care of the baby ( infantilic ) , 50 meals for 7/6 ( culinic ) , was jesus a sun myth ?
+Perplexity : 1.0481803721468446
+Sentence: they were protestants in his family and of course gerty knew who came first and after him the blessed virgin and then saint joseph .
+Perplexity : 1.0297722503405422
+Sentence: how do you know ?
+Perplexity : 1.118033988749895
+Sentence: that was the smartest piece of journalism ever known .
+Perplexity : 1.118033988749895
+Sentence: if you ring up ... _ ( myles crawford strides out jerkily , a quill between his teeth .
+Perplexity : 0.9606581721560754
+Sentence: —i thought it was irish , she said , by the sound of it .
+Perplexity : 0.9028896481560363
+Sentence: we were in lombard street west .
+Perplexity : 1.118033988749895
+Sentence: quietly he read , restraining himself , the first column and , yielding but resisting , began the second .
+Perplexity : 0.9856603326154211
+Sentence: we are the last .
+Perplexity : 1.0540925533894598
+Sentence: <s> <s> <s> leopold !
+Perplexity : 1.118033988749895
+Sentence: —that ’ s so , says martin .
+Perplexity : 0.9124754897866346
+Sentence: great voice richie goulding said , a flush struggling in his pale , to bloom soon old .
+Perplexity : 0.9106463773312496
+Sentence: <s> he threw it .
+Perplexity : 0.5958435917242179
+Sentence: i must go now , says he to john wyse .
+Perplexity : 0.9332473511428817
+Sentence: lot of thanks i get .
+Perplexity : 1.118033988749895
+Sentence: it ’ s all right .
+Perplexity : 1.0540925533894598
+Sentence: <s> <s> like what ?
+Perplexity : 0.9682458365518543
+Sentence: the hero folded her willowy form in a loving embrace murmuring fondly _sheila , my own_ .
+Perplexity : 1.023583851007458
+Sentence: <s> <s> watch him !
+Perplexity : 0.8944271909999159
+Sentence: —but do you know what a nation means ?
+Perplexity : 1.0555219259820006
+Sentence: <s> <s> turn back .
+Perplexity : 1.0540925533894598
+Sentence: <s> buck mulligan asked .
+Perplexity : 0.8944271909999159
+Sentence: the voice of warning , solemn warning , told them the youth had entered a lonely hall , told them how solemn fell his footsteps there , told them the gloomy chamber , the vested priest sitting to shrive .
+Perplexity : 1.0433070226771404
+Sentence: so bloom slopes in with his cod ’ s eye on the dog and he asks terry was martin cunningham there .
+Perplexity : 0.8816839507822533
+Sentence: how many have you left ?
+Perplexity : 1.118033988749895
+Sentence: his back trouserbutton snaps .
+Perplexity : 1.118033988749895
+Sentence: — ’ tis all that .
+Perplexity : 1.0404478625719542
+Sentence: <s> <s> <s> insects ?
+Perplexity : 1.118033988749895
+Sentence: _ ( the two whores rush to the halldoor .
+Perplexity : 0.9477940563682214
+Sentence: he kills his mother but he can ’ t wear grey trousers .
+Perplexity : 0.9783747456862651
+Sentence: muddy swinesnouts , hands , root and root , gripe and wrest them .
+Perplexity : 1.1114690667765348
+Sentence: —and has remained so , one should hope , john eglinton sedately said .
+Perplexity : 0.948753785594784
+Sentence: she has large pendant beryl eardrops .
+Perplexity : 1.118033988749895
+Sentence: paddy leonard : stage irishman !
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> —miaow !
+Perplexity : 1.118033988749895
+Sentence: remember him in your prayers .
+Perplexity : 1.118033988749895
+Sentence: —mr lyster , an attendant said from the door ajar .
+Perplexity : 0.9356253019311347
+Sentence: o , weeping god , the things i married into !
+Perplexity : 0.9519079156005573
+Sentence: observe the mass of oxygenated vegetable matter on her skull .
+Perplexity : 1.09529425828673
+Sentence: time makes the tune .
+Perplexity : 1.118033988749895
+Sentence: woodshadows floated silently by through the morning peace from the stairhead seaward where he gazed .
+Perplexity : 0.9896721540525134
+Sentence: stephen filled again the three cups .
+Perplexity : 1.118033988749895
+Sentence: they waded a little way in the water and , stooping , soused their bags and , lifting them again , waded out .
+Perplexity : 0.9913884948358376
+Sentence: a _lex eterna_ stays about him .
+Perplexity : 0.8911365131231873
+Sentence: all the people are looking at you .
+Perplexity : 1.0082709710495072
+Sentence: isn ’ t the sea what algy calls it : a great sweet mother ?
+Perplexity : 1.0976170848047873
+Sentence: <s> <s> three days .
+Perplexity : 1.0540925533894598
+Sentence: what had prevented him from completing a topical song ( music by r. g. johnston ) on the events of the past , or fixtures for the actual , years , entitled _if brian boru could but come back and see old dublin now_ , commissioned by michael gunn , lessee of the gaiety theatre , 46 , 47 , 48 , 49 south king street , and to be introduced into the sixth scene , the valley of diamonds , of the second edition ( 30 january 1893 ) of the grand annual christmas pantomime _sinbad the sailor_ ( produced by r. shelton 26 december 1892 , written by greenleaf whittier , scenery by george a. jackson and cecil hicks , costumes by mrs and miss whelan under the personal supervision of mrs michael gunn , ballets by jessie noir , harlequinade by thomas otto ) and sung by nelly bouverist , principal girl ?
+Perplexity : 1.0388690215428147
+Sentence: part shares and part profits .
+Perplexity : 1.118033988749895
+Sentence: mr denis j maginni , professor of dancing & c , in silk hat , slate frockcoat with silk facings , white kerchief tie , tight lavender trousers , canary gloves and pointed patent boots , walking with grave deportment most respectfully took the curbstone as he passed lady maxwell at the corner of dignam ’ s court .
+Perplexity : 1.0367546304616455
+Sentence: the night si sang .
+Perplexity : 1.118033988749895
+Sentence: <s> the contrary no .
+Perplexity : 0.8333333333333334
+Sentence: i often told poor paddy he ought to mind that job .
+Perplexity : 1.087279638020491
+Sentence: <s> <s> get on .
+Perplexity : 0.9682458365518543
+Sentence: second watch : _ ( tears in his eyes , to bloom .
+Perplexity : 0.8051256429904671
+Sentence: <s> corpse of milk .
+Perplexity : 1.118033988749895
+Sentence: <s> shrieks of silence .
+Perplexity : 1.118033988749895
+Sentence: more interesting if they told you what they were .
+Perplexity : 1.066695904040656
+Sentence: joseph , her spouse .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> waaaaaaalk .
+Perplexity : 1.118033988749895
+Sentence: drugs age you after mental excitement .
+Perplexity : 1.118033988749895
+Sentence: ) _ dlugacz : _ ( hoarsely .
+Perplexity : 0.6744992016096761
+Sentence: <s> <s> high voices .
+Perplexity : 1.118033988749895
+Sentence: <s> _ ( satirically .
+Perplexity : 1.118033988749895
+Sentence: her first birthday away from home .
+Perplexity : 1.0963004341524454
+Sentence: <s> the best obtainable .
+Perplexity : 1.118033988749895
+Sentence: between the curtains professor maginni inserts a leg on the toepoint of which spins a silk hat .
+Perplexity : 1.0311774938406577
+Sentence: bloom : when my progenitor of sainted memory wore the uniform of the austrian despot in a dank prison where was yours ?
+Perplexity : 0.9967325445019677
+Sentence: i do wish i could do something for you .
+Perplexity : 1.0089327969635964
+Sentence: —o , my corns !
+Perplexity : 1.118033988749895
+Sentence: he was starving too though he hadn ’ t said a word about it .
+Perplexity : 0.9498892395741048
+Sentence: _—why will you jews not accept our culture , our religion and our language ?
+Perplexity : 1.1061264494181404
+Sentence: the harping chords of prelude closed .
+Perplexity : 1.118033988749895
+Sentence: the mother : who saved you the night you jumped into the train at dalkey with paddy lee ?
+Perplexity : 1.0610372435030313
+Sentence: —his father poisoned himself , martin cunningham whispered .
+Perplexity : 0.981671579079548
+Sentence: <s> <s> nearly over .
+Perplexity : 1.0540925533894598
+Sentence: the highroads are dreary but they lead to the town .
+Perplexity : 0.9542346787978506
+Sentence: <s> —yes , sir .
+Perplexity : 0.9682458365518541
+Sentence: <s> <s> <s> ah !
+Perplexity : 0.9393364366277243
+Sentence: _ ( old sleepy hollow calls over the wold .
+Perplexity : 1.0347698187782817
+Sentence: ) _ o , they played that on the hobbyhorses at the _mirus_ bazaar !
+Perplexity : 0.9554404018762894
+Sentence: the echo : fool !
+Perplexity : 1.118033988749895
+Sentence: you were a student , weren ’ t you ?
+Perplexity : 0.9158594310521307
+Sentence: the tall form of long john fanning filled the doorway where he stood .
+Perplexity : 1.0725020684964048
+Sentence: from somnambulism : once , sleeping , his body had risen , crouched and crawled in the direction of a heatless fire and , having attained its destination , there , curled , unheated , in night attire had lain , sleeping .
+Perplexity : 0.9889047246052809
+Sentence: o , look what i found in professor goodwin ’ s hat !
+Perplexity : 0.925852483703321
+Sentence: going to crop up all day , i foresee .
+Perplexity : 0.9658846359043123
+Sentence: it ’ s papli !
+Perplexity : 1.118033988749895
+Sentence: he crossed to the bright side , avoiding the loose cellarflap of number seventyfive .
+Perplexity : 1.118033988749895
+Sentence: bloom looked at the head of a horse not worth anything like sixtyfive guineas , suddenly in evidence in the dark quite near so that it seemed new , a different grouping of bones and even flesh because palpably it was a fourwalker , a hipshaker , a blackbuttocker , a taildangler , a headhanger putting his hind foot foremost the while the lord of his creation sat on the perch , busy with his thoughts .
+Perplexity : 0.9703443600896096
+Sentence: <s> the seabirds screaming .
+Perplexity : 1.118033988749895
+Sentence: he gets the plums , and i the plumstones .
+Perplexity : 1.002958919533801
+Sentence: <s> <s> <s> why ?
+Perplexity : 1.118033988749895
+Sentence: out of her clothes somewhere : pinned together .
+Perplexity : 1.1049426930055999
+Sentence: cut with grass or paper worst .
+Perplexity : 1.118033988749895
+Sentence: failed to the tune of ten thousand pounds .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> sister agatha .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> —eaten alive ?
+Perplexity : 1.118033988749895
+Sentence: florry : _ ( hiding her with her gown .
+Perplexity : 1.118033988749895
+Sentence: women press forward to touch the hem of bloom ’ s robe .
+Perplexity : 0.9260910028443335
+Sentence: aristotle ’ s phrase formed itself within the gabbled verses and floated out into the studious silence of the library of saint genevieve where he had read , sheltered from the sin of paris , night by night .
+Perplexity : 1.0103512469781115
+Sentence: she ’ s singing , yes .
+Perplexity : 1.118033988749895
+Sentence: nice to hold , cool waxen fruit , hold in the hand , lift it to the nostrils and smell the perfume .
+Perplexity : 0.984952163715073
+Sentence: chap sold me the swedish razor he shaved me with .
+Perplexity : 1.1086673424868159
+Sentence: what did i say ?
+Perplexity : 1.0540925533894596
+Sentence: <s> pal to pal .
+Perplexity : 1.118033988749895
+Sentence: never forgive you after .
+Perplexity : 1.118033988749895
+Sentence: would you like me perhaps to embrace you just for a fraction of a second ?
+Perplexity : 0.9999058900963018
+Sentence: —our mutual friend ’ s stories are like himself , mr bloom _apropos_ of knives remarked to his _confidante sotto voce_ .
+Perplexity : 0.9416684159360618
+Sentence: in wild attitudes they spring from the brink .
+Perplexity : 0.9615751240980811
+Sentence: though palpably a radically altered man he was still a commanding figure though carelessly garbed as usual with that look of settled purpose which went a long way with the shillyshallyers till they discovered to their vast discomfiture that their idol had feet of clay after placing him upon a pedestal which she , however , was the first to perceive .
+Perplexity : 1.0786057517125573
+Sentence: a dwarf ’ s face , mauve and wrinkled like little rudy ’ s was .
+Perplexity : 0.9705548822355066
+Sentence: i gall his kibe .
+Perplexity : 1.118033988749895
+Sentence: your christmas dinner for threepence .
+Perplexity : 1.118033988749895
+Sentence: don ’ t maul them pieces , young one .
+Perplexity : 1.066695904040656
+Sentence: or hanging up on the floor .
+Perplexity : 0.703850271365644
+Sentence: <s> <s> <s> wait .
+Perplexity : 1.0
+Sentence: birds of prey , winging from the sea , rising from marshlands , swooping from eyries , hover screaming , gannets , cormorants , vultures , goshawks , climbing woodcocks , peregrines , merlins , blackgrouse , sea eagles , gulls , albatrosses , barnacle geese .
+Perplexity : 1.0949372530548362
+Sentence: wonder where he lives .
+Perplexity : 0.9682458365518543
+Sentence: miss kennedy passed their way ( flower , wonder who gave ) , bearing away teatray .
+Perplexity : 1.0739268871009549
+Sentence: the grub is ready .
+Perplexity : 1.118033988749895
+Sentence: lucky molly got over hers lightly .
+Perplexity : 1.118033988749895
+Sentence: she didn ’ t like her plate full .
+Perplexity : 1.118033988749895
+Sentence: <s> <s> <s> tap .
+Perplexity : 1.0
+Sentence: a people sheltered within his voice .
+Perplexity : 1.0656924371131133
+Average Perplexity of the testing sentences: 1.036608808030308

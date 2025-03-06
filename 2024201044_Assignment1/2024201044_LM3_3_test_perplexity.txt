@@ -1,0 +1,2001 @@
+Sentence: `` well , then , you need not be under any alarm .
+Perplexity : 2.1565810801827943
+Sentence: has she any family ? ''
+Perplexity : 1.7030529375600423
+Sentence: and though he exclaimed at the term , she found that it had been pretty much the case .
+Perplexity : 2.3079599422067925
+Sentence: if mr. darcy is neither by honour nor inclination confined to his cousin , why is not he to make another choice ?
+Perplexity : 2.146258986791391
+Sentence: she had never heard of him before his entrance into the shire militia , in which he had engaged at the persuasion of the young man , who , on meeting him accidentally in town , had there renewed a slight acquaintance .
+Perplexity : 2.284476159568468
+Sentence: mrs. bennet and lydia are going in the carriage to meryton .
+Perplexity : 2.407566951690569
+Sentence: he arranges the business just as he pleases . ''
+Perplexity : 1.862184913931691
+Sentence: but as it is you must not let your fancy run away with you .
+Perplexity : 2.5965682869817814
+Sentence: he scarcely needed an invitation to stay supper ; and before he went away , an engagement was formed , chiefly through his own and mrs. bennet 's means , for his coming next morning to shoot with her husband .
+Perplexity : 2.208582759693999
+Sentence: had she found jane in any apparent danger , mrs. bennet would have been very miserable ; but being satisfied on seeing her that her illness was not alarming , she had no wish of her recovering immediately , as her restoration to health would probably remove her from netherfield .
+Perplexity : 2.219832791444368
+Sentence: mr. collins might never make the offer , and till he did , it was useless to quarrel about him .
+Perplexity : 2.2366006443194912
+Sentence: bingley expressed great pleasure in the certainty of seeing elizabeth again , having still a great deal to say to her , and many enquiries to make after all their hertfordshire friends .
+Perplexity : 2.1817368744081476
+Sentence: we are not rich enough , or grand enough for them ; and she is the more anxious to get miss darcy for her brother , from the notion that when there has been one intermarriage , she may have less trouble in achieving a second ; in which there is certainly some ingenuity , and i dare say it would succeed , if miss de bourgh were out of the way .
+Perplexity : 2.2455539323526064
+Sentence: let me do it without farther loss of time .
+Perplexity : 2.016209319891675
+Sentence: mr. darcy said very little , and mr. hurst nothing at all .
+Perplexity : 2.6983287668898956
+Sentence: darcy smiled and said , `` you are perfectly right .
+Perplexity : 2.3616008292928434
+Sentence: mrs. bennet had seen her eldest daughter much admired by the netherfield party .
+Perplexity : 2.280445003955813
+Sentence: he drew a chair near her .
+Perplexity : 1.599402807337688
+Sentence: do you draw ? ''
+Perplexity : 1.9432906923608124
+Sentence: we seem to have been designed for each other . ''
+Perplexity : 1.904590432208358
+Sentence: that he had sprained his ancle in the first dance ! ''
+Perplexity : 2.0009437780343675
+Sentence: and there was my aunt , all the time i was dressing , preaching and talking away just as if she was reading a sermon .
+Perplexity : 2.342608424208927
+Sentence: in the intervals of her discourse with mrs. collins , she addressed a variety of questions to maria and elizabeth , but especially to the latter , of whose connections she knew the least , and who she observed to mrs. collins , was a very genteel , pretty kind of girl .
+Perplexity : 2.1705006662990343
+Sentence: he was as much awake to the novelty of attention in that quarter as elizabeth herself could be , and unconsciously closed his book .
+Perplexity : 2.068363657018113
+Sentence: a house in town !
+Perplexity : 2.377327790590399
+Sentence: elizabeth said nothing , but it gratified her exceedingly ; the compliment must be all for herself .
+Perplexity : 2.271146060669721
+Sentence: she felt anew the justice of mr. darcy 's objections ; and never had she before been so much disposed to pardon his interference in the views of his friend .
+Perplexity : 2.1168833006404855
+Sentence: it was not thought necessary in sir lewis de bourgh 's family .
+Perplexity : 2.067428771227732
+Sentence: they were more disturbed , more unequal , than she had often seen them .
+Perplexity : 2.2132256602438445
+Sentence: eager to be alone , and fearful of enquiries or hints from her uncle and aunt , she staid with them only long enough to hear their favourable opinion of bingley , and then hurried away to dress .
+Perplexity : 2.0695821401638135
+Sentence: how well it sounds .
+Perplexity : 1.54959267740562
+Sentence: `` no , i should have turned in a moment . ''
+Perplexity : 2.3566105729279094
+Sentence: kitty simpered and smiled , and hoped her turn was coming soon .
+Perplexity : 1.8232414583918068
+Sentence: mrs. bennet , we shall have her at netherfield at last . '
+Perplexity : 2.6567846290538415
+Sentence: elizabeth had frequently united with jane in an endeavour to check the imprudence of catherine and lydia ; but while they were supported by their mother 's indulgence , what chance could there be of improvement ?
+Perplexity : 1.9786993217253657
+Sentence: it is often only carelessness of opinion , and sometimes an indirect boast . ''
+Perplexity : 1.9270899142818942
+Sentence: `` i think i have heard you say , that their uncle is an attorney in meryton . ''
+Perplexity : 2.3772503675470493
+Sentence: but i can guess how it was ; every body says that he is ate up with pride , and i dare say he had heard somehow that mrs. long does not keep a carriage , and had come to the ball in a hack chaise . ''
+Perplexity : 2.1948723393888265
+Sentence: well , and so just as the carriage came to the door , my uncle was called away upon business to that horrid man mr. stone .
+Perplexity : 2.1809958456507075
+Sentence: `` your attendance upon her , has been too much for you .
+Perplexity : 2.342572886522027
+Sentence: mrs. bennet chose to consider it as given in compliment to her eldest daughter , and was particularly flattered by receiving the invitation from mr. bingley himself , instead of a ceremonious card .
+Perplexity : 2.040827062672801
+Sentence: on distinguishing the ladies of the group , the two gentlemen came directly towards them , and began the usual civilities .
+Perplexity : 2.1148036483098367
+Sentence: i should as soon call her mother a wit . '
+Perplexity : 2.182041737661246
+Sentence: however little mr. darcy might have liked such an address , he contented himself with coolly replying , that he perceived no other alteration than her being rather tanned , no miraculous consequence of travelling in the summer .
+Perplexity : 1.9374656035960713
+Sentence: there is no talk of his coming to netherfield again in the summer ; and i have enquired of every body too , who is likely to know . ''
+Perplexity : 2.488777325689106
+Sentence: you are very cautious , i suppose , as to its being created . ''
+Perplexity : 2.2569393940332314
+Sentence: `` and your defect is a propensity to hate every body . ''
+Perplexity : 1.9177223229645606
+Sentence: he is perfectly amiable .
+Perplexity : 2.168405181055623
+Sentence: i was afraid they might not ; and we overtook william goulding in his curricle , so i was determined he should know it , and so i let down the side glass next to him , and took off my glove , and let my hand just rest upon the window frame , so that he might see the ring , and then i bowed and smiled like any thing . ''
+Perplexity : 2.111501695667035
+Sentence: `` you may , in fact , carry a very favourable report of us into hertfordshire , my dear cousin .
+Perplexity : 2.029692243537627
+Sentence: perhaps he had been civil , only because he felt himself at ease ; yet there had been that in his voice , which was not like ease .
+Perplexity : 2.2998810727968944
+Sentence: the rector of a parish has much to do .
+Perplexity : 2.1142119158573984
+Sentence: at length there was nothing more to be said ; the ladies drove on , and the others returned into the house .
+Perplexity : 2.5137784254672626
+Sentence: the very last evening was spent there ; and her ladyship again enquired minutely into the particulars of their journey , gave them directions as to the best method of packing , and was so urgent on the necessity of placing gowns in the only right way , that maria thought herself obliged , on her return , to undo all the work of the morning , and pack her trunk afresh .
+Perplexity : 2.055394118586266
+Sentence: they insist also on my seeing mr. jones therefore do not be alarmed if you should hear of his having been to me and excepting a sore throat and head ache there is not much the matter with me .
+Perplexity : 2.0740168913485726
+Sentence: i will speak to her about it myself directly .
+Perplexity : 2.664615133143379
+Sentence: how i should like to be married before any of you ; and then i would chaperon you about to all the balls .
+Perplexity : 2.2602863501200052
+Sentence: we may as well wait , perhaps , till the circumstance occurs , before we discuss the discretion of his behaviour thereupon .
+Perplexity : 1.9073558240911972
+Sentence: but good lord !
+Perplexity : 1.6073015952405083
+Sentence: the next day opened a new scene at longbourn .
+Perplexity : 1.996995664825277
+Sentence: `` of whom does jane ever think ill ?
+Perplexity : 1.774285026224279
+Sentence: `` my dear , you flatter me .
+Perplexity : 2.3006303493094244
+Sentence: i will try again .
+Perplexity : 1.9865438651990737
+Sentence: `` miss bingley , '' said he , `` has given me credit for more than can be .
+Perplexity : 2.4383335916884286
+Sentence: `` do let us have a little music , '' cried miss bingley , tired of a conversation in which she had no share .
+Perplexity : 2.241121413721
+Sentence: elizabeth walked on in quest of the only face whose features would be known to her .
+Perplexity : 2.34340505488985
+Sentence: bingley likes your sister undoubtedly ; but he may never do more than like her , if she does not help him on . ''
+Perplexity : 2.2374854978813183
+Sentence: but how little of permanent happiness could belong to a couple who were only brought together because their passions were stronger than their virtue , she could easily conjecture .
+Perplexity : 1.7846861521615154
+Sentence: why jane you never dropt a word of this ; you sly thing !
+Perplexity : 1.9012285413224426
+Sentence: i know your disposition , lizzy .
+Perplexity : 2.4624811673315987
+Sentence: the expression of his face changed gradually from indignant contempt to a composed and steady gravity .
+Perplexity : 1.7109115668701182
+Sentence: `` i can not give you credit for any philosophy of the kind .
+Perplexity : 2.280327037968395
+Sentence: it would look odd to be entirely silent for half an hour together , and yet for the advantage of some , conversation ought to be so arranged as that they may have the trouble of saying as little as possible . ''
+Perplexity : 2.15234725824703
+Sentence: at length , however , the question was asked by her uncle ; and she turned away with alarm , while mrs. reynolds replied , that he was , adding , `` but we expect him to morrow , with a large party of friends . ''
+Perplexity : 2.3412792903934037
+Sentence: never , since reading jane 's second letter , had she entertained a hope of wickham 's meaning to marry her .
+Perplexity : 2.243264265514058
+Sentence: as for your elizabeth 's picture , you must not attempt to have it taken , for what painter could do justice to those beautiful eyes ? ''
+Perplexity : 2.174871004961124
+Sentence: his plan did not vary on seeing them .
+Perplexity : 1.9441901238494625
+Sentence: i hear such different accounts of you as puzzle me exceedingly . ''
+Perplexity : 1.7380534975552615
+Sentence: but , in my opinion , it is a paltry device , a very mean art . ''
+Perplexity : 2.402415479676071
+Sentence: on such encouragement to ask , elizabeth was forced to put it out of her power , by running away .
+Perplexity : 2.0382341834749784
+Sentence: mrs. bennet was not in the habit of walking , mary could never spare time , but the remaining five set off together .
+Perplexity : 2.1595200824332004
+Sentence: the visit was returned in due form .
+Perplexity : 1.7477556481346934
+Sentence: thought she .
+Perplexity : 1.7387054385861724
+Sentence: is she handsome ? ''
+Perplexity : 1.6440550001084695
+Sentence: all connection between us seemed now dissolved .
+Perplexity : 1.6834461443618431
+Sentence: mr. bennet 's property consisted almost entirely in an estate of two thousand a year , which , unfortunately for his daughters , was entailed in default of heirs male , on a distant relation ; and their mother 's fortune , though ample for her situation in life , could but ill supply the deficiency of his .
+Perplexity : 2.032845763957069
+Sentence: darcy ! ''
+Perplexity : 2.2958307208069018
+Sentence: what a good joke it will be !
+Perplexity : 2.4791008179907
+Sentence: `` you may well be surprised , miss bennet , at such an assertion , after seeing , as you probably might , the very cold manner of our meeting yesterday .
+Perplexity : 2.291923472892458
+Sentence: colonel forster will , i dare say , do every thing in his power to satisfy us on this head .
+Perplexity : 2.234150615816943
+Sentence: `` he is as fine a fellow , '' said mr. bennet , as soon as they were out of the house , `` as ever i saw .
+Perplexity : 2.4070619443434516
+Sentence: the present unhappy state of the family , rendered any other excuse for the lowness of her spirits unnecessary ; nothing , therefore , could be fairly conjectured from that , though elizabeth , who was by this time tolerably well acquainted with her own feelings , was perfectly aware , that , had she known nothing of darcy , she could have borne the dread of lydia 's infamy somewhat better .
+Perplexity : 2.222549579711914
+Sentence: they were within twenty yards of each other , and so abrupt was his appearance , that it was impossible to avoid his sight .
+Perplexity : 2.124179152432573
+Sentence: all the world are good and agreeable in your eyes .
+Perplexity : 2.165365092267424
+Sentence: though our kind uncle has done something towards clearing him , i can not believe that ten thousand pounds , or any thing like it , has been advanced .
+Perplexity : 2.1443838355256255
+Sentence: `` if you mean darcy , '' cried her brother , `` he may go to bed , if he chuses , before it begins but as for the ball , it is quite a settled thing ; and as soon as nicholls has made white soup enough i shall send round my cards . ''
+Perplexity : 2.1854073926050486
+Sentence: this can not be !
+Perplexity : 3.2129946883695073
+Sentence: `` yes .
+Perplexity : 4.2338440354764675
+Sentence: do not repeat what i then said .
+Perplexity : 2.1858424765832534
+Sentence: his pride never deserts him ; but with the rich , he is liberal minded , just , sincere , rational , honourable , and perhaps agreeable , allowing something for fortune and figure . ''
+Perplexity : 1.8757780603806644
+Sentence: `` oh ! ''
+Perplexity : 2.5574702164105503
+Sentence: miss bennet 's lovely face confirmed his views , and established all his strictest notions of what was due to seniority ; and for the first evening she was his settled choice .
+Perplexity : 2.0962074299695836
+Sentence: `` mrs. collins , you must send a servant with them .
+Perplexity : 2.3557124774989777
+Sentence: it will not do .
+Perplexity : 3.6860839616086696
+Sentence: with a glance she saw , that he had lost none of his recent civility ; and , to imitate his politeness , she began , as they met , to admire the beauty of the place ; but she had not got beyond the words `` delightful , '' and `` charming , '' when some unlucky recollections obtruded , and she fancied that praise of pemberley from her , might be mischievously construed .
+Perplexity : 2.1831129191445684
+Sentence: i can hardly write for laughing .
+Perplexity : 1.99588663854367
+Sentence: i suppose she had nothing particular to say to you , lizzy ? ''
+Perplexity : 2.731947590360319
+Sentence: pardon me for neglecting to profit by your advice , which on every other subject shall be my constant guide , though in the case before us i consider myself more fitted by education and habitual study to decide on what is right than a young lady like yourself . ''
+Perplexity : 1.9016787064704013
+Sentence: his character was to speak for itself .
+Perplexity : 2.29984042036378
+Sentence: after sitting long enough to admire every article of furniture in the room , from the sideboard to the fender , to give an account of their journey and of all that had happened in london , mr. collins invited them to take a stroll in the garden , which was large and well laid out , and to the cultivation of which he attended himself .
+Perplexity : 2.1363420548300383
+Sentence: `` is it possible ! ''
+Perplexity : 2.4685876041728987
+Sentence: `` haye park might do , '' said she , `` if the gouldings would quit it , or the great house at stoke , if the drawing room were larger ; but ashworth is too far off !
+Perplexity : 2.068951587211755
+Sentence: poor charlotte !
+Perplexity : 1.731590339447602
+Sentence: `` colonel forster did own that he had often suspected some partiality , especially on lydia 's side , but nothing to give him any alarm .
+Perplexity : 2.2401133493524354
+Sentence: and his behaviour , so strikingly altered , what could it mean ?
+Perplexity : 2.0855913687536547
+Sentence: mr. hurst and mr. bingley were at piquet , and mrs. hurst was observing their game .
+Perplexity : 2.3326199438336848
+Sentence: the younger girls formed hopes of coming out a year or two sooner than they might otherwise have done ; and the boys were relieved from their apprehension of charlotte 's dying an old maid .
+Perplexity : 1.8495688989050993
+Sentence: allowing for the common demands of the game , mr. wickham was therefore at leisure to talk to elizabeth , and she was very willing to hear him , though what she chiefly wished to hear she could not hope to be told , the history of his acquaintance with mr. darcy .
+Perplexity : 2.3642700834711503
+Sentence: what is it you are talking of ?
+Perplexity : 2.389340023150869
+Sentence: mrs. gardiner and the children were to remain in hertfordshire a few days longer , as the former thought her presence might be serviceable to her nieces .
+Perplexity : 2.0725722638119746
+Sentence: this however was no evil to elizabeth , and upon the whole she spent her time comfortably enough ; there were half hours of pleasant conversation with charlotte , and the weather was so fine for the time of year , that she had often great enjoyment out of doors .
+Perplexity : 2.1041161063921425
+Sentence: we have heard nothing from town . ''
+Perplexity : 1.9766437991744839
+Sentence: mr. darcy called , and was shut up with him several hours .
+Perplexity : 2.389564592807601
+Sentence: our plain manner of living , our small rooms , and few domestics , and the little we see of the world , must make hunsford extremely dull to a young lady like yourself ; but i hope you will believe us grateful for the condescension , and that we have done every thing in our power to prevent your spending your time unpleasantly . ''
+Perplexity : 2.1208739652200013
+Sentence: would they often exclaim in the bitterness of woe .
+Perplexity : 1.6776049638083055
+Sentence: the rain continued the whole evening without intermission ; jane certainly could not come back .
+Perplexity : 1.9293858095611882
+Sentence: every body declared that he was the wickedest young man in the world ; and every body began to find out , that they had always distrusted the appearance of his goodness .
+Perplexity : 2.3278454073248187
+Sentence: mary , '' said she , `` i wish you had gone with us , for we had such fun !
+Perplexity : 2.24705485202681
+Sentence: the strangeness of mr. collins 's making two offers of marriage within three days , was nothing in comparison of his being now accepted .
+Perplexity : 2.0997439342030466
+Sentence: `` what think you of books ? ''
+Perplexity : 1.8712377457186065
+Sentence: lady catherine was extremely indignant on the marriage of her nephew ; and as she gave way to all the genuine frankness of her character , in her reply to the letter which announced its arrangement , she sent him language so very abusive , especially of elizabeth , that for some time all intercourse was at an end .
+Perplexity : 2.2481501659727203
+Sentence: in lydia 's imagination , a visit to brighton comprised every possibility of earthly happiness .
+Perplexity : 1.8020355158037156
+Sentence: his sisters were fine women , with an air of decided fashion .
+Perplexity : 1.919306757567696
+Sentence: but against this , there were objections ; and she finally resolved that it could be the last resource , if her private enquiries as to the absence of the family , were unfavourably answered .
+Perplexity : 2.2570488984813344
+Sentence: `` and till colonel forster came himself , not one of you entertained a doubt , i suppose , of their being really married ? ''
+Perplexity : 2.406524818660878
+Sentence: `` we were born in the same parish , within the same park , the greatest part of our youth was passed together ; inmates of the same house , sharing the same amusements , objects of the same parental care .
+Perplexity : 1.8595428447019855
+Sentence: i would not trust you so near it as east bourne for fifty pounds !
+Perplexity : 1.81971182084241
+Sentence: `` indeed , mr. bennet , '' said she , `` it is very hard to think that charlotte lucas should ever be mistress of this house , that i should be forced to make way for her , and live to see her take my place in it ! ''
+Perplexity : 2.429459115523716
+Sentence: i did for you .
+Perplexity : 2.6870668380248985
+Sentence: georgiana 's reception of them was very civil ; but attended with all that embarrassment which , though proceeding from shyness and the fear of doing wrong , would easily give to those who felt themselves inferior , the belief of her being proud and reserved .
+Perplexity : 1.9685667172641137
+Sentence: his behaviour was attentive and kind to the utmost .
+Perplexity : 2.0621856933810743
+Sentence: the upstart pretensions of a young woman without family , connections , or fortune .
+Perplexity : 2.0722371818738594
+Sentence: you are to understand , miss bennet , that i came here with the determined resolution of carrying my purpose ; nor will i be dissuaded from it .
+Perplexity : 2.083727707135823
+Sentence: it was a large , well proportioned room , handsomely fitted up .
+Perplexity : 1.9535223658214842
+Sentence: as a child i was taught what was right , but i was not taught to correct my temper .
+Perplexity : 2.163678399955783
+Sentence: has it not been industriously circulated by yourselves ?
+Perplexity : 1.6191787003797058
+Sentence: `` i dare say you will find him very agreeable . ''
+Perplexity : 2.0844329800663077
+Sentence: i wish you had been there , my dear , to have given him one of your set downs .
+Perplexity : 2.5255066590636126
+Sentence: <s> oh !
+Perplexity : 1.6316051521173087
+Sentence: `` i have written to colonel forster to desire him to find out , if possible , from some of the young man 's intimates in the regiment , whether wickham has any relations or connections , who would be likely to know in what part of the town he has now concealed himself .
+Perplexity : 2.274002974325915
+Sentence: yes , i really believe darcy does take care of him in those points where he most wants care .
+Perplexity : 2.139652493518441
+Sentence: she could not yet recover from the surprise of what had happened ; it was impossible to think of any thing else , and totally indisposed for employment , she resolved soon after breakfast to indulge herself in air and exercise .
+Perplexity : 2.038221524764019
+Sentence: well , how pleased i am !
+Perplexity : 2.943739875718611
+Sentence: `` yours , & c. '' '' well , my dear , '' said mr. bennet , when elizabeth had read the note aloud , `` if your daughter should have a dangerous fit of illness , if she should die , it would be a comfort to know that it was all in pursuit of mr. bingley , and under your orders . ''
+Perplexity : 2.2400764978817342
+Sentence: `` to morrow fortnight . ''
+Perplexity : 1.6596622715127145
+Sentence: but really , and upon my honour , i will try to do what i think to be wisest ; and now , i hope you are satisfied . ''
+Perplexity : 2.4393788684665068
+Sentence: my youngest of all , is lately married , and my eldest is somewhere about the grounds , walking with a young man , who i believe will soon become a part of the family . ''
+Perplexity : 2.2326335430716306
+Sentence: `` i do not recollect that we did . ''
+Perplexity : 2.0235402817272132
+Sentence: perhaps he thought her too young .
+Perplexity : 2.1938735738007713
+Sentence: but they were entirely ignorant of what had passed ; and their raptures continued with little intermission to the very day of lydia 's leaving home .
+Perplexity : 2.1530840946054344
+Sentence: `` so much the better .
+Perplexity : 2.673523086200848
+Sentence: it can not be concealed from any one .
+Perplexity : 2.2505556679347367
+Sentence: had elizabeth been at leisure to be idle , she would have remained certain that all employment was impossible to one so wretched as herself ; but she had her share of business as well as her aunt , and amongst the rest there were notes to be written to all their friends in lambton , with false excuses for their sudden departure .
+Perplexity : 2.109252491427112
+Sentence: `` i have every reason in the world to think ill of you .
+Perplexity : 2.7746039908375226
+Sentence: i flatter myself at least that you will be able to do so .
+Perplexity : 2.618752091243792
+Sentence: `` and i have another favour to ask .
+Perplexity : 2.477512920880449
+Sentence: `` certainly , my dear , nobody said there were ; but as to not meeting with many people in this neighbourhood , i believe there are few neighbourhoods larger .
+Perplexity : 2.242203564037089
+Sentence: your conduct would be quite as dependant on chance as that of any man i know ; and if , as you were mounting your horse , a friend were to say , 'bingley , you had better stay till next week , ' you would probably do it , you would probably not go and , at another word , might stay a month . ''
+Perplexity : 2.334626333116257
+Sentence: his family knew him to be on all common occasions , a most negligent and dilatory correspondent , but at such a time , they had hoped for exertion .
+Perplexity : 2.232249476083411
+Sentence: the steady countenance which miss lucas had commanded in telling her story , gave way to a momentary confusion here on receiving so direct a reproach ; though , as it was no more than she expected , she soon regained her composure , and calmly replied , '' why should you be surprised , my dear eliza ?
+Perplexity : 2.103574577270468
+Sentence: mr. darcy took her place by her niece , and they walked on together .
+Perplexity : 2.4250769041916125
+Sentence: mary and kitty , thank heaven !
+Perplexity : 1.8592130890985337
+Sentence: my child , let me not have the grief of seeing you unable to respect your partner in life .
+Perplexity : 2.0817761617255988
+Sentence: but will they make you happy ? ''
+Perplexity : 1.705742979464245
+Sentence: `` can you come to morrow ? ''
+Perplexity : 2.199197161852986
+Sentence: `` do you certainly leave kent on saturday ? ''
+Perplexity : 1.9404475844130096
+Sentence: `` may we take my uncle 's letter to read to her ? ''
+Perplexity : 2.375576246579232
+Sentence: my sisters may write to me .
+Perplexity : 2.008506638080519
+Sentence: if i had known as much this morning , i certainly would not have called on him .
+Perplexity : 2.8247585672860147
+Sentence: i can not quite agree with you there .
+Perplexity : 2.112997434491613
+Sentence: while sir william was with them , mr. collins devoted his mornings to driving him out in his gig , and shewing him the country ; but when he went away , the whole family returned to their usual employments , and elizabeth was thankful to find that they did not see more of her cousin by the alteration , for the chief of the time between breakfast and dinner was now passed by him either at work in the garden , or in reading and writing , and looking out of window in his own book room , which fronted the road .
+Perplexity : 2.1380396189886413
+Sentence: `` perhaps it will be as well , if you discourage his coming here so very often .
+Perplexity : 2.55776299161481
+Sentence: jane , who was not so light , nor so much in the habit of running as elizabeth , soon lagged behind , while her sister , panting for breath , came up with him , and eagerly cried out , '' oh , papa , what news ?
+Perplexity : 2.185821035116896
+Sentence: thank heaven !
+Perplexity : 1.7136459138414846
+Sentence: when that business was over , he applied to miss bingley and elizabeth for the indulgence of some music .
+Perplexity : 2.151609701184141
+Sentence: that he should have been in love with her for so many months !
+Perplexity : 2.836442731144067
+Sentence: cried elizabeth ; `` but how could that be ?
+Perplexity : 2.963654720563948
+Sentence: she represented to him all the improprieties of lydia 's general behaviour , the little advantage she could derive from the friendship of such a woman as mrs. forster , and the probability of her being yet more imprudent with such a companion at brighton , where the temptations must be greater than at home .
+Perplexity : 2.0176935561082336
+Sentence: they have a sharp , shrewish look , which i do not like at all ; and in her air altogether , there is a self sufficiency without fashion , which is intolerable . ''
+Perplexity : 2.2653870951192445
+Sentence: `` yes , '' replied darcy , who could contain himself no longer , `` but that was only when i first knew her , for it is many months since i have considered her as one of the handsomest women of my acquaintance . ''
+Perplexity : 2.4058342759961544
+Sentence: she then sought her eldest sister , who had undertaken to make inquiries on the same subject of bingley .
+Perplexity : 2.0960421679719077
+Sentence: `` we can all plague and punish one another .
+Perplexity : 1.7633974948689068
+Sentence: and her calling here was prodigiously civil !
+Perplexity : 1.5908155476777674
+Sentence: elizabeth could not but be pleased , could not but triumph .
+Perplexity : 2.3583085990139607
+Sentence: she longed to speak , but could think of nothing to say ; and after a short silence mrs. bennet began repeating her thanks to mr. bingley for his kindness to jane , with an apology for troubling him also with lizzy .
+Perplexity : 2.2900486620655403
+Sentence: or under what misrepresentation , can you here impose upon others ? ''
+Perplexity : 1.804049954614948
+Sentence: mrs. reynolds 's respect for elizabeth seemed to increase on this intimation of her knowing her master .
+Perplexity : 1.8563603252196264
+Sentence: a few days after this visit , mr. bingley called again , and alone .
+Perplexity : 2.3177898259672687
+Sentence: and when i returned home , the shire was to leave meryton in a week or fortnight 's time .
+Perplexity : 2.2101316634563544
+Sentence: but on the third morning after his arrival in hertfordshire , she saw him from her dressing room window , enter the paddock , and ride towards the house .
+Perplexity : 2.109299720407318
+Sentence: his pride , in that direction , may be of service , if not to himself , to many others , for it must deter him from such foul misconduct as i have suffered by .
+Perplexity : 2.3949318996807922
+Sentence: `` if you will thank me , '' he replied , `` let it be for yourself alone .
+Perplexity : 2.4550060749644445
+Sentence: `` how can you talk so ? ''
+Perplexity : 1.9534366644345762
+Sentence: the contents of this letter threw elizabeth into a flutter of spirits , in which it was difficult to determine whether pleasure or pain bore the greatest share .
+Perplexity : 1.917124694649555
+Sentence: she knew not what to think , nor how to account for it .
+Perplexity : 2.361887293954068
+Sentence: `` i can not fix on the hour , or the spot , or the look , or the words , which laid the foundation .
+Perplexity : 2.1662223049444855
+Sentence: dear , yes ; but you must own she is very plain .
+Perplexity : 2.7492694065031413
+Sentence: what a contrast did it offer to his last address in rosing 's park , when he put his letter into her hand !
+Perplexity : 1.986678067507853
+Sentence: but self , though it would intrude , could not engross her .
+Perplexity : 1.9755292156648139
+Sentence: `` i do not think we were speaking at all .
+Perplexity : 2.379351640026812
+Sentence: `` oh !
+Perplexity : 1.797101738396045
+Sentence: but if you will listen to his letter , you may perhaps be a little softened by his manner of expressing himself . ''
+Perplexity : 2.3533981444407286
+Sentence: miss bennet had slept ill , and though up , was very feverish and not well enough to leave her room .
+Perplexity : 2.328958093152297
+Sentence: `` i know very well , madam , '' said he , `` that when persons sit down to a card table , they must take their chance of these things , and happily i am not in such circumstances as to make five shillings any object .
+Perplexity : 2.1591698328571143
+Sentence: `` when i wrote that letter , '' replied darcy , `` i believed myself perfectly calm and cool , but i am since convinced that it was written in a dreadful bitterness of spirit . ''
+Perplexity : 2.070536742661716
+Sentence: he wrote last week to hurry my return . ''
+Perplexity : 1.8025448454102206
+Sentence: `` is my father in town ? ''
+Perplexity : 2.482358892895537
+Sentence: mrs. hill began instantly to express her joy .
+Perplexity : 1.8052519869952468
+Sentence: she had very little notice from any but him .
+Perplexity : 2.4388517251609776
+Sentence: `` i never heard that it was . ''
+Perplexity : 2.9788267803782587
+Sentence: `` well , and what news does it bring ?
+Perplexity : 2.3572233028878777
+Sentence: i roused , and interested you , because i was so unlike them .
+Perplexity : 2.091864093489642
+Sentence: at least , therefore , i did not assume the character of needless precipitance merely to shew off before the ladies . ''
+Perplexity : 1.9613362670642345
+Sentence: two inferences , however , were plainly deduced from the whole ; one , that elizabeth was the real cause of all the mischief ; and the other , that she herself had been barbarously used by them all ; and on these two points she principally dwelt during the rest of the day .
+Perplexity : 2.3205694601491453
+Sentence: lydia left a few lines for his wife , informing her of their intention .
+Perplexity : 1.8103864046007394
+Sentence: when i went away , i felt that it would soon happen . ''
+Perplexity : 2.6158485999647483
+Sentence: `` and this , '' cried darcy , as he walked with quick steps across the room , '' is your opinion of me !
+Perplexity : 2.67386681799267
+Sentence: nonsense , how can you talk so !
+Perplexity : 2.1523827422094928
+Sentence: elizabeth here felt herself called on to say something in vindication of his behaviour to wickham ; and therefore gave them to understand , in as guarded a manner as she could , that by what she had heard from his relations in kent , his actions were capable of a very different construction ; and that his character was by no means so faulty , nor wickham 's so amiable , as they had been considered in hertfordshire .
+Perplexity : 2.351910314847464
+Sentence: but , perhaps his sister does as well for the present , and , as she is under his sole care , he may do what he likes with her . ''
+Perplexity : 2.618468246134745
+Sentence: who could have imagined that we should receive an invitation to dine there ( an invitation moreover including the whole party ) so immediately after your arrival ! ''
+Perplexity : 1.735378286606541
+Sentence: i would advise you , before you determine on it , to consult the wishes of the present party ; i am much mistaken if there are not some among us to whom a ball would be rather a punishment than a pleasure . ''
+Perplexity : 2.102164194520082
+Sentence: `` i do not see what right mr. darcy had to decide on the propriety of his friend 's inclination , or why , upon his own judgment alone , he was to determine and direct in what manner that friend was to be happy . ''
+Perplexity : 2.2597770086608664
+Sentence: she longed to see mrs. philips , the lucases , and all their other neighbours , and to hear herself called `` mrs. wickham , '' by each of them ; and in the mean time , she went after dinner to shew her ring and boast of being married , to mrs. hill and the two housemaids .
+Perplexity : 2.420736357690596
+Sentence: next to being married , a girl likes to be crossed in love a little now and then .
+Perplexity : 2.1098822255277296
+Sentence: mr. collins received and returned these felicitations with equal pleasure , and then proceeded to relate the particulars of their interview , with the result of which he trusted he had every reason to be satisfied , since the refusal which his cousin had steadfastly given him would naturally flow from her bashful modesty and the genuine delicacy of her character .
+Perplexity : 1.9787109319018261
+Sentence: but when they see , as i trust they will , that their brother is happy with me , they will learn to be contented , and we shall be on good terms again ; though we can never be what we once were to each other . ''
+Perplexity : 2.362688972791738
+Sentence: as soon as they were gone , elizabeth walked out to recover her spirits ; or in other words , to dwell without interruption on those subjects that must deaden them more .
+Perplexity : 2.0006801511639707
+Sentence: if he had not had a family of his own , i and my children must have had all his money you know , and it is the first time we have ever had any thing from him , except a few presents .
+Perplexity : 2.6288959173012536
+Sentence: i do assure you that i am not one of those young ladies ( if such young ladies there are ) who are so daring as to risk their happiness on the chance of being asked a second time .
+Perplexity : 2.1212864011907575
+Sentence: i was sure you loved your girls too well to neglect such an acquaintance .
+Perplexity : 1.938259434027733
+Sentence: `` could colonel forster repeat the particulars of lydia 's note to his wife ? ''
+Perplexity : 1.9710836442979904
+Sentence: of having another daughter married to mr. collins , she thought with equal certainty , and with considerable , though not equal , pleasure .
+Perplexity : 2.250313598690434
+Sentence: having never even fancied herself in love before , her regard had all the warmth of first attachment , and from her age and disposition , greater steadiness than first attachments often boast ; and so fervently did she value his remembrance , and prefer him to every other man , that all her good sense , and all her attention to the feelings of her friends , were requisite to check the indulgence of those regrets , which must have been injurious to her own health and their tranquillity .
+Perplexity : 2.09954095045092
+Sentence: never mind miss lizzy 's hair . ''
+Perplexity : 1.6130395774058799
+Sentence: my situation in life , my connections with the family of de bourgh , and my relationship to your own , are circumstances highly in my favour ; and you should take it into farther consideration that in spite of your manifold attractions , it is by no means certain that another offer of marriage may ever be made you .
+Perplexity : 2.170631682422144
+Sentence: i can not catch their tone of conversation , or appear interested in their concerns , as i often see done . ''
+Perplexity : 1.9591471638101317
+Sentence: he is , indeed .
+Perplexity : 3.5320892097188636
+Sentence: mr. bingley 's defence of his friend was a very able one i dare say , but since he is unacquainted with several parts of the story , and has learnt the rest from that friend himself , i shall venture still to think of both gentlemen as i did before . ''
+Perplexity : 2.2267907150511212
+Sentence: mr. wickham did not play at whist , and with ready delight was he received at the other table between elizabeth and lydia .
+Perplexity : 2.139591967998891
+Sentence: and you are never to stir out of doors , till you can prove , that you have spent ten minutes of every day in a rational manner . ''
+Perplexity : 2.162717954141523
+Sentence: i thank you , again and again , for not going to the lakes .
+Perplexity : 2.498585157531866
+Sentence: `` if we thought alike of miss bingley , '' replied jane , `` your representation of all this , might make me quite easy .
+Perplexity : 2.2643755292739987
+Sentence: `` i never saw any one so shocked .
+Perplexity : 2.4019878277956987
+Sentence: `` lady catherine has been of infinite use , which ought to make her happy , for she loves to be of use .
+Perplexity : 2.390707733274929
+Sentence: `` no '' said darcy , `` i have made no such pretension .
+Perplexity : 2.616463217388539
+Sentence: they are descended on the maternal side , from the same noble line ; and , on the father 's , from respectable , honourable , and ancient , though untitled families .
+Perplexity : 2.0189704218938216
+Sentence: at such an assembly as this , it would be insupportable .
+Perplexity : 2.2014513596570544
+Sentence: the possibility of meeting mr. darcy , while viewing the place , instantly occurred .
+Perplexity : 1.921514710512573
+Sentence: you know him too well to doubt the rest .
+Perplexity : 2.1656484962511864
+Sentence: but the morrow passed off much better than she expected ; for mrs. bennet luckily stood in such awe of her intended son in law , that she ventured not to speak to him , unless it was in her power to offer him any attention , or mark her deference for his opinion .
+Perplexity : 2.105861225877818
+Sentence: but no sooner had he made it clear to himself and his friends that she had hardly a good feature in her face , than he began to find it was rendered uncommonly intelligent by the beautiful expression of her dark eyes .
+Perplexity : 2.06810958705322
+Sentence: such squeamish youths as can not bear to be connected with a little absurdity , are not worth a regret .
+Perplexity : 1.976781165439732
+Sentence: `` it keeps him in good humour , '' said she , `` and i am more obliged to you than i can express . ''
+Perplexity : 2.298547741907725
+Sentence: `` i am not likely to leave kent for some time .
+Perplexity : 2.3500124896029124
+Sentence: when those dances were over she returned to charlotte lucas , and was in conversation with her , when she found herself suddenly addressed by mr. darcy , who took her so much by surprise in his application for her hand , that , without knowing what she did , she accepted him .
+Perplexity : 2.359797479414527
+Sentence: as we went along , kitty and me drew up all the blinds , and pretended there was nobody in the coach ; and i should have gone so all the way , if kitty had not been sick ; and when we got to the george , i do think we behaved very handsomely , for we treated the other three with the nicest cold luncheon in the world , and if you would have gone , we would have treated you too .
+Perplexity : 2.1482512981931934
+Sentence: she put down the letter , weighed every circumstance with what she meant to be impartiality deliberated on the probability of each statement but with little success .
+Perplexity : 1.8983987292245392
+Sentence: elizabeth listened as little as she could , but there was no escaping the frequent mention of wickham 's name .
+Perplexity : 2.2538844975072974
+Sentence: `` perhaps we might be deceived . ''
+Perplexity : 1.916723908409959
+Sentence: `` there is nothing the matter with me .
+Perplexity : 2.1984121852232006
+Sentence: `` indeed ! ''
+Perplexity : 2.5906200569892377
+Sentence: she could not bear such suspense ; and hastily seizing a sheet of paper , wrote a short letter to her aunt , to request an explanation of what lydia had dropt , if it were compatible with the secrecy which had been intended .
+Perplexity : 2.0149399024880847
+Sentence: but i am afraid you are giving it a turn which that gentleman did by no means intend ; for he would certainly think the better of me , if under such a circumstance i were to give a flat denial , and ride off as fast as i could . ''
+Perplexity : 2.081291699599586
+Sentence: miss bingley moved with alacrity to the piano forte , and after a polite request that elizabeth would lead the way , which the other as politely and more earnestly negatived , she seated herself .
+Perplexity : 2.0149214308909267
+Sentence: as he was to begin his journey too early on the morrow to see any of the family , the ceremony of leave taking was performed when the ladies moved for the night ; and mrs. bennet with great politeness and cordiality said how happy they should be to see him at longbourn again , whenever his other engagements might allow him to visit them .
+Perplexity : 2.1604442950568155
+Sentence: very little was said by either ; kitty was too much afraid of him to talk ; elizabeth was secretly forming a desperate resolution ; and perhaps he might be doing the same .
+Perplexity : 2.150518404460878
+Sentence: your 's , & c. '' mr. darcy 's letter to lady catherine , was in a different style ; and still different from either , was what mr. bennet sent to mr. collins , in reply to his last .
+Perplexity : 2.4417607172487963
+Sentence: i always said it must be so , at last .
+Perplexity : 2.721048200306746
+Sentence: i send no compliments to your mother .
+Perplexity : 1.7589776317914587
+Sentence: if he fears me , why come hither ?
+Perplexity : 1.9281639393274792
+Sentence: you may have drawn him in . ''
+Perplexity : 2.3168602175773167
+Sentence: she supposed , if he meant any thing , he must mean an allusion to what might arise in that quarter .
+Perplexity : 2.2654066150231116
+Sentence: my temper i dare not vouch for .
+Perplexity : 2.1167432920716442
+Sentence: he had always intended to visit him , though to the last always assuring his wife that he should not go ; and till the evening after the visit was paid , she had no knowledge of it .
+Perplexity : 2.4786601583408525
+Sentence: it is an advantage to have it so far from this part of the kingdom .
+Perplexity : 2.5068444906647915
+Sentence: elizabeth did not quit her room for a moment , nor were the other ladies often absent ; the gentlemen being out , they had in fact nothing to do elsewhere .
+Perplexity : 2.213477894300413
+Sentence: `` yes ; these four evenings have enabled them to ascertain that they both like vingt un better than commerce ; but with respect to any other leading characteristic , i do not imagine that much has been unfolded . ''
+Perplexity : 1.874114659242248
+Sentence: they had nothing to accuse him of but pride ; pride he probably had , and if not , it would certainly be imputed by the inhabitants of a small market town , where the family did not visit .
+Perplexity : 2.2194447483768154
+Sentence: `` i should like to know how he behaves among strangers . ''
+Perplexity : 2.102872511514796
+Sentence: but now it was all too natural .
+Perplexity : 2.31802241435593
+Sentence: they were always moving from place to place in quest of a cheap situation , and always spending more than they ought .
+Perplexity : 1.9949292907457743
+Sentence: yes it would be much better to wait till jane was well , and by that time most likely captain carter would be at meryton again .
+Perplexity : 2.176540100374488
+Sentence: but her conclusion was false ; for on the very morning after their own arrival at lambton , these visitors came .
+Perplexity : 2.0344000767880006
+Sentence: she wrote again when the visit was paid , and she had seen miss bingley .
+Perplexity : 2.4170720774998187
+Sentence: <s> oh !
+Perplexity : 1.6316051521173087
+Sentence: `` i must confess that he did not speak so well of wickham as he formerly did .
+Perplexity : 2.372578649471224
+Sentence: elizabeth made no answer .
+Perplexity : 2.013998609378392
+Sentence: i do not know whether i ever before mentioned to you my feelings on this subject , but i will not leave the country without confiding them , and i trust you will not esteem them unreasonable .
+Perplexity : 2.264316283685569
+Sentence: `` and yours , '' he replied with a smile , `` is wilfully to misunderstand them . ''
+Perplexity : 2.2794192799604303
+Sentence: and poor mr. darcy !
+Perplexity : 2.70163768327851
+Sentence: had his own happiness , however , been the only sacrifice , he might have been allowed to sport with it in what ever manner he thought best ; but her sister 's was involved in it , as she thought he must be sensible himself .
+Perplexity : 2.4292392491019994
+Sentence: `` la !
+Perplexity : 1.7225480304397078
+Sentence: with such rivals for the notice of the fair , as mr. wickham and the officers , mr. collins seemed likely to sink into insignificance ; to the young ladies he certainly was nothing ; but he had still at intervals a kind listener in mrs. philips , and was , by her watchfulness , most abundantly supplied with coffee and muffin .
+Perplexity : 2.1705894963513814
+Sentence: `` and remember that i have not much reason for supposing it to be bingley .
+Perplexity : 2.3949376627486503
+Sentence: is there one among the sex , who would not protest against such a weakness as a second proposal to the same woman ?
+Perplexity : 1.999115040986828
+Sentence: the idea of mr. collins , with all his solemn composure , being run away with by his feelings , made elizabeth so near laughing that she could not use the short pause he allowed in any attempt to stop him farther , and he continued : '' my reasons for marrying are , first , that i think it a right thing for every clergyman in easy circumstances ( like myself ) to set the example of matrimony in his parish .
+Perplexity : 2.033475160525605
+Sentence: `` oh ! ''
+Perplexity : 2.5574702164105503
+Sentence: the wish of procuring her regard , which she had assured herself of his feeling in derbyshire , could not in rational expectation survive such a blow as this .
+Perplexity : 1.9902369811560159
+Sentence: you know i always speak my mind , and i can not bear the idea of two young women travelling post by themselves .
+Perplexity : 2.1078005452742516
+Sentence: you supposed more than really existed .
+Perplexity : 1.9562747703488617
+Sentence: she was teazed by mr. collins , who continued most perseveringly by her side , and though he could not prevail with her to dance with him again , put it out of her power to dance with others .
+Perplexity : 2.2784977996805935
+Sentence: of mr. darcy it was now a matter of anxiety to think well ; and , as far as their acquaintance reached , there was no fault to find .
+Perplexity : 2.4751416405631455
+Sentence: the elder miss bennets alone were still able to eat , drink , and sleep , and pursue the usual course of their employments .
+Perplexity : 1.7988079223430524
+Sentence: how much of good or evil must be done by him !
+Perplexity : 2.1385036275800364
+Sentence: miss darcy looked as if she wished for courage enough to join in it ; and sometimes did venture a short sentence , when there was least danger of its being heard .
+Perplexity : 2.167078393763867
+Sentence: `` i am all astonishment .
+Perplexity : 2.5459532998525005
+Sentence: if your feelings are still what they were last april , tell me so at once .
+Perplexity : 2.0728919059588553
+Sentence: you are safe from me . ''
+Perplexity : 1.8112101016309468
+Sentence: `` neither duty , nor honour , nor gratitude , '' replied elizabeth , `` have any possible claim on me , in the present instance .
+Perplexity : 2.1805250630535733
+Sentence: who could have done less for her ?
+Perplexity : 2.553561989096028
+Sentence: his consenting to marry her is a proof , i will believe , that he is come to a right way of thinking .
+Perplexity : 2.3651917030945664
+Sentence: `` oh !
+Perplexity : 1.797101738396045
+Sentence: he seemed astonished too on finding her alone , and apologised for his intrusion , by letting her know that he had understood all the ladies to be within .
+Perplexity : 1.9950218606828378
+Sentence: she had even condescended to advise him to marry as soon as he could , provided he chose with discretion ; and had once paid him a visit in his humble parsonage ; where she had perfectly approved all the alterations he had been making , and had even vouchsafed to suggest some herself , some shelves in the closets up stairs .
+Perplexity : 2.0421242070519017
+Sentence: i was told , that not only your sister was on the point of being most advantageously married , but that you , that miss elizabeth bennet , would , in all likelihood , be soon afterwards united to my nephew , my own nephew , mr. darcy .
+Perplexity : 2.5736768527755465
+Sentence: miss bingley was then sorry that she had proposed the delay , for her jealousy and dislike of one sister much exceeded her affection for the other .
+Perplexity : 2.0613207843392507
+Sentence: mrs. collins knew not what to make of him .
+Perplexity : 2.415517285896087
+Sentence: she had always felt that charlotte 's opinion of matrimony was not exactly like her own , but she could not have supposed it possible that when called into action , she would have sacrificed every better feeling to worldly advantage .
+Perplexity : 2.217219799153246
+Sentence: as it principally concerns yourself , you ought to know its contents .
+Perplexity : 2.119244505019424
+Sentence: my excellent father died about five years ago ; and his attachment to mr. wickham was to the last so steady , that in his will he particularly recommended it to me , to promote his advancement in the best manner that his profession might allow , and if he took orders , desired that a valuable family living might be his as soon as soon as it became vacant .
+Perplexity : 2.187831688873305
+Sentence: he was well , but so much engaged with mr. darcy , that they scarcely ever saw him .
+Perplexity : 2.5738370141434372
+Sentence: my faults , according to this calculation , are heavy indeed !
+Perplexity : 1.7247437038742972
+Sentence: his choice is disinterested at least , for he must know my father can give her nothing .
+Perplexity : 2.2910066778650737
+Sentence: consider how important every moment is , in such a case . ''
+Perplexity : 2.335572937042704
+Sentence: the congratulatory letter which elizabeth received from lydia on her marriage , explained to her that , by his wife at least , if not by himself , such a hope was cherished .
+Perplexity : 2.4400427406727343
+Sentence: these causes must be stated , though briefly .
+Perplexity : 1.658618527303172
+Sentence: when i am in company with him , i will not be wishing .
+Perplexity : 2.528879993411462
+Sentence: he must write his own sermons ; and the time that remains will not be too much for his parish duties , and the care and improvement of his dwelling , which he can not be excused from making as comfortable as possible .
+Perplexity : 2.1775646557759814
+Sentence: ten thousand a year , and very likely more !
+Perplexity : 2.3665668229461416
+Sentence: when she remembered the style of his address , she was still full of indignation ; but when she considered how unjustly she had condemned and upbraided him , her anger was turned against herself ; and his disappointed feelings became the object of compassion .
+Perplexity : 2.0315968495456143
+Sentence: `` undoubtedly .
+Perplexity : 1.7397400744638627
+Sentence: it adds even another motive .
+Perplexity : 1.6661583037846266
+Sentence: but perhaps , '' added he , stopping in his walk , and turning towards her , `` these offences might have been overlooked , had not your pride been hurt by my honest confession of the scruples that had long prevented my forming any serious design .
+Perplexity : 1.9041914756553366
+Sentence: respect , esteem , and confidence , had vanished for ever ; and all his views of domestic happiness were overthrown .
+Perplexity : 2.0627228159877125
+Sentence: `` yes that is what makes it amusing .
+Perplexity : 2.01726002476853
+Sentence: my character has ever been celebrated for its sincerity and frankness , and in a cause of such moment as this , i shall certainly not depart from it .
+Perplexity : 2.101538943271463
+Sentence: that is my idea of good breeding ; and those persons who fancy themselves very important and never open their mouths , quite mistake the matter . ''
+Perplexity : 1.8508587351108443
+Sentence: if the dispositions of the parties are ever so well known to each other , or ever so similar before hand , it does not advance their felicity in the least .
+Perplexity : 2.1586992539523817
+Sentence: i have not a doubt of your doing very well together .
+Perplexity : 2.4040752168971524
+Sentence: she soon learnt that they were indebted for their present good understanding to the efforts of his aunt , who did call on him in her return through london , and there relate her journey to longbourn , its motive , and the substance of her conversation with elizabeth ; dwelling emphatically on every expression of the latter , which , in her ladyship 's apprehension , peculiarly denoted her perverseness and assurance , in the belief that such a relation must assist her endeavours to obtain that promise from her nephew , which she had refused to give .
+Perplexity : 2.082442793108116
+Sentence: a lively imagination soon settled it all .
+Perplexity : 1.7611006305976598
+Sentence: by nature inoffensive , friendly and obliging , his presentation at st. james 's had made him courteous .
+Perplexity : 1.6282963529605268
+Sentence: how rejoiced was elizabeth that their own journey had not by any circumstance been delayed a day !
+Perplexity : 2.0373388752207258
+Sentence: it was drawn at the same time as the other about eight years ago . ''
+Perplexity : 2.1179060582771005
+Sentence: that she could be in any danger from the deception never entered my head .
+Perplexity : 2.2247534282175048
+Sentence: darcy was fixed in astonishment .
+Perplexity : 1.902703766654363
+Sentence: while there was an officer in meryton , they would flirt with him ; and while meryton was within a walk of longbourn , they would be going there for ever .
+Perplexity : 2.1894955642264757
+Sentence: she was not equal , however , to much conversation , and when miss bingley left them together , could attempt little beside expressions of gratitude for the extraordinary kindness she was treated with .
+Perplexity : 2.2293646111535947
+Sentence: `` it is a delightful thing , to be sure , to have a daughter well married , '' continued her mother , `` but at the same time , mr. bingley , it is very hard to have her taken such a way from me .
+Perplexity : 2.6658000505079897
+Sentence: `` well , '' cried elizabeth , `` have it as you choose .
+Perplexity : 2.7656325791206156
+Sentence: she does not yet leave her dressing room .
+Perplexity : 2.104068868555481
+Sentence: in such an exigence my uncle 's advice and assistance would be every thing in the world ; he will immediately comprehend what i must feel , and i rely upon his goodness . ''
+Perplexity : 2.135160127466411
+Sentence: their taking her home , and affording her their personal protection and countenance , is such a sacrifice to her advantage , as years of gratitude can not enough acknowledge .
+Perplexity : 1.9451362355388189
+Sentence: i dare say i shall soon see them here . ''
+Perplexity : 2.139176423079465
+Sentence: darcy was delighted with their engagement ; his friend had given him the earliest information of it .
+Perplexity : 1.991606850961357
+Sentence: `` i do not mind his not talking to mrs. long , '' said miss lucas , `` but i wish he had danced with eliza . ''
+Perplexity : 2.3510891984931974
+Sentence: that will make thirteen with ourselves , so there will be just room at table for him . ''
+Perplexity : 1.9706740909376192
+Sentence: `` and what is your success ? ''
+Perplexity : 2.7595118844700983
+Sentence: long before it had taken place , my opinion of you was decided .
+Perplexity : 2.4537525471588335
+Sentence: could he , or the lucases , have pitched on any man , within the circle of our acquaintance , whose name would have given the lie more effectually to what they related ?
+Perplexity : 1.988846622361499
+Sentence: his disposition must be dreadful . ''
+Perplexity : 1.9824620909234798
+Sentence: `` were it certain that lady catherine would think so , '' said mr. collins very gravely `` but i can not imagine that her ladyship would at all disapprove of you .
+Perplexity : 2.216859036227932
+Sentence: <s> lord !
+Perplexity : 1.7136459138414846
+Sentence: `` i comfort myself with thinking , '' replied jane , `` that he certainly would not marry lydia , if he had not a real regard for her .
+Perplexity : 2.4571450261383654
+Sentence: but i am at his disposal .
+Perplexity : 2.2862613641917986
+Sentence: vanity and pride are different things , though the words are often used synonimously .
+Perplexity : 1.9197406625008133
+Sentence: i will think no more about him . ''
+Perplexity : 2.307542544883369
+Sentence: elizabeth was watchful enough to see it all , but she could see it and write of it without material pain .
+Perplexity : 2.3857952717062565
+Sentence: he immediately offered to fetch her others ; all that his library afforded .
+Perplexity : 1.8168450551207844
+Sentence: miss lucas is married and settled .
+Perplexity : 1.963714178085129
+Sentence: since the shire were first quartered in meryton , nothing but love , flirtation , and officers , have been in her head .
+Perplexity : 2.1914519493589064
+Sentence: and her neighbours at lucas lodge , therefore , ( for through their communication with the collinses , the report she concluded had reached lady catherine ) had only set that down , as almost certain and immediate , which she had looked forward to as possible , at some future time .
+Perplexity : 1.878607208947165
+Sentence: `` you judge very properly , '' said mr. bennet , `` and it is happy for you that you possess the talent of flattering with delicacy .
+Perplexity : 2.158299205964254
+Sentence: but now several minutes elapsed , without bringing the sound of his voice ; and when occasionally , unable to resist the impulse of curiosity , she raised her eyes to his face , she as often found him looking at jane , as at herself , and frequently on no object but the ground .
+Perplexity : 1.9624487557713608
+Sentence: there was nothing of presumption or folly in bingley , that could provoke his ridicule , or disgust him into silence ; and he was more communicative , and less eccentric than the other had ever seen him .
+Perplexity : 2.1598803007186986
+Sentence: `` oh !
+Perplexity : 1.797101738396045
+Sentence: this invaluable friend was a very young woman , and very lately married .
+Perplexity : 2.347627670994158
+Sentence: through letters , whatever of good or bad was to be told , would be communicated , and every succeeding day was expected to bring some news of importance .
+Perplexity : 2.0161689664898037
+Sentence: they walked towards the lucases , because kitty wished to call upon maria ; and as elizabeth saw no occasion for making it a general concern , when kitty left them , she went boldly on with him alone .
+Perplexity : 2.110450980819549
+Sentence: at night she opened her heart to jane .
+Perplexity : 1.9061509170369053
+Sentence: `` but it is , '' returned she ; `` for mrs. long has just been here , and she told me all about it . ''
+Perplexity : 2.583520419956978
+Sentence: `` 't is too much ! ''
+Perplexity : 2.066093680397755
+Sentence: well , he is a very undeserving young man and i do not suppose there is the least chance in the world of her ever getting him now .
+Perplexity : 2.506649641089704
+Sentence: it is impossible for me to be impartial .
+Perplexity : 2.220949663313879
+Sentence: without thinking highly either of men or of matrimony , marriage had always been her object ; it was the only honourable provision for well educated young women of small fortune , and however uncertain of giving happiness , must be their pleasantest preservative from want .
+Perplexity : 2.01184058947718
+Sentence: and when the party entered the assembly room , it consisted of only five altogether ; mr. bingley , his two sisters , the husband of the eldest , and another young man .
+Perplexity : 2.3647774615597084
+Sentence: `` as much as i ever wish to be , '' cried elizabeth warmly , `` i have spent four days in the same house with him , and i think him very disagreeable . ''
+Perplexity : 2.4087357882508664
+Sentence: i talked to her repeatedly in the most serious manner , representing to her all the wickedness of what she had done , and all the unhappiness she had brought on her family .
+Perplexity : 2.304837927288497
+Sentence: at that moment they were met from another walk , by mrs. hurst and elizabeth herself .
+Perplexity : 2.270161627024498
+Sentence: first of all , he asked miss lucas .
+Perplexity : 2.5488715055370554
+Sentence: to this question his daughter replied only with a laugh ; and as it had been asked without the least suspicion , she was not distressed by his repeating it .
+Perplexity : 2.2101216926148233
+Sentence: their arrival was dreaded by the elder miss bennets ; and jane more especially , who gave lydia the feelings which would have attended herself , had she been the culprit , was wretched in the thought of what her sister must endure .
+Perplexity : 2.1742141691649857
+Sentence: you dare not , you can not deny that you have been the principal , if not the only means of dividing them from each other , of exposing one to the censure of the world for caprice and instability , the other to its derision for disappointed hopes , and involving them both in misery of the acutest kind . ''
+Perplexity : 2.1170147993077846
+Sentence: `` i assure you , madam , '' he replied , `` that she does not need such advice .
+Perplexity : 2.3059827279721756
+Sentence: he came , and in such very good time , that the ladies were none of them dressed .
+Perplexity : 2.5007989583372128
+Sentence: miss bennet had not been able to hear of his coming , without changing colour .
+Perplexity : 2.5386122869088226
+Sentence: you wish to think all the world respectable , and are hurt if i speak ill of any body .
+Perplexity : 2.3009567609079693
+Sentence: cried elizabeth .
+Perplexity : 4.218997079049538
+Sentence: let me hear what it is . ''
+Perplexity : 2.6587024082334603
+Sentence: `` exceedingly well .
+Perplexity : 1.7302815890759056
+Sentence: mr. wickham was so perfectly satisfied with this conversation , that he never again distressed himself , or provoked his dear sister elizabeth , by introducing the subject of it ; and she was pleased to find that she had said enough to keep him quiet .
+Perplexity : 2.423165633388651
+Sentence: she was now struck with the impropriety of such communications to a stranger , and wondered it had escaped her before .
+Perplexity : 1.8275404840626035
+Sentence: `` she is a very fine looking woman !
+Perplexity : 2.271691416735481
+Sentence: but may we not hope that the period of future happiness to which miss bingley looks forward , may arrive earlier than she is aware , and that the delightful intercourse you have known as friends , will be renewed with yet greater satisfaction as sisters ?
+Perplexity : 2.0596796162232773
+Sentence: `` probably not ; but mr. darcy can please where he chuses .
+Perplexity : 2.385273657101205
+Sentence: but i must write no more .
+Perplexity : 2.784079149032669
+Sentence: she looked at jane , and smiled , and shook her head by turns .
+Perplexity : 1.864664534167907
+Sentence: upon the whole , i am much pleased with him . ''
+Perplexity : 2.4766005511859928
+Sentence: her performance on the piano forte is exquisite . ''
+Perplexity : 1.6858855561702937
+Sentence: they met several times , for there was much to be discussed .
+Perplexity : 2.3089163197977496
+Sentence: her hopes were answered ; jane had not been gone long before it rained hard .
+Perplexity : 1.960827725339722
+Sentence: soon after their return , a letter was delivered to miss bennet ; it came from netherfield , and was opened immediately .
+Perplexity : 2.2955631524908733
+Sentence: another intreaty that she would be serious , however , produced the desired effect ; and she soon satisfied jane by her solemn assurances of attachment .
+Perplexity : 2.0236741239002374
+Sentence: elizabeth said no more but her mind could not acquiesce .
+Perplexity : 2.18810382128175
+Sentence: i am confident that she would have performed delightfully .
+Perplexity : 1.9904024126752182
+Sentence: she read , with an eagerness which hardly left her power of comprehension , and from impatience of knowing what the next sentence might bring , was incapable of attending to the sense of the one before her eyes .
+Perplexity : 2.0577875364724925
+Sentence: mrs. gardiner abused her stupidity .
+Perplexity : 1.6784272450341742
+Sentence: in a few days mr. bingley returned mr. bennet 's visit , and sat about ten minutes with him in his library .
+Perplexity : 2.389414393150361
+Sentence: if she does not object to it , why should we ? ''
+Perplexity : 2.204210924487053
+Sentence: at such a distance as that , you know , things are strangely misrepresented . ''
+Perplexity : 2.0356843257506636
+Sentence: come be quick , be quick !
+Perplexity : 1.8650756931824888
+Sentence: `` not at all , '' was her answer ; `` but depend upon it , he means to be severe on us , and our surest way of disappointing him , will be to ask nothing about it . ''
+Perplexity : 2.4030940571897976
+Sentence: mr. collins , however , was not discouraged from speaking again , and mr. darcy 's contempt seemed abundantly increasing with the length of his second speech , and at the end of it he only made him a slight bow , and moved another way .
+Perplexity : 2.198943721244364
+Sentence: i want to be told whether i ought , or ought not to make our acquaintance in general understand wickham 's character . ''
+Perplexity : 2.131061864130097
+Sentence: the pain of separation , however , might be alleviated on his side , by preparations for the reception of his bride , as he had reason to hope , that shortly after his next return into hertfordshire , the day would be fixed that was to make him the happiest of men .
+Perplexity : 2.229300269748268
+Sentence: i shall never forget her appearance this morning .
+Perplexity : 2.2202173114526746
+Sentence: `` with the officers ! ''
+Perplexity : 2.121610255121871
+Sentence: what wickham had said of the living was fresh in her memory , and as she recalled his very words , it was impossible not to feel that there was gross duplicity on one side or the other ; and , for a few moments , she flattered herself that her wishes did not err .
+Perplexity : 2.2252076484709598
+Sentence: `` i am sure there is not on his .
+Perplexity : 2.8281317040025793
+Sentence: the recollection of what i then said , of my conduct , my manners , my expressions during the whole of it , is now , and has been many months , inexpressibly painful to me .
+Perplexity : 2.5095849931317766
+Sentence: as for jane , her anxiety under this suspence was , of course , more painful than elizabeth 's ; but whatever she felt she was desirous of concealing , and between herself and elizabeth , therefore , the subject was never alluded to .
+Perplexity : 2.22378031174393
+Sentence: i do not know the particulars , but i know very well that mr. darcy is not in the least to blame , that he can not bear to hear george wickham mentioned , and that though my brother thought he could not well avoid including him in his invitation to the officers , he was excessively glad to find that he had taken himself out of the way .
+Perplexity : 2.4416665481677793
+Sentence: my dear father , can you suppose it possible that they will not be censured and despised wherever they are known , and that their sisters will not be often involved in the disgrace ? ''
+Perplexity : 2.3276904128896367
+Sentence: i am sincerely grieved for him and mrs. f. but no one can throw any blame on them .
+Perplexity : 2.0272128514704644
+Sentence: what a stroke was this for poor jane !
+Perplexity : 1.68855713820807
+Sentence: no one admitted to the privilege of hearing you , can think any thing wanting .
+Perplexity : 1.9372560306845705
+Sentence: it was exactly a scene , and exactly among people , where he had apparently least to do , and least temptation to go .
+Perplexity : 2.2132660637736072
+Sentence: miss bingley was not so entirely satisfied with this reply as to continue the subject .
+Perplexity : 2.232795787803071
+Sentence: this has been my motive , my fair cousin , and i flatter myself it will not sink me in your esteem .
+Perplexity : 2.308223957422556
+Sentence: i was sure you could not be so beautiful for nothing !
+Perplexity : 2.3470608127739454
+Sentence: darcy , in wretched suspense , could only say something indistinctly of his concern , and observe her in compassionate silence .
+Perplexity : 1.9817201788779426
+Sentence: i thought i understood from the gardiners that you had . ''
+Perplexity : 2.2182446824637148
+Sentence: he then shut the door , and coming up to her , claimed the good wishes and affection of a sister .
+Perplexity : 2.1842262795267673
+Sentence: i declare i do not know a more aweful object than darcy , on particular occasions , and in particular places ; at his own house especially , and of a sunday evening when he has nothing to do . ''
+Perplexity : 2.2868915445922045
+Sentence: elizabeth was shocked to think that , however incapable of such coarseness of expression herself , the coarseness of the sentiment was little other than her own breast had formerly harboured and fancied liberal !
+Perplexity : 1.9490978454150096
+Sentence: young women should always be properly guarded and attended , according to their situation in life .
+Perplexity : 1.8243071208861354
+Sentence: `` what sort of a girl is miss darcy ? ''
+Perplexity : 2.2728472007631613
+Sentence: `` i am certainly the most fortunate creature that ever existed ! ''
+Perplexity : 1.932134931400014
+Sentence: after a slight preparation for good news , the letter was read aloud .
+Perplexity : 1.9542656154698663
+Sentence: `` she did indeed , louisa .
+Perplexity : 2.1231139907450114
+Sentence: oh , brother , how kind you are !
+Perplexity : 2.62043615457416
+Sentence: she endeavoured to secure jane in her interest , but jane with all possible mildness declined interfering ; and elizabeth sometimes with real earnestness and sometimes with playful gaiety replied to her attacks .
+Perplexity : 1.9685802657244
+Sentence: our importance , our respectability in the world , must be affected by the wild volatility , the assurance and disdain of all restraint which mark lydia 's character .
+Perplexity : 1.8686610792933707
+Sentence: how odious i should think them ! ''
+Perplexity : 2.0494319016458253
+Sentence: no man of common humanity , no man who had any value for his character , could be capable of it .
+Perplexity : 2.1816356583443492
+Sentence: you shall not , for the sake of one individual , change the meaning of principle and integrity , nor endeavour to persuade yourself or me , that selfishness is prudence , and insensibility of danger , security for happiness . ''
+Perplexity : 1.8343590726622554
+Sentence: the latter part of this address was scarcely heard by darcy ; but sir william 's allusion to his friend seemed to strike him forcibly , and his eyes were directed with a very serious expression towards bingley and jane , who were dancing together .
+Perplexity : 2.131125529989467
+Sentence: she had even learnt to detect , in the very gentleness which had first delighted her , an affectation and a sameness to disgust and weary .
+Perplexity : 1.9519615223603515
+Sentence: no one who has ever seen you together , can doubt his affection .
+Perplexity : 2.312822186700622
+Sentence: mrs. bennet 's schemes for this day were ineffectual .
+Perplexity : 1.895837053772974
+Sentence: `` good god !
+Perplexity : 1.564711845775853
+Sentence: the little gardiners , attracted by the sight of a chaise , were standing on the steps of the house , as they entered the paddock ; and when the carriage drove up to the door , the joyful surprise that lighted up their faces , and displayed itself over their whole bodies , in a variety of capers and frisks , was the first pleasing earnest of their welcome .
+Perplexity : 1.959039346962612
+Sentence: stop me whilst you can . ''
+Perplexity : 1.777648697348116
+Sentence: she was immediately told , that the two gentlemen from rosings had each called during her absence ; mr. darcy , only for a few minutes to take leave , but that colonel fitzwilliam had been sitting with them at least an hour , hoping for her return , and almost resolving to walk after her till she could be found .
+Perplexity : 2.217808595695313
+Sentence: they look upon it quite as their own , i dare say , whenever that happens . ''
+Perplexity : 2.0454009929944363
+Sentence: this unfortunate affair will , i fear , prevent my sister 's having the pleasure of seeing you at pemberley to day . ''
+Perplexity : 1.9872029921324517
+Sentence: what do you keep winking at me for ?
+Perplexity : 1.952254650182274
+Sentence: `` did you speak from your own observation , '' said she , `` when you told him that my sister loved him , or merely from my information last spring ? ''
+Perplexity : 2.0421781086061013
+Sentence: in this perturbed state of mind , with thoughts that could rest on nothing , she walked on ; but it would not do ; in half a minute the letter was unfolded again , and collecting herself as well as she could , she again began the mortifying perusal of all that related to wickham , and commanded herself so far as to examine the meaning of every sentence .
+Perplexity : 2.226218043666655
+Sentence: to have his errors made public might ruin him for ever .
+Perplexity : 1.8149849702852119
+Sentence: `` because you were grave and silent , and gave me no encouragement . ''
+Perplexity : 1.7979262678586911
+Sentence: if this be the case , he deserves you .
+Perplexity : 1.8923663430647581
+Sentence: not a word , however , passed his lips in allusion to it , till their visitor took his leave for the night ; but as soon as he was gone , he turned to his daughter and said , '' jane , i congratulate you .
+Perplexity : 2.312336390421868
+Sentence: the gardiners staid only one night at longbourn , and set off the next morning with elizabeth in pursuit of novelty and amusement .
+Perplexity : 1.9630241562034412
+Sentence: young ladies of her age , are sometimes a little difficult to manage , and if she has the true darcy spirit , she may like to have her own way . ''
+Perplexity : 2.3229860692842035
+Sentence: her disappointment in charlotte made her turn with fonder regard to her sister , of whose rectitude and delicacy she was sure her opinion could never be shaken , and for whose happiness she grew daily more anxious , as bingley had now been gone a week , and nothing was heard of his return .
+Perplexity : 2.11626032674678
+Sentence: miss darcy was tall , and on a larger scale than elizabeth ; and , though little more than sixteen , her figure was formed , and her appearance womanly and graceful .
+Perplexity : 2.232916802643296
+Sentence: poor eliza !
+Perplexity : 1.731590339447602
+Sentence: darcy . ''
+Perplexity : 2.0734023650486257
+Sentence: mr. collins readily assented , and a book was produced ; but on beholding it , ( for every thing announced it to be from a circulating library , ) he started back , and begging pardon , protested that he never read novels .
+Perplexity : 2.0083145635678847
+Sentence: she blushed at the very idea ; and thought it would be better to speak openly to her aunt , than to run such a risk .
+Perplexity : 2.2597914742103753
+Sentence: but to be guarded at such a time , is very difficult .
+Perplexity : 2.438406742685407
+Sentence: and you saw the old housekeeper , i suppose ?
+Perplexity : 2.1224101315675776
+Sentence: `` and i certainly never shall give it .
+Perplexity : 2.2417025551727763
+Sentence: `` the party seemed so well selected , so suitable one with the other .
+Perplexity : 1.9813616866914623
+Sentence: thank heaven !
+Perplexity : 1.7136459138414846
+Sentence: to know that her daughter would be married was enough .
+Perplexity : 2.6445561436549267
+Sentence: i have faults enough , but they are not , i hope , of understanding .
+Perplexity : 2.5924637774986823
+Sentence: mrs. bennet was prevented replying by the entrance of the footman with a note for miss bennet ; it came from netherfield , and the servant waited for an answer .
+Perplexity : 2.0604105835338107
+Sentence: the extravagance and general profligacy which he scrupled not to lay to mr. wickham 's charge , exceedingly shocked her ; the more so , as she could bring no proof of its injustice .
+Perplexity : 1.92080079101666
+Sentence: `` do you consider the forms of introduction , and the stress that is laid on them , as nonsense ?
+Perplexity : 2.0635375694811944
+Sentence: mrs. bennet deigned not to make any reply ; but unable to contain herself , began scolding one of her daughters .
+Perplexity : 2.178331490812146
+Sentence: i consider it as one of the first refinements of polished societies . ''
+Perplexity : 1.9294088832342642
+Sentence: she got up , and ran out of the room ; and returned no more , till she heard them passing through the hall to the dining parlour .
+Perplexity : 2.1645551733566464
+Sentence: elizabeth was sitting by herself the next morning , and writing to jane , while mrs. collins and maria were gone on business into the village , when she was startled by a ring at the door , the certain signal of a visitor .
+Perplexity : 2.068242128362688
+Sentence: and when we do return , it shall not be like other travellers , without being able to give one accurate idea of any thing .
+Perplexity : 2.303630469404593
+Sentence: `` i do not believe mrs. long will do any such thing .
+Perplexity : 2.173757564736581
+Sentence: after a song or two , and before she could reply to the entreaties of several that she would sing again , she was eagerly succeeded at the instrument by her sister mary , who having , in consequence of being the only plain one in the family , worked hard for knowledge and accomplishments , was always impatient for display .
+Perplexity : 2.0576753420980047
+Sentence: but at length , by elizabeth 's persuasion , he was prevailed on to overlook the offence , and seek a reconciliation ; and , after a little farther resistance on the part of his aunt , her resentment gave way , either to her affection for him , or her curiosity to see how his wife conducted herself ; and she condescended to wait on them at pemberley , in spite of that pollution which its woods had received , not merely from the presence of such a mistress , but the visits of her uncle and aunt from the city .
+Perplexity : 2.1453250757028988
+Sentence: it has connected him nearer with virtue than any other feeling .
+Perplexity : 1.735319119206792
+Sentence: i am not so selfish , however , as to press for it , if inconvenient .
+Perplexity : 2.33020521005042
+Sentence: when you told mrs. bennet this morning that if you ever resolved on quitting netherfield you should be gone in five minutes , you meant it to be a sort of panegyric , of compliment to yourself and yet what is there so very laudable in a precipitance which must leave very necessary business undone , and can be of no real advantage to yourself or any one else ? ''
+Perplexity : 2.1581332710619456
+Sentence: he is the handsomest young man that ever was seen ! ''
+Perplexity : 2.259892097570306
+Sentence: that is all settled . ''
+Perplexity : 2.4581424168655417
+Sentence: cried elizabeth , when she had finished .
+Perplexity : 2.655752993338142
+Sentence: i know of nobody that is coming i am sure , unless charlotte lucas should happen to call in , and i hope my dinners are good enough for her .
+Perplexity : 2.135658250707555
+Sentence: mr. and mrs. gardiner smiled .
+Perplexity : 1.914522450041571
+Sentence: elizabeth thought this was going pretty far ; and she listened with increasing astonishment as the housekeeper added , '' i have never had a cross word from him in my life , and i have known him ever since he was four years old . ''
+Perplexity : 2.2695162321317297
+Sentence: `` mr. darcy is not so well worth listening to as his friend , is he ?
+Perplexity : 2.576674023299662
+Sentence: she felt all the perverseness of the mischance that should bring him where no one else was brought ; and to prevent its ever happening again , took care to inform him at first , that it was a favourite haunt of hers .
+Perplexity : 2.049593881128875
+Sentence: i write without any intention of paining you , or humbling myself , by dwelling on wishes , which , for the happiness of both , can not be too soon forgotten ; and the effort which the formation , and the perusal of this letter must occasion , should have been spared , had not my character required it to be written and read .
+Perplexity : 2.1521923278987494
+Sentence: it is mr. wickham 's intention to go into the regulars ; and , among his former friends , there are still some who are able and willing to assist him in the army .
+Perplexity : 2.157988970806468
+Sentence: but your family owe me nothing .
+Perplexity : 1.8581753382410608
+Sentence: lizzy declares she will not have mr. collins , and mr. collins begins to say that he will not have lizzy . ''
+Perplexity : 2.655983600980396
+Sentence: `` but if i do not take your likeness now , i may never have another opportunity . ''
+Perplexity : 2.2759882276556636
+Sentence: when this information was given , and they had all taken their seats , mr. collins was at leisure to look around him and admire , and he was so much struck with the size and furniture of the apartment , that he declared he might almost have supposed himself in the small summer breakfast parlour at rosings ; a comparison that did not at first convey much gratification ; but when mrs. philips understood from him what rosings was , and who was its proprietor , when she had listened to the description of only one of lady catherine 's drawing rooms , and found that the chimney piece alone had cost eight hundred pounds , she felt all the force of the compliment , and would hardly have resented a comparison with the housekeeper 's room .
+Perplexity : 2.085195331399369
+Sentence: it was very little less .
+Perplexity : 3.063270046724755
+Sentence: you know pretty well , i suppose , what has been done for the young people .
+Perplexity : 2.5273616315191587
+Sentence: as a child , she was affectionate and pleasing , and extremely fond of me ; and i have devoted hours and hours to her amusement .
+Perplexity : 2.164486965158458
+Sentence: and when her sisters abused it as ugly , she added , with perfect unconcern , `` oh !
+Perplexity : 1.9385754587865331
+Sentence: he has always something to say to every body .
+Perplexity : 2.3212917247709624
+Sentence: i shall then give over every expectation , every wish of his constancy .
+Perplexity : 1.987581276649847
+Sentence: he knows of my being in town , i am certain , from something she said herself ; and yet it should seem by her manner of talking , as if she wanted to persuade herself that he is really partial to miss darcy .
+Perplexity : 2.2752708262181836
+Sentence: i knew it myself , as it was known to miss bingley , but her brother is even yet ignorant of it .
+Perplexity : 2.7489334756574264
+Sentence: she talked to elizabeth again and again ; coaxed and threatened her by turns .
+Perplexity : 1.8988179844415336
+Sentence: `` if , therefore , an excuse for not keeping his promise , should come to his friend within a few days , '' she added , `` i shall know how to understand it .
+Perplexity : 2.3575020493277283
+Sentence: it was an union that must have been to the advantage of both ; by her ease and liveliness , his mind might have been softened , his manners improved , and from his judgment , information , and knowledge of the world , she must have received benefit of greater importance .
+Perplexity : 2.2516039843633933
+Sentence: `` perfectly so i thank you . ''
+Perplexity : 1.9805011585176793
+Sentence: she was now , on being settled at home , at leisure to observe the real state of her sister 's spirits .
+Perplexity : 2.384853397605498
+Sentence: there is a mixture of servility and self importance in his letter , which promises well .
+Perplexity : 1.9531101301371327
+Sentence: her performance was pleasing , though by no means capital .
+Perplexity : 2.026386843359427
+Sentence: there was a something in her countenance which made him listen with an apprehensive and anxious attention , while she added , '' when i said that he improved on acquaintance , i did not mean that either his mind or manners were in a state of improvement , but that from knowing him better , his disposition was better understood . ''
+Perplexity : 2.1967519137039293
+Sentence: i told my sister philips so the other day .
+Perplexity : 2.042008059150053
+Sentence: you must contrive to send somebody .
+Perplexity : 1.6263232990194805
+Sentence: to interrupt a silence which might make him fancy her affected with what had passed , she soon afterwards said , '' i imagine your cousin brought you down with him chiefly for the sake of having somebody at his disposal .
+Perplexity : 1.9766527812374004
+Sentence: after a short silence , the lady first spoke .
+Perplexity : 2.158283159877315
+Sentence: i came to you without a doubt of my reception .
+Perplexity : 2.4978642546661005
+Sentence: in ran mrs. bennet to her daughter 's room , in her dressing gown , and with her hair half finished , crying out , '' my dear jane , make haste and hurry down .
+Perplexity : 2.367193791757968
+Sentence: and even when it was settled that lydia should go with mrs. forster , the necessity of opening her eyes to his character never occurred to me .
+Perplexity : 2.034554359664145
+Sentence: not all that mrs. bennet , however , with the assistance of her five daughters , could ask on the subject was sufficient to draw from her husband any satisfactory description of mr. bingley .
+Perplexity : 2.251070295893568
+Sentence: i knew how it would be i knew he would manage every thing .
+Perplexity : 2.583527925869339
+Sentence: `` shall we ask him why a man of sense and education , and who has lived in the world , is ill qualified to recommend himself to strangers ? ''
+Perplexity : 2.029925948375728
+Sentence: she would not give him time to reply , but hurrying instantly to her husband , called out as she entered the library , '' oh !
+Perplexity : 2.296010894901097
+Sentence: i described , and enforced them earnestly .
+Perplexity : 1.6292754812923405
+Sentence: after waiting at home every morning for a fortnight , and inventing every evening a fresh excuse for her , the visitor did at last appear ; but the shortness of her stay , and yet more , the alteration of her manner , would allow jane to deceive herself no longer .
+Perplexity : 2.190033205619124
+Sentence: `` you are uniformly charming ! ''
+Perplexity : 1.705909543204941
+Sentence: but i think mr. darcy improves on acquaintance . ''
+Perplexity : 2.139171816055783
+Sentence: but i hope you will not mind it : it is all for jane 's sake , you know ; and there is no occasion for talking to him , except just now and then .
+Perplexity : 2.4063068736307565
+Sentence: and so it does i vow .
+Perplexity : 2.050555134703164
+Sentence: `` yes ; to the last .
+Perplexity : 2.8824979011548795
+Sentence: it was all over before i arrived ; so my curiosity was not so dreadfully racked as your 's seems to have been .
+Perplexity : 2.073418256440406
+Sentence: `` you are very cruel , '' said her sister , `` you will not let me smile , and are provoking me to it every moment . ''
+Perplexity : 2.553917542482975
+Sentence: `` take care , lizzy ; that speech savours strongly of disappointment . ''
+Perplexity : 1.7458026304342038
+Sentence: she could settle it in no way that gave her pleasure .
+Perplexity : 1.900563042389507
+Sentence: my resolution of thanking you for your kindness to lydia had certainly great effect .
+Perplexity : 1.8444414130139817
+Sentence: it was kindly meant . ''
+Perplexity : 1.6042790872016104
+Sentence: but think no more of the letter .
+Perplexity : 2.860364767934815
+Sentence: but that is not the case here .
+Perplexity : 2.9885386532053744
+Sentence: on the very day of my coming home from longbourn , your uncle had a most unexpected visitor .
+Perplexity : 2.327050343236813
+Sentence: we shall have no peace at longbourn if lydia does not go to brighton .
+Perplexity : 2.1852988712899903
+Sentence: hunsford , near westerham , kent , 15th october .
+Perplexity : 1.539575566369805
+Sentence: he spoke of apprehension and anxiety , but his countenance expressed real security .
+Perplexity : 1.8930290856392444
+Sentence: these recollections will not do at all .
+Perplexity : 2.4400690618439453
+Sentence: my dear , '' cried his wife , `` i can not bear to hear that mentioned .
+Perplexity : 2.2440415842055565
+Sentence: happy shall i be , when his stay at netherfield is over ! ''
+Perplexity : 2.172813868711267
+Sentence: that he is as false and deceitful , as he is insinuating . ''
+Perplexity : 2.350187037648603
+Sentence: `` and is miss darcy as handsome as her brother ? ''
+Perplexity : 2.3706598556249188
+Sentence: `` indeed you are mistaken .
+Perplexity : 2.237974096330177
+Sentence: elizabeth had scarcely time to disclaim all right to the compliment , before their approach was announced by the door bell , and shortly afterwards the three gentlemen entered the room .
+Perplexity : 1.9202835854629194
+Sentence: i shall not go away , till you have given me the assurance i require . ''
+Perplexity : 2.336744882241014
+Sentence: he walked here , and he walked there , fancying himself so very great !
+Perplexity : 2.2853842447401154
+Sentence: at such a time , much might have been said , and silence was very awkward .
+Perplexity : 2.370971715008155
+Sentence: excellent parsonage house !
+Perplexity : 1.7140559478539588
+Sentence: but she is nothing to me now .
+Perplexity : 3.582565706421543
+Sentence: hear me in silence .
+Perplexity : 2.044898979590631
+Sentence: four sides of paper were insufficient to contain all her delight , and all her earnest desire of being loved by her sister .
+Perplexity : 2.088510010710028
+Sentence: `` you allude perhaps to the entail of this estate . ''
+Perplexity : 1.7460637251260798
+Sentence: but no such happy marriage could now teach the admiring multitude what connubial felicity really was .
+Perplexity : 1.6622129692984993
+Sentence: a great many changes have happened in the neighbourhood , since you went away .
+Perplexity : 2.1548146162151607
+Sentence: elizabeth merely curtseyed to him , without saying a word .
+Perplexity : 1.9992307705106074
+Sentence: `` i am the less surprised at what has happened , '' replied sir william , '' from that knowledge of what the manners of the great really are , which my situation in life has allowed me to acquire .
+Perplexity : 2.273856049413031
+Sentence: mary and kitty were both with mrs. bennet : one communication would , therefore , do for all .
+Perplexity : 2.0407898152401502
+Sentence: said jane .
+Perplexity : 1.7376726464317314
+Sentence: the commendation bestowed on him by mrs. reynolds was of no trifling nature .
+Perplexity : 1.8209755453121628
+Sentence: her heart was divided between concern for her sister , and resentment against all the others .
+Perplexity : 2.0691482982976255
+Sentence: miss bennet 's pleasing manners grew on the good will of mrs. hurst and miss bingley ; and though the mother was found to be intolerable and the younger sisters not worth speaking to , a wish of being better acquainted with them , was expressed towards the two eldest .
+Perplexity : 2.291068756452186
+Sentence: but mrs. bennet , was not so well pleased with it .
+Perplexity : 2.8394172462485407
+Sentence: he was exactly what he had been , when i knew him in hertfordshire ; but i would not tell you how little i was satisfied with her behaviour while she staid with us , if i had not perceived , by jane 's letter last wednesday , that her conduct on coming home was exactly of a piece with it , and therefore what i now tell you , can give you no fresh pain .
+Perplexity : 2.5155182835123444
+Sentence: the five weeks which she had now passed in kent , had made a great difference in the country , and every day was adding to the verdure of the early trees .
+Perplexity : 2.1384374222498312
+Sentence: `` yet it is hard , '' she sometimes thought , `` that this poor man can not come to a house , which he has legally hired , without raising all this speculation !
+Perplexity : 2.2646106586087793
+Sentence: `` i would not on any account trifle with her affectionate solicitude ; or allow her to hear it from any one but myself .
+Perplexity : 2.23087821761435
+Sentence: they stood a little aloof while he was talking to their niece , who , astonished and confused , scarcely dared lift her eyes to his face , and knew not what answer she returned to his civil enquiries after her family .
+Perplexity : 1.9934573033872875
+Sentence: but if i go on , i shall displease you by saying what i think of persons you esteem .
+Perplexity : 2.166827260618812
+Sentence: do not imagine me ignorant of their condition . ''
+Perplexity : 1.9012166104410502
+Sentence: what could be the meaning of it ?
+Perplexity : 2.647489711433692
+Sentence: but however insincere you may choose to be , you shall not find me so .
+Perplexity : 2.344073498571856
+Sentence: `` i often think , '' said she , `` that there is nothing so bad as parting with one 's friends .
+Perplexity : 2.2690659427373903
+Sentence: for herself she was humbled ; but she was proud of him .
+Perplexity : 2.1838633098898375
+Sentence: well , i am sure i shall be extremely glad to see mr. bingley .
+Perplexity : 2.542759680909684
+Sentence: had it been your uncle 's doing , i must and would have paid him ; but these violent young lovers carry every thing their own way .
+Perplexity : 2.176873358804358
+Sentence: after a few minutes reflection , however , she continued , `` i do remember his boasting one day , at netherfield , of the implacability of his resentments , of his having an unforgiving temper .
+Perplexity : 2.1582347788493386
+Sentence: did he know of their intending to go off ?
+Perplexity : 1.9345687231199562
+Sentence: `` nothing is more deceitful , '' said darcy , `` than the appearance of humility .
+Perplexity : 2.227026218255131
+Sentence: change of scene might be of service and perhaps a little relief from home , may be as useful as anything . ''
+Perplexity : 1.9762177979438877
+Sentence: the wisest and the best of men , nay , the wisest and best of their actions , may be rendered ridiculous by a person whose first object in life is a joke . ''
+Perplexity : 1.970726356474737
+Sentence: `` it is particularly incumbent on those who never change their opinion , to be secure of judging properly at first . ''
+Perplexity : 1.9165600693441347
+Sentence: `` and of your infliction , '' cried elizabeth with energy .
+Perplexity : 2.3397957878123656
+Sentence: elizabeth did not know what to make of it .
+Perplexity : 2.7197051323470744
+Sentence: to elizabeth , however , he voluntarily acknowledged that the necessity of his absence had been self imposed .
+Perplexity : 2.026474842718198
+Sentence: the children , two girls of six and eight years old , and two younger boys , were to be left under the particular care of their cousin jane , who was the general favourite , and whose steady sense and sweetness of temper exactly adapted her for attending to them in every way teaching them , playing with them , and loving them .
+Perplexity : 2.0269537154670068
+Sentence: `` but , my dear sister , can i be happy , even supposing the best , in accepting a man whose sisters and friends are all wishing him to marry elsewhere ? ''
+Perplexity : 2.1972813423369257
+Sentence: i have been meditating on the very great pleasure which a pair of fine eyes in the face of a pretty woman can bestow . ''
+Perplexity : 2.0017742808757175
+Sentence: elizabeth was surprised , however , that wickham should consent to such a scheme , and , had she consulted only her own inclination , any meeting with him would have been the last object of her wishes .
+Perplexity : 2.449838066601801
+Sentence: it will save me a world of trouble and economy .
+Perplexity : 1.6847421788914407
+Sentence: her ladyship 's carriage is regularly ordered for us .
+Perplexity : 1.8376450954664652
+Sentence: with astonishment did elizabeth see , that her new acquaintance was at least as much embarrassed as herself .
+Perplexity : 2.243249337571917
+Sentence: miss bingley said something of his never returning to netherfield again , of giving up the house , but not with any certainty .
+Perplexity : 2.4125081569541185
+Sentence: hurst . ''
+Perplexity : 1.4190288660678583
+Sentence: `` she is happy , then , '' said her father , drily ; `` and her residence there will probably be of some duration . ''
+Perplexity : 2.1855091533293685
+Sentence: lady lucas began directly to calculate with more interest than the matter had ever excited before , how many years longer mr. bennet was likely to live ; and sir william gave it as his decided opinion , that whenever mr. collins should be in possession of the longbourn estate , it would be highly expedient that both he and his wife should make their appearance at st. james 's .
+Perplexity : 2.073854019826939
+Sentence: `` while i can have my mornings to myself , '' said she , `` it is enough .
+Perplexity : 2.435722286657048
+Sentence: nor was her respect for him , though it made her more quiet , at all likely to make her more elegant .
+Perplexity : 2.391728614799814
+Sentence: it will then be publicly seen , that on both sides , we meet only as common and indifferent acquaintance . ''
+Perplexity : 1.9983793524590159
+Sentence: lydia 's thoughtlessness first betrayed to me that you had been concerned in the matter ; and , of course , i could not rest till i knew the particulars .
+Perplexity : 2.452451099536288
+Sentence: what a delightful library you have at pemberley , mr .
+Perplexity : 2.067594936375828
+Sentence: she asked her at different times , how many sisters she had , whether they were older or younger than herself , whether any of them were likely to be married , whether they were handsome , where they had been educated , what carriage her father kept , and what had been her mother 's maiden name ?
+Perplexity : 2.274926253432467
+Sentence: `` oh !
+Perplexity : 1.797101738396045
+Sentence: it was acknowledged , however , that he was a liberal man , and did much good among the poor .
+Perplexity : 2.4006208727302476
+Sentence: <s> yes .
+Perplexity : 1.7387054385861724
+Sentence: my dear aunt , how could you think of it ?
+Perplexity : 3.044865837740187
+Sentence: she felt that jane 's feelings , though fervent , were little displayed , and that there was a constant complacency in her air and manner , not often united with great sensibility .
+Perplexity : 2.271112244997188
+Sentence: at last it arrested her and she beheld a striking resemblance of mr. darcy , with such a smile over the face , as she remembered to have sometimes seen , when he looked at her .
+Perplexity : 2.2228000982846097
+Sentence: you will easily comprehend , from these particulars , that mr. wickham 's circumstances are not so hopeless as they are generally believed to be .
+Perplexity : 2.390093005907706
+Sentence: `` i can not believe it .
+Perplexity : 2.583388600238267
+Sentence: to catherine and lydia , neither the letter nor its writer were in any degree interesting .
+Perplexity : 1.9604679791219173
+Sentence: i shall be glad to have the library to myself as soon as may be . ''
+Perplexity : 2.6232465507203098
+Sentence: `` come , darcy , '' said he , `` i must have you dance .
+Perplexity : 2.497487306440648
+Sentence: poor jane !
+Perplexity : 1.7225480304397078
+Sentence: i can not boast of knowing more than half a dozen , in the whole range of my acquaintance , that are really accomplished . ''
+Perplexity : 2.1334656747633063
+Sentence: `` oh !
+Perplexity : 1.797101738396045
+Sentence: `` shall we ask your cousin the reason of this ? ''
+Perplexity : 1.9832176461677213
+Sentence: at length , quite exhausted by the attempt to be amused with her own book , which she had only chosen because it was the second volume of his , she gave a great yawn and said , `` how pleasant it is to spend an evening in this way !
+Perplexity : 2.2543932119044636
+Sentence: elizabeth could not refuse , though she foresaw little pleasure in the visit .
+Perplexity : 2.16851611821416
+Sentence: `` in point of composition , '' said mary , `` his letter does not seem defective .
+Perplexity : 2.2145251115508287
+Sentence: she had also to anticipate how her visit would pass , the quiet tenor of their usual employments , the vexatious interruptions of mr. collins , and the gaieties of their intercourse with rosings .
+Perplexity : 1.8685220614461793
+Sentence: he was the proudest , most disagreeable man in the world , and every body hoped that he would never come there again .
+Perplexity : 2.216627206043769
+Sentence: she had turned away , but on hearing herself called , though in a voice which proved it to be mr. darcy , she moved again towards the gate .
+Perplexity : 2.4377925719939766
+Sentence: had his first appearance , or his resemblance to the picture they had just been examining , been insufficient to assure the other two that they now saw mr. darcy , the gardener 's expression of surprise , on beholding his master , must immediately have told it .
+Perplexity : 2.0546964906904206
+Sentence: `` no more have i , '' said mr. bennet ; `` and i am glad to find that you do not depend on her serving you . ''
+Perplexity : 2.3810640304657467
+Sentence: `` certainly .
+Perplexity : 2.458900812220426
+Sentence: `` from mr. collins !
+Perplexity : 2.85435183263111
+Sentence: `` my dear , dear lydia ! ''
+Perplexity : 2.101394506416935
+Sentence: `` i can easily believe it .
+Perplexity : 2.2320764618245272
+Sentence: your portion is unhappily so small that it will in all likelihood undo the effects of your loveliness and amiable qualifications .
+Perplexity : 1.7631037159494047
+Sentence: this , she would not hear of ; but she was not so unwilling to comply with their brother 's proposal ; and it was settled that mr. jones should be sent for early in the morning , if miss bennet were not decidedly better .
+Perplexity : 2.4203094771159566
+Sentence: how soon any other wishes introduced themselves i can hardly tell , but i believe in about half an hour after i had seen you . ''
+Perplexity : 2.093643359845072
+Sentence: he was seriously concerned , that a cause of so little advantage to any one , should be forwarded at the sole expence of his brother in law , and he was determined , if possible , to find out the extent of his assistance , and to discharge the obligation as soon as he could .
+Perplexity : 2.229684082749231
+Sentence: on reaching the house , they were shewn through the hall into the saloon , whose northern aspect rendered it delightful for summer .
+Perplexity : 1.7879911324587048
+Sentence: but as to your other objection , i am afraid it will hardly hold good .
+Perplexity : 2.1566371278040073
+Sentence: she heard the carriage drive away as she proceeded up stairs .
+Perplexity : 1.7894590342027326
+Sentence: was not this some excuse for incivility , if i was uncivil ?
+Perplexity : 2.33794211643298
+Sentence: i would go and see her , if i could have the carriage . ''
+Perplexity : 2.8541559530298404
+Sentence: it was dated from rosings , at eight o'clock in the morning , and was as follows : `` be not alarmed , madam , on receiving this letter , by the apprehension of its containing any repetition of those sentiments , or renewal of those offers , which were last night so disgusting to you .
+Perplexity : 2.0642951034124275
+Sentence: <s> oh !
+Perplexity : 1.6316051521173087
+Sentence: elizabeth felt herself growing more angry every moment ; yet she tried to the utmost to speak with composure when she said , '' you are mistaken , mr. darcy , if you suppose that the mode of your declaration affected me in any other way , than as it spared me the concern which i might have felt in refusing you , had you behaved in a more gentleman like manner . ''
+Perplexity : 2.173847099950121
+Sentence: their first subject was her sister ; and she was more grieved than astonished to hear , in reply to her minute enquiries , that though jane always struggled to support her spirits , there were periods of dejection .
+Perplexity : 2.2174680525734476
+Sentence: so imprudent a match on both sides !
+Perplexity : 1.699000100304015
+Sentence: but to live in ignorance on such a point was impossible ; or at least it was impossible not to try for information .
+Perplexity : 2.1001942057020604
+Sentence: i see the imprudence of it .
+Perplexity : 1.9889426587604728
+Sentence: lydia , my love , though you are the youngest , i dare say mr. bingley will dance with you at the next ball . ''
+Perplexity : 2.4388259621103296
+Sentence: `` not the slightest .
+Perplexity : 2.2313331975158746
+Sentence: the officer was the very mr. denny , concerning whose return from london lydia came to inquire , and he bowed as they passed .
+Perplexity : 2.0047086741113262
+Sentence: `` he is perfectly well behaved , polite , and unassuming , '' said her uncle .
+Perplexity : 2.062795078832994
+Sentence: he takes them now for people of fashion . ''
+Perplexity : 1.7488300132176369
+Sentence: it was lady catherine de bourgh .
+Perplexity : 2.6767782606881885
+Sentence: she was not near enough to hear any of their discourse , but she could see how seldom they spoke to each other , and how formal and cold was their manner , whenever they did .
+Perplexity : 2.2291833150192097
+Sentence: `` his manners are very different from his cousin 's . ''
+Perplexity : 2.19391011086254
+Sentence: elizabeth hesitated , but her knees trembled under her , and she felt how little would be gained by her attempting to pursue them .
+Perplexity : 2.0549724604617494
+Sentence: now , lizzy , i think i have surprised you .
+Perplexity : 2.537050033270772
+Sentence: `` do you prefer reading to cards ? ''
+Perplexity : 1.7950418665138743
+Sentence: `` will it not be advisable , before we proceed on this subject , to arrange with rather more precision the degree of importance which is to appertain to this request , as well as the degree of intimacy subsisting between the parties ? ''
+Perplexity : 1.8628951837089769
+Sentence: `` mr. collins appears very fortunate in his choice of a wife . ''
+Perplexity : 1.9578674234890512
+Sentence: i was in great hopes that one of you would have got a husband before you came back .
+Perplexity : 2.3521527089464356
+Sentence: it pains me to offend you .
+Perplexity : 1.8310425101401617
+Sentence: mrs. bennet sent them word that they could not possibly have the carriage before tuesday ; and in her postscript it was added , that if mr. bingley and his sister pressed them to stay longer , she could spare them very well .
+Perplexity : 2.4073188726482893
+Sentence: nothing could be more delightful !
+Perplexity : 2.217837510689217
+Sentence: we must not be so ready to fancy ourselves intentionally injured .
+Perplexity : 2.028389996739553
+Sentence: they seemed each of them to have the happiest memories in the world .
+Perplexity : 2.276326888603565
+Sentence: `` if you believed it impossible to be true , '' said elizabeth , colouring with astonishment and disdain , `` i wonder you took the trouble of coming so far .
+Perplexity : 2.0529787457325512
+Sentence: every lingering struggle in his favour grew fainter and fainter ; and in farther justification of mr. darcy , she could not but allow that mr. bingley , when questioned by jane , had long ago asserted his blamelessness in the affair ; that proud and repulsive as were his manners , she had never , in the whole course of their acquaintance , an acquaintance which had latterly brought them much together , and given her a sort of intimacy with his ways , seen any thing that betrayed him to be unprincipled or unjust any thing that spoke him of irreligious or immoral habits .
+Perplexity : 2.0343847000253605
+Sentence: mr. bingley had soon made himself acquainted with all the principal people in the room ; he was lively and unreserved , danced every dance , was angry that the ball closed so early , and talked of giving one himself at netherfield .
+Perplexity : 2.0729967712023094
+Sentence: jane could have no reserves from elizabeth , where confidence would give pleasure ; and instantly embracing her , acknowledged , with the liveliest emotion , that she was the happiest creature in the world .
+Perplexity : 2.1367421671788147
+Sentence: my dear , '' continued mrs. bennet , `` i am quite delighted with him .
+Perplexity : 2.4066811593864976
+Sentence: i want to talk very seriously .
+Perplexity : 1.9094178270888225
+Sentence: you will be censured , slighted , and despised , by every one connected with him .
+Perplexity : 2.1268907598708924
+Sentence: `` this must be a most inconvenient sitting room for the evening , in summer ; the windows are full west . ''
+Perplexity : 2.0508063722913503
+Sentence: she was proceeding directly to her favourite walk , when the recollection of mr. darcy 's sometimes coming there stopped her , and instead of entering the park , she turned up the lane , which led her farther from the turnpike road .
+Perplexity : 1.966378481122478
+Sentence: `` i should like it beyond any thing ! ''
+Perplexity : 2.5008294184321254
+Sentence: mr. hurst looked at her with astonishment .
+Perplexity : 2.38693701447721
+Sentence: `` i am grieved , indeed , '' cried darcy ; `` grieved shocked .
+Perplexity : 2.1909656500356522
+Sentence: occupied in observing mr. bingley 's attentions to her sister , elizabeth was far from suspecting that she was herself becoming an object of some interest in the eyes of his friend .
+Perplexity : 2.2732941671202282
+Sentence: `` how can you be so silly , '' cried her mother , `` as to think of such a thing , in all this dirt !
+Perplexity : 2.5800808590386004
+Sentence: if your abhorrence of me should make my assertions valueless , you can not be prevented by the same cause from confiding in my cousin ; and that there may be the possibility of consulting him , i shall endeavour to find some opportunity of putting this letter in your hands in the course of the morning .
+Perplexity : 2.137036576962101
+Sentence: had not my own feelings decided against you , had they been indifferent , or had they even been favourable , do you think that any consideration would tempt me to accept the man , who has been the means of ruining , perhaps for ever , the happiness of a most beloved sister ? ''
+Perplexity : 2.246596455191488
+Sentence: `` i did not know before , '' continued bingley immediately , `` that you were a studier of character .
+Perplexity : 2.568907232527239
+Sentence: but your arts and allurements may , in a moment of infatuation , have made him forget what he owes to himself and to all his family .
+Perplexity : 2.102065759581987
+Sentence: `` my motive for cautioning you , is as follows .
+Perplexity : 2.2837297202346045
+Sentence: it seems to me to shew an abominable sort of conceited independence , a most country town indifference to decorum . ''
+Perplexity : 1.8028617113457563
+Sentence: `` i have heard , indeed , that she is uncommonly improved within this year or two .
+Perplexity : 2.278954002031727
+Sentence: `` exceed their income !
+Perplexity : 1.6209203051045942
+Sentence: miss bennet , i insist on being satisfied .
+Perplexity : 2.4569935810143853
+Sentence: her impatience for this second letter was as well rewarded as impatience generally is .
+Perplexity : 1.9642708363115617
+Sentence: `` and they are really to be married ! ''
+Perplexity : 2.7735576778110755
+Sentence: `` yes , she will remain there till christmas . ''
+Perplexity : 2.104079819044933
+Sentence: they could have been understood only by her mother , who might have felt nearly the same .
+Perplexity : 2.3510917277349646
+Sentence: for the last week they had seen very little of either lady catherine or her daughter .
+Perplexity : 2.4301995913360246
+Sentence: there is nothing he would not do for her . ''
+Perplexity : 2.9695399365370356
+Sentence: yet it did , and even a third .
+Perplexity : 2.2964836694518342
+Sentence: upon this information , they instantly passed through the hall once more , and ran across the lawn after their father , who was deliberately pursuing his way towards a small wood on one side of the paddock .
+Perplexity : 1.9042222937470445
+Sentence: and to the pang of a friend disgracing herself and sunk in her esteem , was added the distressing conviction that it was impossible for that friend to be tolerably happy in the lot she had chosen .
+Perplexity : 2.0042435548904334
+Sentence: her ladyship was highly incensed .
+Perplexity : 1.8944288177100463
+Sentence: it is useless to talk of it . ''
+Perplexity : 2.2306787007721955
+Sentence: `` your 's sincerely , & c. '' miss bingley 's congratulations to her brother , on his approaching marriage , were all that was affectionate and insincere .
+Perplexity : 2.2101982119011847
+Sentence: elizabeth took the letter from his writing table , and they went up stairs together .
+Perplexity : 2.2717636330945497
+Sentence: the old lady is mrs. jenkinson , who lives with them .
+Perplexity : 1.792520463522271
+Sentence: `` what is his name ? ''
+Perplexity : 2.452933720153344
+Sentence: this is my advice .
+Perplexity : 2.150761540704039
+Sentence: elizabeth had the satisfaction of seeing her father taking pains to get acquainted with him ; and mr. bennet soon assured her that he was rising every hour in his esteem .
+Perplexity : 2.3313158574754365
+Sentence: can there be any other opinion on the subject ? ''
+Perplexity : 2.1976350998073206
+Sentence: she cried .
+Perplexity : 1.7387054385861724
+Sentence: `` your friend performs delightfully ; '' he continued after a pause , on seeing bingley join the group ; `` and i doubt not that you are an adept in the science yourself , mr .
+Perplexity : 2.0687538133978274
+Sentence: what is it about ?
+Perplexity : 2.4945434407195752
+Sentence: how does georgiana get on , darcy ? ''
+Perplexity : 1.9436924183237159
+Sentence: what do you think has happened this morning ?
+Perplexity : 2.287978678808779
+Sentence: if , as i conclude will be the case , you send me full powers to act in your name , throughout the whole of this business , i will immediately give directions to haggerston for preparing a proper settlement .
+Perplexity : 1.9790226088126264
+Sentence: `` you must give me leave to flatter myself , my dear cousin , that your refusal of my addresses is merely words of course .
+Perplexity : 2.1418943445064342
+Sentence: i am glad it occurred to me to mention it ; for it would really be discreditable to you to let them go alone . ''
+Perplexity : 2.2003611253049113
+Sentence: i am not ashamed of having been mistaken or , at least , it is slight , it is nothing in comparison of what i should feel in thinking ill of him or his sisters .
+Perplexity : 2.351251038761147
+Sentence: i see nothing in it but your own wilful ignorance and the malice of mr .
+Perplexity : 1.9609129130623508
+Sentence: she was resolved against any sort of conversation with him , and turned away with a degree of ill humour , which she could not wholly surmount even in speaking to mr. bingley , whose blind partiality provoked her .
+Perplexity : 2.178572414285664
+Sentence: you and papa , and my sisters , must come down and see us .
+Perplexity : 2.292012297084629
+Sentence: if she heard me , it was by good luck , for i am sure she did not listen .
+Perplexity : 2.5177018293479176
+Sentence: miss bingley was engrossed by mr. darcy , her sister scarcely less so ; and as for mr. hurst , by whom elizabeth sat , he was an indolent man , who lived only to eat , drink , and play at cards , who when he found her prefer a plain dish to a ragout , had nothing to say to her .
+Perplexity : 2.195409394703049
+Sentence: she will be down in a moment i dare say . ''
+Perplexity : 2.3350818904637634
+Sentence: `` not that i shall though , '' she added to herself , as she finished the letter ; `` and my dear aunt , if you do not tell me in an honourable manner , i shall certainly be reduced to tricks and stratagems to find it out . ''
+Perplexity : 2.4079118265662602
+Sentence: he wisely resolved to be particularly careful that no sign of admiration should now escape him , nothing that could elevate her with the hope of influencing his felicity ; sensible that if such an idea had been suggested , his behaviour during the last day must have material weight in confirming or crushing it .
+Perplexity : 1.8976543200672218
+Sentence: they went to the library , therefore , and asked their father , whether he would not wish them to make it known to her .
+Perplexity : 2.374574956639442
+Sentence: he now seated himself by her , and talked so agreeably of kent and hertfordshire , of travelling and staying at home , of new books and music , that elizabeth had never been half so well entertained in that room before ; and they conversed with so much spirit and flow , as to draw the attention of lady catherine herself , as well as of mr. darcy .
+Perplexity : 2.15976679224551
+Sentence: pray apologise for my having disliked him so much before .
+Perplexity : 1.9219767749565606
+Sentence: elizabeth , however , had never been blind to the impropriety of her father 's behaviour as a husband .
+Perplexity : 2.268131416623597
+Sentence: you must , therefore , pardon the freedom with which i demand your attention ; your feelings , i know , will bestow it unwillingly , but i demand it of your justice .
+Perplexity : 2.1077056724456718
+Sentence: `` these are heavy misfortunes , '' replied elizabeth .
+Perplexity : 1.878631243731352
+Sentence: she did not fear her father 's opposition , but he was going to be made unhappy , and that it should be through her means , that she , his favourite child , should be distressing him by her choice , should be filling him with fears and regrets in disposing of her , was a wretched reflection , and she sat in misery till mr. darcy appeared again , when , looking at him , she was a little relieved by his smile .
+Perplexity : 2.3831580516709003
+Sentence: she was ashamed to think how much .
+Perplexity : 2.4321533283640604
+Sentence: `` lizzy is only headstrong in such matters as these .
+Perplexity : 1.7997233689108019
+Sentence: `` i am not afraid of you , '' said he , smilingly .
+Perplexity : 2.3694466262647267
+Sentence: but jane knows , as well as i do , what wickham really is .
+Perplexity : 2.594847886977382
+Sentence: there was no one therefore who could be pointed out , as likely to give any news of him .
+Perplexity : 2.438847449839747
+Sentence: but it ended in nothing , and i will not be sent on a fool 's errand again . ''
+Perplexity : 2.138316402538085
+Sentence: let me take it in the best light , in the light in which it may be understood . ''
+Perplexity : 2.300148592352468
+Sentence: elizabeth hoped she had silenced him ; but he soon afterwards said , '' i was surprised to see darcy in town last month .
+Perplexity : 2.296794171173126
+Sentence: `` a place too , with which so many of your acquaintance are connected .
+Perplexity : 2.2682463951413383
+Sentence: their lodgings were not long a secret , and at length they began to know the officers themselves .
+Perplexity : 2.244925444871107
+Sentence: he did look at it and into it for half an hour , was pleased with the situation and the principal rooms , satisfied with what the owner said in its praise , and took it immediately .
+Perplexity : 2.0446617704544905
+Sentence: elizabeth soon perceived that though this great lady was not in the commission of the peace for the county , she was a most active magistrate in her own parish , the minutest concerns of which were carried to her by mr. collins ; and whenever any of the cottagers were disposed to be quarrelsome , discontented or too poor , she sallied forth into the village to settle their differences , silence their complaints , and scold them into harmony and plenty .
+Perplexity : 1.9246843934698954
+Sentence: but from the severity of that blame which was last night so liberally bestowed , respecting each circumstance , i shall hope to be in future secured , when the following account of my actions and their motives has been read .
+Perplexity : 1.9789590985319783
+Sentence: you had much better dance . ''
+Perplexity : 2.2693620294802384
+Sentence: in spite of her deeply rooted dislike , she could not be insensible to the compliment of such a man 's affection , and though her intentions did not vary for an instant , she was at first sorry for the pain he was to receive ; till , roused to resentment by his subsequent language , she lost all compassion in anger .
+Perplexity : 2.047872769909907
+Sentence: mrs. gardiner and elizabeth talked of all that had occurred , during their visit , as they returned , except what had particularly interested them both .
+Perplexity : 2.2115637112817392
+Sentence: the bride and her mother could neither of them talk fast enough ; and wickham , who happened to sit near elizabeth , began enquiring after his acquaintance in that neighbourhood , with a good humoured ease , which she felt very unable to equal in her replies .
+Perplexity : 2.141592157141132
+Sentence: i can not do justice to his kindness .
+Perplexity : 2.4843706167213524
+Sentence: every sentence of kindness was a fresh source of happiness to jane .
+Perplexity : 1.9350850306751146
+Sentence: there is in every thing a most remarkable resemblance of character and ideas between us .
+Perplexity : 2.1305983403626163
+Sentence: it was generally evident whenever they met , that he did admire her ; and to her it was equally evident that jane was yielding to the preference which she had begun to entertain for him from the first , and was in a way to be very much in love ; but she considered with pleasure that it was not likely to be discovered by the world in general , since jane united with great strength of feeling , a composure of temper and a uniform cheerfulness of manner , which would guard her from the suspicions of the impertinent .
+Perplexity : 2.2280021917386126
+Sentence: how mr. darcy looked , therefore , she could not tell .
+Perplexity : 2.3099770189220417
+Sentence: they were soon gone again , rising from their seats with an activity which took their brother by surprise , and hurrying off as if eager to escape from mrs. bennet 's civilities .
+Perplexity : 1.9779196138618271
+Sentence: elizabeth could safely say that it was a great happiness where that was the case , and with equal sincerity could add that she firmly believed and rejoiced in his domestic comforts .
+Perplexity : 2.0574535453286784
+Sentence: he is a gentleman ; i am a gentleman 's daughter ; so far we are equal . ''
+Perplexity : 2.251051240322574
+Sentence: mr. bennet had very often wished , before this period of his life , that , instead of spending his whole income , he had laid by an annual sum , for the better provision of his children , and of his wife , if she survived him .
+Perplexity : 2.3203405607471477
+Sentence: `` if we are ever able to learn what wickham 's debts have been , '' said elizabeth , `` and how much is settled on his side on our sister , we shall exactly know what mr. gardiner has done for them , because wickham has not sixpence of his own .
+Perplexity : 2.378972399265472
+Sentence: the paling of rosings park was their boundary on one side .
+Perplexity : 1.7574847766119497
+Sentence: i am sure we owe him no such particular civility as to be obliged to say nothing he may not like to hear . ''
+Perplexity : 2.2653566228172926
+Sentence: your uncle is as much surprised as i am and nothing but the belief of your being a party concerned , would have allowed him to act as he has done .
+Perplexity : 2.4014832755906768
+Sentence: how could she deny that credit to his assertions , in one instance , which she had been obliged to give in the other ?
+Perplexity : 2.3850556241427197
+Sentence: people who suffer as i do from nervous complaints can have no great inclination for talking .
+Perplexity : 1.9955167775753593
+Sentence: she found it difficult to obtain even a word from her beyond a monosyllable .
+Perplexity : 2.0500611308917023
+Sentence: `` eliza bennet , '' said miss bingley , when the door was closed on her , `` is one of those young ladies who seek to recommend themselves to the other sex , by undervaluing their own ; and with many men , i dare say , it succeeds .
+Perplexity : 2.283843977741645
+Sentence: elizabeth 's eyes were fixed on her with most painful sensations ; and she watched her progress through the several stanzas with an impatience which was very ill rewarded at their close ; for mary , on receiving amongst the thanks of the table , the hint of a hope that she might be prevailed on to favour them again , after the pause of half a minute began another .
+Perplexity : 2.090053482487824
+Sentence: elizabeth immediately began playing again .
+Perplexity : 1.6337422634031185
+Sentence: that his two sisters and mr. darcy , however , should have such an opportunity of ridiculing her relations was bad enough , and she could not determine whether the silent contempt of the gentleman , or the insolent smiles of the ladies , were more intolerable .
+Perplexity : 2.1775093589301364
+Sentence: and what sort of table do they keep ?
+Perplexity : 1.9412168190139503
+Sentence: the tumult of her mind was now painfully great .
+Perplexity : 1.9247541028820538
+Sentence: `` having thus offered you the sincere congratulations of mrs. collins and myself on this happy event , let me now add a short hint on the subject of another : of which we have been advertised by the same authority .
+Perplexity : 1.9372546503268164
+Sentence: during dinner , mr. bennet scarcely spoke at all ; but when the servants were withdrawn , he thought it time to have some conversation with his guest , and therefore started a subject in which he expected him to shine , by observing that he seemed very fortunate in his patroness .
+Perplexity : 2.14692775949359
+Sentence: `` no , i believe not . ''
+Perplexity : 2.34328661477813
+Sentence: he was too happy , however , to need much attention ; and luckily for the others , the business of love making relieved them from a great deal of his company .
+Perplexity : 2.147019221115333
+Sentence: i know not what to think .
+Perplexity : 2.9506370590925166
+Sentence: but , however , he is very welcome to come to netherfield , if he likes it .
+Perplexity : 2.4246433691403255
+Sentence: `` you are too hasty , sir , '' she cried .
+Perplexity : 2.2691627057555794
+Sentence: had i been in love , i could not have been more wretchedly blind .
+Perplexity : 2.6447265034745118
+Sentence: if you were sensible of your own good , you would not wish to quit the sphere , in which you have been brought up . ''
+Perplexity : 2.496490661676533
+Sentence: and with no one to speak to , of what i felt , no jane to comfort me and say that i had not been so very weak and vain and nonsensical as i knew i had !
+Perplexity : 2.4668306991696674
+Sentence: his attachment excited gratitude , his general character respect ; but she could not approve him ; nor could she for a moment repent her refusal , or feel the slightest inclination ever to see him again .
+Perplexity : 2.0093642089569115
+Sentence: they were off saturday night about twelve , as is conjectured , but were not missed till yesterday morning at eight .
+Perplexity : 2.0459412397821723
+Sentence: she repeated .
+Perplexity : 1.7397400744638627
+Sentence: i assure you , that i have long been most heartily ashamed of it . ''
+Perplexity : 2.2598814409696732
+Sentence: you need not .
+Perplexity : 2.061403096456301
+Sentence: i have been a disappointed man , and my spirits will not bear solitude .
+Perplexity : 2.344394550326333
+Sentence: so much the man of fashion !
+Perplexity : 2.68178345087566
+Sentence: they were certainly no friends to his acquaintance with me , which i can not wonder at , since he might have chosen so much more advantageously in many respects .
+Perplexity : 2.281288298803221
+Sentence: their reception from mr. bennet , to whom they then turned , was not quite so cordial .
+Perplexity : 2.3022035153837868
+Sentence: on mr. and mrs. gardiner 's coming up , they were all pressed to go into the house and take some refreshment ; but this was declined , and they parted on each side with the utmost politeness .
+Perplexity : 2.116953188366007
+Sentence: it was not known that wickham had a single relation , with whom he kept up any connection , and it was certain that he had no near one living .
+Perplexity : 2.3069570559725454
+Sentence: it is really too great a violation of decency , honour , and interest , for him to be guilty of it .
+Perplexity : 2.104581317271748
+Sentence: `` there is some sense in what he says about the girls however ; and if he is disposed to make them any amends , i shall not be the person to discourage him . ''
+Perplexity : 2.2493679614141793
+Sentence: but , alas !
+Perplexity : 1.691043266643996
+Sentence: `` my dearest sister , now be be serious .
+Perplexity : 2.2440855214458972
+Sentence: she practises very constantly . ''
+Perplexity : 1.5140583888745887
+Sentence: her daughter endeavoured to convince her of what she did not believe herself , that his attentions to jane had been merely the effect of a common and transient liking , which ceased when he saw her no more ; but though the probability of the statement was admitted at the time , she had the same story to repeat every day .
+Perplexity : 2.23292224908708
+Sentence: mr. hurst had therefore nothing to do , but to stretch himself on one of the sophas and go to sleep .
+Perplexity : 2.241115867009499
+Sentence: she expressed her gratitude again , but it was too painful a subject to each , to be dwelt on farther .
+Perplexity : 2.228089865230363
+Sentence: and upon elizabeth 's seeming really , with vexed and embarrassed looks , about to escape , she added , `` lizzy , i insist upon your staying and hearing mr .
+Perplexity : 1.8914303918324584
+Sentence: no sentiment of shame gave a damp to her triumph .
+Perplexity : 1.7384502297715287
+Sentence: i shall not be able to keep you and so i warn you .
+Perplexity : 2.258601591917416
+Sentence: i know my own strength , and i shall never be embarrassed again by his coming .
+Perplexity : 2.466272875706118
+Sentence: lydia talked incessantly of lottery tickets , of the fish she had lost and the fish she had won , and mr. collins , in describing the civility of mr. and mrs. philips , protesting that he did not in the least regard his losses at whist , enumerating all the dishes at supper , and repeatedly fearing that he crouded his cousins , had more to say than he could well manage before the carriage stopped at longbourn house .
+Perplexity : 1.9725324571199323
+Sentence: my uncle ! ''
+Perplexity : 2.523566797643076
+Sentence: the very first sentence conveyed the assurance of their being all settled in london for the winter , and concluded with her brother 's regret at not having had time to pay his respects to his friends in hertfordshire before he left the country .
+Perplexity : 1.9817568877689393
+Sentence: mr. collins has made an offer to lizzy , and she will not have him . ''
+Perplexity : 2.734778061115346
+Sentence: perhaps this concealment , this disguise , was beneath me .
+Perplexity : 1.5980894002940147
+Sentence: this was spoken jestingly , but it appeared to her so just a picture of mr. darcy , that she would not trust herself with an answer ; and , therefore , abruptly changing the conversation , talked on indifferent matters till they reached the parsonage .
+Perplexity : 2.1125566006418572
+Sentence: we must trespass a little longer on your kindness . ''
+Perplexity : 1.8487975312852154
+Sentence: he observed to her , at a moment when the others were talking together , and in a tone which had something of real regret , that it `` was a very long time since he had had the pleasure of seeing her ; '' and , before she could reply , he added , `` it is above eight months .
+Perplexity : 2.523685351531053
+Sentence: i am not to be intimidated into anything so wholly unreasonable .
+Perplexity : 2.0392707432482466
+Sentence: i am not afraid of being overpowered by the impression .
+Perplexity : 1.9872474604718864
+Sentence: `` the letter shall certainly be burnt , if you believe it essential to the preservation of my regard ; but , though we have both reason to think my opinions not entirely unalterable , they are not , i hope , quite so easily changed as that implies . ''
+Perplexity : 2.1823466761631285
+Sentence: `` she is a great fool for going away , if she liked him . ''
+Perplexity : 2.1727312933566125
+Sentence: `` no , '' replied jane , `` i have not forgotten him ; but i have nothing satisfactory to tell you .
+Perplexity : 2.4468172133054362
+Sentence: and it was settled that we should all be there by eleven o'clock .
+Perplexity : 1.9340262401354718
+Sentence: i guessed as much . ''
+Perplexity : 2.2230275799399974
+Sentence: it is very hard to think that she might have been mr. collins 's wife by this time , had not it been for her own perverseness .
+Perplexity : 2.619117176103848
+Sentence: my temper would perhaps be called resentful .
+Perplexity : 1.8675526257703012
+Sentence: the necessity must be obeyed and farther apology would be absurd .
+Perplexity : 1.785109965837123
+Sentence: my dear mr. bennet , '' cried his wife , `` what are you talking of ?
+Perplexity : 2.542950207005248
+Sentence: i have suspected it some time , but i am now convinced . ''
+Perplexity : 2.2419574326888845
+Sentence: mrs. collins welcomed her friend with the liveliest pleasure , and elizabeth was more and more satisfied with coming , when she found herself so affectionately received .
+Perplexity : 2.215190624960118
+Sentence: elizabeth , to whom jane very soon communicated the chief of all this , heard it in silent indignation .
+Perplexity : 2.1515228024035196
+Sentence: he addressed himself directly to miss bennet , with a polite congratulation ; mr. hurst also made her a slight bow , and said he was `` very glad ; '' but diffuseness and warmth remained for bingley 's salutation .
+Perplexity : 2.099632561052568
+Sentence: `` i suspected as much , '' replied elizabeth .
+Perplexity : 2.3784510960948904
+Sentence: in consequence of an agreement between the sisters , elizabeth wrote the next morning to her mother , to beg that the carriage might be sent for them in the course of the day .
+Perplexity : 2.224353858314945
+Sentence: mrs. long said so too , for i asked her whether you did not .
+Perplexity : 2.4345844801862198
+Sentence: she was even sensible of some pleasure , though mixed with regret , on finding how steadfastly both she and her uncle had been persuaded that affection and confidence subsisted between mr. darcy and herself .
+Perplexity : 1.9897397592779815
+Sentence: `` aye , there she comes , '' continued mrs. bennet , `` looking as unconcerned as may be , and caring no more for us than if we were at york , provided she can have her own way .
+Perplexity : 2.1029738355299674
+Sentence: you will not be fit to be seen when you get there . ''
+Perplexity : 2.1573747358638915
+Sentence: `` if !
+Perplexity : 5.233476606356179
+Sentence: from the drawing room they could distinguish nothing in the lane , and were indebted to mr. collins for the knowledge of what carriages went along , and how often especially miss de bourgh drove by in her phaeton , which he never failed coming to inform them of , though it happened almost every day .
+Perplexity : 2.0614792755628266
+Sentence: `` you must decide for yourself , '' said elizabeth , `` and if upon mature deliberation , you find that the misery of disobliging his two sisters is more than equivalent to the happiness of being his wife , i advise you by all means to refuse him . ''
+Perplexity : 2.2089786652462045
+Sentence: nothing that she could say , however , had any influence .
+Perplexity : 2.573152578132755
+Sentence: we have judged it best , that my niece should be married from this house , of which i hope you will approve .
+Perplexity : 2.4287091239024434
+Sentence: but in an instant arose the dreadful suspicion of his being purposely omitted for mr. darcy 's pleasure in the bingleys ' invitation to the officers ; and though this was not exactly the case , the absolute fact of his absence was pronounced by his friend mr. denny , to whom lydia eagerly applied , and who told them that wickham had been obliged to go to town on business the day before , and was not yet returned ; adding , with a significant smile , '' i do not imagine his business would have called him away just now , if he had not wished to avoid a certain gentleman here . ''
+Perplexity : 2.1685786502248474
+Sentence: jane should therefore make the most of every half hour in which she can command his attention .
+Perplexity : 2.0954073176161008
+Sentence: `` in marrying your nephew , i should not consider myself as quitting that sphere .
+Perplexity : 2.038926860859038
+Sentence: you thought the waiter must not hear , as if he cared !
+Perplexity : 2.1656535015378506
+Sentence: my aunt philips came to longbourn on tuesday , after my father went away ; and was so good as to stay till thursday with me .
+Perplexity : 2.3166163000482527
+Sentence: her dirty petticoat quite escaped my notice . ''
+Perplexity : 1.5231919516574872
+Sentence: he said as little as he had ever been in the habit of saying ; made no mention of the business that had taken him away , and it was some time before his daughters had courage to speak of it .
+Perplexity : 2.363247955968221
+Sentence: presuming , however , that this studied avoidance spoke rather a momentary embarrassment , than any dislike of the proposal , and seeing in her husband , who was fond of society , a perfect willingness to accept it , she ventured to engage for her attendance , and the day after the next was fixed on .
+Perplexity : 2.0899379990023164
+Sentence: jane had sent caroline an early answer to her letter , and was counting the days till she might reasonably hope to hear again .
+Perplexity : 2.0764101137221513
+Sentence: ring the bell , kitty , for hill .
+Perplexity : 2.0669194756716167
+Sentence: elizabeth thanked him from her heart , and then walked towards a table where a few books were lying .
+Perplexity : 1.9638231788124354
+Sentence: i can not blame myself for having done thus much .
+Perplexity : 1.9179945174922266
+Sentence: `` miss elizabeth bennet ! ''
+Perplexity : 2.122198598776381
+Sentence: any place would do , of about three or four hundred a year ; but , however , do not speak to mr. darcy about it , if you had rather not .
+Perplexity : 2.5045161857204152
+Sentence: with respect to that other , more weighty accusation , of having injured mr. wickham , i can only refute it by laying before you the whole of his connection with my family .
+Perplexity : 2.1138971450755775
+Sentence: she attracted him more than he liked and miss bingley was uncivil to her , and more teazing than usual to himself .
+Perplexity : 2.233199324677947
+Sentence: dearest lizzy , i hardly know what i would write , but i have bad news for you , and it can not be delayed .
+Perplexity : 2.5321751827035746
+Sentence: he was directly invited to join their party , but he declined it , observing , that he could imagine but two motives for their chusing to walk up and down the room together , with either of which motives his joining them would interfere .
+Perplexity : 2.0486731846114163
+Sentence: now is your time .
+Perplexity : 2.266179878708484
+Sentence: my good opinion once lost is lost for ever . ''
+Perplexity : 1.7948514635754698
+Sentence: are you out of your senses , to be accepting this man ?
+Perplexity : 2.006667752494115
+Sentence: `` the present always occupies you in such scenes does it ? ''
+Perplexity : 1.8806468748778735
+Sentence: `` oh yes !
+Perplexity : 2.6265606873849485
+Sentence: `` you are then resolved to have him ? ''
+Perplexity : 2.5372338902263016
+Sentence: generous , good man , i am afraid he has distressed himself .
+Perplexity : 2.129915760856535
+Sentence: but to be sure , the good lady who shewed us the house , did give him a most flaming character !
+Perplexity : 2.168787989243005
+Sentence: i always say that nothing is to be done in education without steady and regular instruction , and nobody but a governess can give it .
+Perplexity : 1.960897936329002
+Sentence: he then recollected her embarrassment a few days before , on his reading mr. collins 's letter ; and after laughing at her some time , allowed her at last to go saying , as she quitted the room , `` if any young men come for mary or kitty , send them in , for i am quite at leisure . ''
+Perplexity : 2.247102617559654
+Sentence: `` lizzy , '' said her father , `` i have given him my consent .
+Perplexity : 2.451747032375041
+Sentence: to all the objections i have already urged , i have still another to add .
+Perplexity : 2.0019923094068166
+Sentence: she had been unwilling to mention bingley ; and the unsettled state of her own feelings had made her equally avoid the name of his friend .
+Perplexity : 2.137652428015498
+Sentence: do you know mr .
+Perplexity : 2.529405714746672
+Sentence: the death of your daughter would have been a blessing in comparison of this .
+Perplexity : 2.346469343091193
+Sentence: she talked on , therefore , without interruption from any of them till they were joined by mr. collins , who entered with an air more stately than usual , and on perceiving whom , she said to the girls , '' now , i do insist upon it , that you , all of you , hold your tongues , and let mr. collins and me have a little conversation together . ''
+Perplexity : 2.3695325078062717
+Sentence: it is such a spur to one 's genius , such an opening for wit to have a dislike of that kind .
+Perplexity : 2.111722843459957
+Sentence: she felt it so ; and though , in looking forward , neither rational happiness nor worldly prosperity , could be justly expected for her sister ; in looking back to what they had feared , only two hours ago , she felt all the advantages of what they had gained .
+Perplexity : 2.113791659067658
+Sentence: her figure was elegant , and she walked well ; but darcy , at whom it was all aimed , was still inflexibly studious .
+Perplexity : 2.322349821100246
+Sentence: `` whatever i do is done in a hurry , '' replied he ; `` and therefore if i should resolve to quit netherfield , i should probably be off in five minutes .
+Perplexity : 2.2044760694132672
+Sentence: with no expectation of pleasure , but with the strongest curiosity , elizabeth opened the letter , and to her still increasing wonder , perceived an envelope containing two sheets of letter paper , written quite through , in a very close hand .
+Perplexity : 2.0980628247361066
+Sentence: `` perhaps , '' said darcy , `` i should have judged better , had i sought an introduction , but i am ill qualified to recommend myself to strangers . ''
+Perplexity : 2.2264307179845213
+Sentence: `` nor i , i am sure , '' said miss bingley .
+Perplexity : 2.2809021131648235
+Sentence: i had narrowly observed her during the two visits which i had lately made her here ; and i was convinced of her affection . ''
+Perplexity : 2.228472740804939
+Sentence: catherine , weak spirited , irritable , and completely under lydia 's guidance , had been always affronted by their advice ; and lydia , self willed and careless , would scarcely give them a hearing .
+Perplexity : 1.8278377407922166
+Sentence: she had only to say in reply , that they had wandered about , till she was beyond her own knowledge .
+Perplexity : 2.495043459892557
+Sentence: `` i hope , my dear , '' said mr. bennet to his wife , as they were at breakfast the next morning , `` that you have ordered a good dinner to day , because i have reason to expect an addition to our family party . ''
+Perplexity : 2.326513420661747
+Sentence: cried he , with more feeling than politeness ; then recollecting himself , `` i will not detain you a minute , but let me , or let the servant , go after mr. and mrs. gardiner .
+Perplexity : 2.1971154395157195
+Sentence: `` i am , '' said he , with a firm voice .
+Perplexity : 2.4370321681788627
+Sentence: let me recommend you , however , as a friend , not to give implicit confidence to all his assertions ; for as to mr. darcy 's using him ill , it is perfectly false ; for , on the contrary , he has been always remarkably kind to him , though george wickham has treated mr. darcy in a most infamous manner .
+Perplexity : 2.296336138544236
+Sentence: it distressed her a little , and she was quite glad to find herself at the gate in the pales opposite the parsonage .
+Perplexity : 2.131663862870201
+Sentence: while the family were in this confusion , charlotte lucas came to spend the day with them .
+Perplexity : 2.1508287671311317
+Sentence: your retrospections must be so totally void of reproach , that the contentment arising from them , is not of philosophy , but what is much better , of ignorance .
+Perplexity : 2.2934139298726137
+Sentence: mrs. long told me last night that he sat close to her for half an hour without once opening his lips . ''
+Perplexity : 2.0644549546901465
+Sentence: he has the promise of an ensigncy in general 's regiment , now quartered in the north .
+Perplexity : 1.9675285160225735
+Sentence: believe her to be deceived by all means .
+Perplexity : 1.9560444951728435
+Sentence: the picturesque would be spoilt by admitting a fourth .
+Perplexity : 1.5795930312443027
+Sentence: it was a large , handsome , stone building , standing well on rising ground , and backed by a ridge of high woody hills ; and in front , a stream of some natural importance was swelled into greater , but without any artificial appearance .
+Perplexity : 1.777481391580926
+Sentence: after pausing on this point a considerable while , she once more continued to read .
+Perplexity : 1.9325877697994631
+Sentence: no one but mrs. bennet , regretted that their stay would be so short ; and she made the most of the time , by visiting about with her daughter , and having very frequent parties at home .
+Perplexity : 2.3522419083568296
+Sentence: reflection must be reserved for solitary hours ; whenever she was alone , she gave way to it as the greatest relief ; and not a day went by without a solitary walk , in which she might indulge in all the delight of unpleasant recollections .
+Perplexity : 2.2235669951749473
+Sentence: `` nay , '' said elizabeth , `` this is not fair .
+Perplexity : 2.554131278104058
+Sentence: such i was , from eight to eight and twenty ; and such i might still have been but for you , dearest , loveliest elizabeth !
+Perplexity : 2.3022911285646157
+Sentence: absence had increased her desire of seeing charlotte again , and weakened her disgust of mr. collins .
+Perplexity : 1.9649126182710883
+Sentence: thank god !
+Perplexity : 1.7225480304397078
+Sentence: `` i do not know .
+Perplexity : 2.8295014655686854
+Sentence: she wished him to know that she had been assured of his absence before she came to the place , and accordingly began by observing , that his arrival had been very unexpected `` for your housekeeper , '' she added , `` informed us that you would certainly not be here till to morrow ; and indeed , before we left bakewell , we understood that you were not immediately expected in the country . ''
+Perplexity : 2.2851412723813116
+Sentence: his debts are to be paid , amounting , i believe , to considerably more than a thousand pounds , another thousand in addition to her own settled upon her , and his commission purchased .
+Perplexity : 2.136091878022525
+Sentence: remember that she is one of a large family ; that as to fortune , it is a most eligible match ; and be ready to believe , for every body 's sake , that she may feel something like regard and esteem for our cousin . ''
+Perplexity : 2.3350013727323433
+Sentence: `` all !
+Perplexity : 1.7225480304397078
+Sentence: miss de bourgh was pale and sickly ; her features , though not plain , were insignificant ; and she spoke very little , except in a low voice , to mrs. jenkinson , in whose appearance there was nothing remarkable , and who was entirely engaged in listening to what she said , and placing a screen in the proper direction before her eyes .
+Perplexity : 2.062198062179069
+Sentence: that among his own connections he was esteemed and valued that even wickham had allowed him merit as a brother , and that she had often heard him speak so affectionately of his sister as to prove him capable of some amiable feeling .
+Perplexity : 2.0885067872977467
+Sentence: elizabeth , who knew this to be levelled at mr. darcy , was in such misery of shame , that she could hardly keep her seat .
+Perplexity : 2.2506584309124253
+Sentence: i wonder who first discovered the efficacy of poetry in driving away love ! ''
+Perplexity : 1.6236530990520561
+Sentence: now be sincere ; did you admire me for my impertinence ? ''
+Perplexity : 1.8300648362421195
+Sentence: `` we are not in a way to know what mr. bingley likes , '' said her mother resentfully , `` since we are not to visit . ''
+Perplexity : 2.551365175903375
+Sentence: said he , smiling .
+Perplexity : 1.7528478847321614
+Sentence: my uncle and aunt and i were to go together ; and the others were to meet us at the church .
+Perplexity : 2.373755265054646
+Sentence: everything wore a happier aspect .
+Perplexity : 1.516575137469152
+Sentence: the day passed most pleasantly away ; the morning in bustle and shopping , and the evening at one of the theatres .
+Perplexity : 2.0950993444074713
+Sentence: i could hardly keep my countenance .
+Perplexity : 1.9694987076314094
+Sentence: `` la ! ''
+Perplexity : 1.988637394385639
+Sentence: but , on second thoughts , perhaps lizzy could tell us , what relations he has now living , better than any other person . ''
+Perplexity : 2.1028292965991113
+Sentence: it was more than civil ; it was really attentive ; and there was no necessity for such attention .
+Perplexity : 2.441205354121952
+Sentence: it was a painful , but not an improbable , conjecture .
+Perplexity : 2.292138016327238
+Sentence: a thousand things may arise in six months ! ''
+Perplexity : 1.761822036370827
+Sentence: `` i am sorry you think so ; but if that be the case , there can at least be no want of subject .
+Perplexity : 2.311735285339489
+Sentence: darcy made no answer , and seemed desirous of changing the subject .
+Perplexity : 2.079622314148284
+Sentence: mrs. bennet , in short , was in very great spirits ; she had seen enough of bingley 's behaviour to jane , to be convinced that she would get him at last ; and her expectations of advantage to her family , when in a happy humour , were so far beyond reason , that she was quite disappointed at not seeing him there again the next day , to make his proposals .
+Perplexity : 2.4801947614518522
+Sentence: but i suppose you had no opportunity .
+Perplexity : 2.531228257430195
+Sentence: `` complied with !
+Perplexity : 1.733813614343238
+Sentence: i do n't know .
+Perplexity : 1.7198074985336838
+Sentence: i owe all that i know of it , to another , not to you . ''
+Perplexity : 2.995583160980563
+Sentence: however , he wrote some verses on her , and very pretty they were . ''
+Perplexity : 2.467713677162092
+Sentence: my good , kind brother !
+Perplexity : 2.003999820821928
+Sentence: <s> oh !
+Perplexity : 1.6316051521173087
+Sentence: give my love to colonel forster , i hope you will drink to our good journey .
+Perplexity : 2.0249428296502563
+Sentence: only let me assure you , my dear miss elizabeth , that i can from my heart most cordially wish you equal felicity in marriage .
+Perplexity : 2.3187374788852786
+Sentence: how could his will be disregarded ?
+Perplexity : 2.090643724633947
+Sentence: having said thus much , i feel no doubt of your secrecy .
+Perplexity : 1.9966032200334638
+Sentence: she wished , she feared that the master of the house might be amongst them ; and whether she wished or feared it most , she could scarcely determine .
+Perplexity : 2.16071837649201
+Sentence: i am only distressed by some dreadful news which i have just received from longbourn . ''
+Perplexity : 2.198341007340468
+Sentence: a deeper shade of hauteur overspread his features , but he said not a word , and elizabeth , though blaming herself for her own weakness , could not go on .
+Perplexity : 2.149592684495349
+Sentence: all elizabeth 's anger against him had been long done away ; but , had she still felt any , it could hardly have stood its ground against the unaffected cordiality with which he expressed himself , on seeing her again .
+Perplexity : 2.201299831180347
+Sentence: her coming there was the most unfortunate , the most ill judged thing in the world !
+Perplexity : 2.4626635503454426
+Sentence: said she .
+Perplexity : 5.167195034982017
+Sentence: who attended to you ?
+Perplexity : 2.4416731945566634
+Sentence: heaven and earth !
+Perplexity : 1.4599453299627838
+Sentence: cried lydia .
+Perplexity : 1.7387054385861724
+Sentence: many of his expressions were still fresh in her memory .
+Perplexity : 1.9604841801710728
+Sentence: dear me !
+Perplexity : 1.7225480304397078
+Sentence: stay , stay , i will go myself .
+Perplexity : 2.452840160452255
+Sentence: elizabeth was in agonies .
+Perplexity : 2.444605805531211
+Sentence: the fishing scheme had been renewed the day before , and a positive engagement made of his meeting some of the gentlemen at pemberley by noon .
+Perplexity : 2.0460290155698035
+Sentence: she answered with equal indifference and brevity , and the other said no more .
+Perplexity : 2.192623782485582
+Sentence: you know not what you are about . ''
+Perplexity : 2.5118241851772924
+Sentence: with assumed tranquillity he then replied , `` i have no wish of denying that i did every thing in my power to separate my friend from your sister , or that i rejoice in my success .
+Perplexity : 2.215678554205316
+Sentence: it is evident that you belong to the first circles .
+Perplexity : 2.1459890556916568
+Sentence: `` i am sure , '' said she , `` i cried for two days together when colonel millar 's regiment went away .
+Perplexity : 2.0025498575693788
+Sentence: at length , every idea seemed to fail him ; and , after standing a few moments without saying a word , he suddenly recollected himself , and took leave .
+Perplexity : 2.069838183989874
+Sentence: my father began life in the profession which your uncle , mr. philips , appears to do so much credit to but he gave up every thing to be of use to the late mr. darcy , and devoted all his time to the care of the pemberley property .
+Perplexity : 2.2623099435782263
+Sentence: what advantage can it be to you to offend mr. darcy ?
+Perplexity : 2.3063893572564544
+Sentence: `` it will be no use to us , if twenty such should come since you will not visit them . ''
+Perplexity : 2.2796366022199566
+Sentence: the joy which miss darcy expressed on receiving similar information , was as sincere as her brother 's in sending it .
+Perplexity : 2.09428994384239
+Sentence: when convinced on that article , miss bennet had nothing farther to wish .
+Perplexity : 1.9549440185937448
+Sentence: after watching her a little , fitzwilliam asked her why she was so thoughtful .
+Perplexity : 2.1122537286314826
+Sentence: no one made any reply .
+Perplexity : 2.3220704905478735
+Sentence: but mr. gardiner could not be seen , and mr. darcy found , on further enquiry , that your father was still with him , but would quit town the next morning .
+Perplexity : 2.411477902990133
+Sentence: mr. collins 's present circumstances made it a most eligible match for their daughter , to whom they could give little fortune ; and his prospects of future wealth were exceedingly fair .
+Perplexity : 2.0392036826076954
+Sentence: were it known to the rest of my family , i should not have merely my own gratitude to express . ''
+Perplexity : 2.3977857961090554
+Sentence: that would be the greatest misfortune of all !
+Perplexity : 2.3912686203933577
+Sentence: `` oh , lord !
+Perplexity : 2.7115803463117003
+Average Perplexity of the testing sentences: 2.1830365882052636
